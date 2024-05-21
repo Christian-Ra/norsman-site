@@ -1,0 +1,62 @@
+@use "./globals" as *;
+
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set full-screen background image */
+body {
+    /* -moz-background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%; */
+    font-family:
+        Arial Rounded MT Bold,
+        sans-serif;
+    color: #ffffff;
+}
+
+/* .overlay.active {
+  display: block; /* Show the overlay when homebar is opened */
+
+@media screen and (max-width: 768px) {
+    .subheading {
+        transform: translate(5px, 0px);
+    }
+    .small-logo {
+        display: none;
+    }
+    .company-name {
+        font-size: 4em; /* Adjust the font size for smaller screens */
+    }
+
+    .subheading {
+        font-size: 1.25em;
+    }
+
+    .homebar img {
+        max-width: 50%; /* Adjust the logo size for smaller screens */
+    }
+
+    .project-title {
+        font-size: 4em;
+    }
+
+    .project-subheading {
+        font-size: 1.25em;
+    }
+
+    .project-display {
+        grid-template-columns: 1fr; /* Change to a single column */
+    }
+
+    .project-card {
+        width: 100vw;
+    }
+}

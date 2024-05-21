@@ -1,0 +1,86 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set full-screen background image */
+body {
+  /* -moz-background-size: 100% 100%;
+  -webkit-background-size: 100% 100%;
+  background-size: 100% 100%; */
+  font-family: Arial Rounded MT Bold, sans-serif;
+  color: #ffffff;
+}
+
+.main-content {
+  height: 100vh;
+  background-size: cover;
+  background-image: url("../../Project_placeholders_photos/Division-19.jpg");
+  background-repeat: no-repeat;
+  /* background-size: cover; */
+  background-position: center;
+  text-align: center;
+  padding-top: 40vh;
+}
+
+.company-name {
+  font-size: 6em;
+  margin-bottom: 0px;
+}
+
+.subheading {
+  font-size: 1.5em;
+  transform: translate(-25px, -10px);
+}
+
+.portfolio-section {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  background-image: url("../../Project_placeholders_photos/Marias+Seating-125+cc+ws.jpg");
+  background-size: cover;
+}
+
+.project-title {
+  font-size: 6em;
+  color: white;
+}
+
+.project-subheading {
+  font-size: 1.5em;
+}
+
+.project-display {
+  display: grid;
+  grid-template-columns: repeat(3, 2fr);
+  text-align: center;
+  margin-top: 20px;
+}
+
+.project-card {
+  background-color: #f9f9f9;
+  background-image: url("../../Project_placeholders_photos/Feb102011_9690_1_tonemapped.jpg");
+  background-size: cover;
+  height: 50vh;
+  width: 50vw;
+  /* margin: 1px; */
+  margin: 0;
+  padding: 0;
+  /* border-radius: 2px; */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}/*# sourceMappingURL=HomePage.css.map */

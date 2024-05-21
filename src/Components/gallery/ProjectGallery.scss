@@ -1,0 +1,43 @@
+@use "../../globals" as *;
+@use "../../mixins" as *;
+
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(
+        2,
+        1fr
+    ); /* Display 1 image per row on mobile, 2 on standard screens, and 3 on wider screens */
+
+    @include breakpoint-down(medium) {
+        grid-template-columns: 1fr;
+    }
+
+    @include breakpoint-up(xlarge) {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    // gap: 20px;
+    // padding: 20px;
+
+    // @include widescreen {
+    //     grid-template-columns: repeat(3, 3fr);
+    // }
+}
+
+.gallery-item {
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+// @media screen and (max-width: 768px) {
+//     .gallery {
+//         grid-template-columns: 1fr;
+//     }
+// }
+
+// @media screen and (max-width: 1600px) {
+//     .gallery {
+//         grid-template-columns: 3fr;
+//     }
+// }
