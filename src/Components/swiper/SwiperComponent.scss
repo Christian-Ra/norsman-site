@@ -1,0 +1,42 @@
+@use "../../variables" as *;
+@use "../../globals" as *;
+@use "../../mixins" as *;
+
+.swiper {
+    width: 100%;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    background-color: $secondaryColor;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 1000px;
+    @include breakpoint-down(medium) {
+        width: 500px;
+        // height: 300px;
+    }
+    @include breakpoint-down(small) {
+        width: 350px;
+    }
+    height: auto;
+}
+
+.swiper-slide img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 100%;
+    // width: 100%;
+    border-radius: 5px;
+}
+
+.swiper-pagination-bullet {
+    background-color: $white;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: $primaryColor;
+}

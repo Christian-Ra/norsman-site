@@ -1,0 +1,58 @@
+@use "../../variables" as *;
+@use "../../globals" as *;
+@use "../../mixins" as *;
+
+.swiper {
+    width: 100%;
+    height: 60%;
+    padding-top: 82px;
+    padding-bottom: 30px;
+    background-color: $secondaryColor;
+}
+
+.swiper-slide {
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 550px;
+    // @include breakpoint-down(medium) {
+    //     width: 350px;
+    // }
+    height: 60%;
+}
+
+.swiper-slide img {
+    // display: block;
+    right: 50;
+    justify-self: center;
+    width: 63%;
+    height: 20%;
+    border-radius: 5px;
+}
+
+.swiper-pagination-bullet {
+    background-color: $white;
+}
+
+.swiper-pagination-bullet-active {
+    background-color: $primaryColor;
+}
+
+.swiper-button-prev {
+    color: $primaryColor;
+    transform: translate(100px, 0px);
+
+    &:hover {
+        opacity: 50%;
+    }
+}
+
+.swiper-button-next {
+    color: $primaryColor;
+    transform: translate(-100px, 0px);
+    &:hover {
+        opacity: 50%;
+    }
+}

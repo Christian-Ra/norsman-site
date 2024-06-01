@@ -4,8 +4,10 @@ export default function HomePage() {
     return (
         <body>
           <section className='main-content'>
+            <div className="hero-content">
             <h1 className='company-name'>norsman</h1>
             <h2 className='subheading'>Architecture Planning Design</h2>
+            </div>
           </section>
           <div className='portfolio-section' id='project1'>
             <h1 className='project-title'>Maria's</h1>
