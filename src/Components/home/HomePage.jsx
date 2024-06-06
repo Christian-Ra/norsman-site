@@ -5,7 +5,7 @@ import { Projects } from "../../ProjectList"
 export default function HomePage() {
 
     return (
-        <body>
+        <div>
           <section className='main-content'>
             <div className="hero-content">
             <h1 className='company-name'>norsman</h1>
@@ -23,6 +23,6 @@ export default function HomePage() {
               </div>
             ))}
           </div>
-        </body>
+        </div>
     )
 }
