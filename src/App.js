@@ -8,7 +8,7 @@ import About from "./Components/about/About";
 import { Projects } from "./ProjectList";
 
 function App() {
-  const match = useMatch("/projects/:id");
+  const match = useMatch("/norsman-site/projects/:id");
   const project = match
     ? Projects.find((project) => project.id === Number(match.params.id))
     : null;
@@ -17,12 +17,12 @@ function App() {
       <MenuBar />
       <Routes>
         <Route
-          path='/projects/:id'
+          path='/norsman-site/projects/:id'
           element={<ProjectPage project={project} />}
         ></Route>
-        <Route path='/contact' element={<Contact />}></Route>
-        <Route path='/about' element={<About />}></Route>
-        <Route path='/' element={<HomePage />}></Route>
+        <Route path='/norsman-site/contact' element={<Contact />}></Route>
+        <Route path='/norsman-site/about' element={<About />}></Route>
+        <Route path='/norsman-site' element={<HomePage />}></Route>
       </Routes>
     </div>
   );

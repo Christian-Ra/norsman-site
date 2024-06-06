@@ -32,22 +32,22 @@ export default function MenuBar() {
           >
           <ul>
             <li>
-              <Link to='/'>
+              <Link to='/norsman-site'>
                 <img src={logo} alt='norsman' />
               </Link>
             </li>
             <section className="navLinks">
             <li>
-              <Link to='/project'>Projects</Link>
+              <Link to='/norsman-site/project'>Projects</Link>
             </li>
             <li>
-              <Link to='/about'>About Us</Link>
+              <Link to='/norsman-site/about'>About Us</Link>
             </li>
             <li>
-              <Link to='/news'>News</Link>
+              <Link to='/norsman-site/news'>News</Link>
             </li>
             <li>
-              <Link to='/contact'>Contact</Link>
+              <Link to='/norsman-site/contact'>Contact</Link>
             </li>
             </section>
             <section className="footerLinks">
@@ -57,12 +57,12 @@ export default function MenuBar() {
             <li className='footerLink'>
               <a href='https://www.instagram.com/norsman_architects/?hl=en'><InstagramIcon fontSize="30px" className="social-icon"/></a>
               <a href='https://www.facebook.com/NorsmanArchitects/'><FacebookIcon fontSize="30px" className="social-icon"/></a> 
-              <a href='https://www.linkedin.com/in/brent-norsman-5552697/'><LinkedInIcon fontSize="30px" className="social-icon"/></a>
+              <a href='https://www.linkedin.com/company/norsman-architect-led-design-build/'><LinkedInIcon fontSize="30px" className="social-icon"/></a>
             </li>
             </section>
           </ul>
         </nav>
-        <Link to='/' className='small-logo'>
+        <Link to='/norsman-site' className='small-logo'>
             <img src={logo} alt='norsman' />
         </Link>
       </header>
