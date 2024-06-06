@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/norsman-site/static/css/main.41c89108.css",
-    "main.js": "/norsman-site/static/js/main.304e1696.js",
+    "main.js": "/norsman-site/static/js/main.7046e9c9.js",
     "static/media/DSC_0013.jpg": "/norsman-site/static/media/DSC_0013.2a21159adf771e6cffdc.jpg",
     "static/media/Division-19.jpg": "/norsman-site/static/media/Division-19.cf5ad3415515dc30c706.jpg",
     "static/media/Marias+Seating-125+cc+ws.jpg": "/norsman-site/static/media/Marias+Seating-125+cc+ws.b73c918183688887aa20.jpg",
@@ -12,10 +12,10 @@
     "static/media/Interior-18.jpg": "/norsman-site/static/media/Interior-18.b8f76605fd7002fba112.jpg",
     "index.html": "/norsman-site/index.html",
     "main.41c89108.css.map": "/norsman-site/static/css/main.41c89108.css.map",
-    "main.304e1696.js.map": "/norsman-site/static/js/main.304e1696.js.map"
+    "main.7046e9c9.js.map": "/norsman-site/static/js/main.7046e9c9.js.map"
   },
   "entrypoints": [
     "static/css/main.41c89108.css",
-    "static/js/main.304e1696.js"
+    "static/js/main.7046e9c9.js"
   ]
 }
