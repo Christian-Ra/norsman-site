@@ -8,7 +8,6 @@ import CenteredSwiper from "../swiper/CenteredSwiper"
 
 
 import ProjectDescription from "../description/ProjectDescription"
-// import ProjectGallery from "../gallery/ProjectGallery"
 
 export default function ProjectPage ({project}) {
     return (
@@ -22,9 +21,6 @@ export default function ProjectPage ({project}) {
             <section>
                 <ProjectDescription title={project.title} subHeading={project.subheading} />
             </section>
-            {/* <section>
-                <ProjectGallery/>
-            </section> */}
         </div>
     )
 }
