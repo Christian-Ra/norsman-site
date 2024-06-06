@@ -1,6 +1,9 @@
 import "./HomePage.scss"
+import GalleryCard from "../gallery/GalleryCard"
+import { Projects } from "../../ProjectList"
 
 export default function HomePage() {
+
     return (
         <body>
           <section className='main-content'>
@@ -14,31 +17,11 @@ export default function HomePage() {
             <h2 className='project-subheading'>Description</h2>
           </div>
           <div className='project-display'>
-            <div className='project-card'>
-              <h4>Project 1</h4>
-              <p>Project description...</p>
-            </div>
-            <div className='project-card'>
-              <h4>Project 2</h4>
-              <p>Project description...</p>
-            </div>
-            <div className='project-card'>
-              <h4>Project 3</h4>
-              <p>Project description...</p>
-            </div>
-            <div className='project-card'>
-              <h4>Project 4</h4>
-              <p>Project description...</p>
-            </div>
-            <div className='project-card'>
-              <h4>Project 5</h4>
-              <p>Project description...</p>
-            </div>
-            <div className='project-card'>
-              <h4>Project 6</h4>
-              <p>Project description...</p>
-            </div>
-            {/* <!-- Add more project cards as needed --> */}
+            {Projects.map((p) => (
+              <div key={p.id}>
+                <GalleryCard project={p} />
+              </div>
+            ))}
           </div>
         </body>
     )

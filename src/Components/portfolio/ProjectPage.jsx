@@ -8,23 +8,23 @@ import CenteredSwiper from "../swiper/CenteredSwiper"
 
 
 import ProjectDescription from "../description/ProjectDescription"
-import ProjectGallery from "../gallery/ProjectGallery"
+// import ProjectGallery from "../gallery/ProjectGallery"
 
-export default function ProjectPage () {
+export default function ProjectPage ({project}) {
     return (
         <div>
             <section>
-                <CenteredSwiper/>
+                <CenteredSwiper photos={project.photos} />
             {/* <SpaceBetweenSwiper /> */}
             {/* <   SwiperComponent/> */}
             {/* <BlurredSwiper/> */}
             </section>
             <section>
-                <ProjectDescription/>
+                <ProjectDescription title={project.title} subHeading={project.subheading} />
             </section>
-            <section>
+            {/* <section>
                 <ProjectGallery/>
-            </section>
+            </section> */}
         </div>
     )
 }

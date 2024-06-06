@@ -1,5 +1,6 @@
 @use "../../globals" as *;
-@use "../../mixins" as *;
+@use "../../mixins.scss" as *;
+@use "../../variables" as *;
 
 .gallery {
     display: grid;
