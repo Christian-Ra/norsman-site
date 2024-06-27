@@ -1,10 +1,11 @@
 @use "../../globals" as *;
 @use "../../variables" as *;
+@use "../../mixins.scss" as *;
 
 .hamburger {
     position: fixed;
-    top: 0.9375rem;
-    right: 0.9375rem;
+    top: 17px;
+    right: 17px;
     cursor: pointer;
     z-index: 1000;
 
@@ -73,6 +74,9 @@
         left: 2em;
     }
     width: 350px;
+    @include breakpoint-down(medium) {
+        width: 400px;
+    }
     height: 100vh;
     background-color: #b8aca1;
     transition: right 0.3s ease-in-out;
@@ -84,7 +88,7 @@
         align-items: left;
         padding-top: 2em;
         justify-content: space-between;
-        height: 90%;
+        height: 95%;
         list-style-type: none;
         /* padding-bottom: 2em; */
 
@@ -101,11 +105,11 @@
     }
 
     /* Scale the logo to fit within the homebar */
-    img {
+    .homebar-logo {
         max-width: 70%; /* Adjust the value as needed */
         width: 11.25rem;
         height: auto;
-        transform: translate(0px, -53px);
+        transform: translate(0px, -50px);
         margin-bottom: 20px; /* Optional: Add margin to the bottom of the logo */
         &:hover {
             opacity: 80%;
@@ -137,6 +141,13 @@
                 opacity: 50%;
             }
         }
+    }
+
+    .houzzIcon {
+        width: 33.35px;
+        height: 33.35px;
+        transform: translate(0px, -3px);
+        padding-left: 2px;
     }
     display: flex;
     flex-direction: column;

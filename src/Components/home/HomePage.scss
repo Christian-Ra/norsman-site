@@ -19,17 +19,27 @@
 
     .hero-content {
         align-content: center;
+        cursor: default;
     }
 }
 
 .company-name {
-    font-size: 6em;
+    font-size: 12em;
     margin-bottom: 0px;
+    // cursor: default;
+    color: $primaryColor;
+    @include breakpoint-down(small) {
+        font-size: 3em;
+    }
 }
 
 .subheading {
-    font-size: 1.5em;
-    transform: translate(-25px, -10px);
+    font-size: 3em;
+    transform: translate(-60px, -10px);
+    @include breakpoint-down(small) {
+        font-size: 1em;
+        transform: translate(15px, -10px);
+    }
 }
 
 .portfolio-section {

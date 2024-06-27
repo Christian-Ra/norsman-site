@@ -1,13 +1,19 @@
 import React from "react";
 import "./Contact.scss"
+import { motion } from "framer-motion";
 
 export default function Contact () {
 
     return (
+        <motion.div exit={{ opacity: 0 }} class="contact-page">
 
-        <div class="contact-page">
-    <div class="form-container">
-        <form>
+    <div class="contact-container">
+        <h1>Contact Us:</h1>
+        <p>Phone: + 1-773-252-9448</p>
+        <p>Email: info@norsmanarchitects.com</p>
+        <span></span>
+        <p>Address: 1317 N Wood St, Chicago, IL 60622</p>
+        {/* <form>
             <h2 class="form-heading">Business Inquiries</h2>
             <label for="business-name">Name/Company</label>
             <input type="text" id="business-name" name="business-name" required/>
@@ -33,9 +39,9 @@ export default function Contact () {
             <textarea id="employment-resume" name="employment-resume" rows="5" required></textarea>
             
             <button type="submit">Submit</button>
-        </form>
+        </form> */}
     </div>
-</div>
+</motion.div>
     )
 
 }

@@ -1,13 +1,22 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import { BrowserRouter as Router } from "react-router-dom";
+import { RouterProvider, createBrowserRouter } from "react-router-dom";
+// import ScrollToTop from "./ScrollToTop";
+import { Projects } from "./ProjectList";
+import HomePage from "./Components/home/HomePage";
+import ProjectPage from "./Components/portfolio/ProjectPage";
+import { ContactPage } from "@mui/icons-material";
+import About from "./Components/about/About";
+import MenuBar from "./Components/menu/MenuBar";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
-  <Router>
-    <App />
-  </Router>
+  // <RouterProvider router={router}>
+  // <ScrollToTop>
+  <App></App>
+  // </ScrollToTop>
+  // {/* </RouterProvider> */}
 );
 
 // If you want to start measuring performance in your app, pass a function

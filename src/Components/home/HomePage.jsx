@@ -1,11 +1,16 @@
 import "./HomePage.scss"
 import GalleryCard from "../gallery/GalleryCard"
 import { Projects } from "../../ProjectList"
+import { motion } from "framer-motion"
+import { useEffect } from "react"
 
 export default function HomePage() {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
     return (
-        <div>
+      <motion.div exit={{ opacity: 0 }}>
           <section className='main-content'>
             <div className="hero-content">
             <h1 className='company-name'>norsman</h1>
@@ -23,6 +28,6 @@ export default function HomePage() {
               </div>
             ))}
           </div>
-        </div>
+        </motion.div>
     )
 }

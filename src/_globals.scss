@@ -1,5 +1,15 @@
 @use "src/mixins.scss" as *;
 
+@font-face {
+    font-family: arialRoundedBold;
+    src: url("./Fonts/ARLRDBD.TTF");
+}
+
+@font-face {
+    font-family: arialNarrow;
+    src: url("./Fonts/ARIALN.TTF");
+}
+
 html {
     font-size: 100%;
     box-sizing: border-box;
@@ -21,9 +31,8 @@ body {
     /* -moz-background-size: 100% 100%;
     -webkit-background-size: 100% 100%;
     background-size: 100% 100%; */
-    font-family:
-        Arial Rounded MT Bold,
-        sans-serif;
+    font-family: arialRoundedBold, arialNarrow;
+
     color: #ffffff;
 }
 

@@ -1,0 +1,25 @@
+@use "../../globals" as *;
+@use "../../mixins.scss" as *;
+@use "../../variables" as *;
+
+.scroll-container {
+    width: 100vw;
+    background-color: $secondaryColor;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-content: center;
+    .scroll-link {
+        margin-top: 0px;
+        cursor: pointer;
+        // width: 100vw;
+        // background-color: $secondaryColor;
+        color: $white;
+        font-size: 18px;
+        // align-self: center;
+        text-decoration: none;
+        &:hover {
+            color: #ff9800;
+        }
+    }
+}
