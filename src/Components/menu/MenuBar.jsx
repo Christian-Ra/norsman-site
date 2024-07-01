@@ -34,13 +34,13 @@ export default function MenuBar() {
           >
           <ul>
             <li>
-              <Link to='/norsman-site'>
+              <Link to='/norsman-site' state={{targetId: "landing"}}>
                 <img className='homebar-logo' src={logo} alt='norsman' />
               </Link>
             </li>
             <section className="navLinks">
             <li>
-              <Link to='/norsman-site/project'>Projects</Link>
+              <Link to='/norsman-site' state={{targetId: "project-gallery"}}>Projects</Link>
             </li>
             <li>
               <Link to='/norsman-site/about'>About Us</Link>
@@ -65,7 +65,7 @@ export default function MenuBar() {
             </section>
           </ul>
         </nav>
-        <Link to='/norsman-site' className='small-logo'>
+        <Link to='/norsman-site' state={{targetId: "landing"}} className='small-logo'>
             <img src={logo} alt='norsman' />
         </Link>
         <Outlet />

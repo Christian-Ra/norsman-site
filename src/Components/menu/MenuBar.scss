@@ -75,7 +75,7 @@
     }
     width: 350px;
     @include breakpoint-down(medium) {
-        width: 400px;
+        width: 100vw;
     }
     height: 100vh;
     background-color: #b8aca1;
@@ -90,6 +90,10 @@
         justify-content: space-between;
         height: 95%;
         list-style-type: none;
+
+        @include breakpoint-down(medium) {
+            padding-left: 10px;
+        }
         /* padding-bottom: 2em; */
 
         li {

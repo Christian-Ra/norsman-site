@@ -1,21 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
-// import ScrollToTop from "./ScrollToTop";
-import { Projects } from "./ProjectList";
-import HomePage from "./Components/home/HomePage";
-import ProjectPage from "./Components/portfolio/ProjectPage";
-import { ContactPage } from "@mui/icons-material";
-import About from "./Components/about/About";
-import MenuBar from "./Components/menu/MenuBar";
+import { BrowserRouter as Router } from "react-router-dom";
+import ScrollToTop from "./ScrollToTop";
+// import MenuBar from "./Components/menu/MenuBar";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   // <RouterProvider router={router}>
-  // <ScrollToTop>
-  <App></App>
-  // </ScrollToTop>
+  <Router>
+    <ScrollToTop />
+    <App />
+  </Router>
   // {/* </RouterProvider> */}
 );
 
