@@ -35,10 +35,10 @@
 
 .subheading {
     font-size: 3em;
-    transform: translate(-90px, -10px);
+    transform: translate(-60px, -10px);
     @include breakpoint-down(small) {
         font-size: 1em;
-        transform: translate(5px, -10px);
+        transform: translate(15px, -10px);
     }
 }
 

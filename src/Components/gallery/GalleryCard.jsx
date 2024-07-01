@@ -2,7 +2,7 @@ import './GalleryCard.scss'
 import { Link } from 'react-router-dom'
 
 export default function GalleryCard ({project}) {
-    // console.log("featured photos: ", project.photos)
+    console.log("featured photos: ", project.photos)
     return (
         <Link to={`/norsman-site/projects/${project.id}`} style={{textDecoration: 'none'}}>
         <div className='project-card' style={{backgroundImage: `url(${project.coverPhoto})`}}>

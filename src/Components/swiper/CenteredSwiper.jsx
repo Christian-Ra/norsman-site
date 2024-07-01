@@ -22,7 +22,7 @@ if (!photos) return null
             slidesPerView={1}
             spaceBetween={20}
             centeredSlides={true}
-            freeMode={false}
+            FreeMode={true}
             navigation={true}
             loop={true}
             pagination={{

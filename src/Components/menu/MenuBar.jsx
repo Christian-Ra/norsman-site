@@ -4,19 +4,12 @@ import houzzLogo from '../../Graphics/houzz-logo.png'
 import InstagramIcon from '@mui/icons-material/Instagram';
 import FacebookIcon from '@mui/icons-material/Facebook';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import { AnimatePresence, motion } from "framer-motion";
-import { useLocation } from "react-router-dom";
-import { ScrollRestoration } from "react-router-dom";
 import logo from "../../Graphics/Norsman-Logo-2021-C-no-subtitle.png"
 import "./MenuBar.scss";
-
-//TODO: Figure out how to integrate framer motion with createBrowserRouter
 
 export default function MenuBar() {
     const [menuCoverVisible, setCoverVisible] = useState(false)
     const [activeMenu, setActiveMenu] = useState(false);
-    const location = useLocation();
-    console.log("Location object: ", location)
     // const navigate = useNavigate();
 
     const toggleMenu = () => {
@@ -29,7 +22,6 @@ export default function MenuBar() {
         <div
           className='overlay'
           style={{ display: menuCoverVisible ? "block" : "none" }}
-          onClick={()=> toggleMenu()}
         ></div>
         <div className='hamburger' onClick={() => toggleMenu()}>
           <div className={ activeMenu ? 'line active' : 'line'}></div>
@@ -42,13 +34,13 @@ export default function MenuBar() {
           >
           <ul>
             <li>
-              <Link to='/norsman-site' state={{targetId: "landing"}}>
+              <Link to='/norsman-site'>
                 <img className='homebar-logo' src={logo} alt='norsman' />
               </Link>
             </li>
             <section className="navLinks">
             <li>
-              <Link to='/norsman-site' state={{ targetId: "project-gallery"}}>Projects</Link>
+              <Link to='/norsman-site/project'>Projects</Link>
             </li>
             <li>
               <Link to='/norsman-site/about'>About Us</Link>
@@ -73,24 +65,10 @@ export default function MenuBar() {
             </section>
           </ul>
         </nav>
-        <Link to='/norsman-site' state={{targetId: "landing"}} className='small-logo'>
+        <Link to='/norsman-site' className='small-logo'>
             <img src={logo} alt='norsman' />
         </Link>
-        {/* <AnimatePresence mode={"wait"} >
-        <motion.div key={location.key} initial={{opacity: 0}} animate={{opacity: 1}} exit={{opacity: 0}}  > */}
-
         <Outlet />
-        {/* </motion.div> */}
-        {/* </AnimatePresence> */}
-        <ScrollRestoration 
-        getKey={(location, matches) => {
-          const paths = ["/norsman-site"];
-          return paths.includes(location.pathname)
-          ?
-          location.pathname : location.key
-          
-        }}
-        />
       </header>
     )
 }
