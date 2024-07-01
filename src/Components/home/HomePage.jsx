@@ -3,25 +3,36 @@ import GalleryCard from "../gallery/GalleryCard"
 import { Projects } from "../../ProjectList"
 import { motion } from "framer-motion"
 import { useEffect } from "react"
+import { useLocation } from "react-router-dom"
 
 export default function HomePage() {
+  const { state } = useLocation()
+  const { targetId } = state || {}
+  console.log("state: " , state)
   useEffect(() => {
-    window.scrollTo(0, 0)
-  }, [])
+    const el=document.getElementById(targetId)
+    if(el) {
+      el.scrollIntoView()
+    }
+    return
+  }, [targetId])
+  // useEffect(() => {
+  //   window.scrollTo(0, 0)
+  // }, [])
 
     return (
       <motion.div exit={{ opacity: 0 }}>
-          <section className='main-content'>
+          <section className='main-content' id="landing">
             <div className="hero-content">
             <h1 className='company-name'>norsman</h1>
-            <h2 className='subheading'>Architecture Planning Design</h2>
+            <h2 className='subheading'>Architect Led Design Build</h2>
             </div>
           </section>
           <div className='portfolio-section' id='project1'>
             <h1 className='project-title'>Maria's</h1>
             <h2 className='project-subheading'>Description</h2>
           </div>
-          <div className='project-display'>
+          <div className='project-display' id="project-gallery">
             {Projects.map((p) => (
               <div key={p.id}>
                 <GalleryCard project={p} />

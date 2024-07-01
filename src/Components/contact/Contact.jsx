@@ -7,12 +7,15 @@ export default function Contact () {
     return (
         <motion.div exit={{ opacity: 0 }} class="contact-page">
 
-    <div class="contact-container">
+    <div className="contact-container">
+        <div className="contact-info">
+
         <h1>Contact Us:</h1>
         <p>Phone: + 1-773-252-9448</p>
         <p>Email: info@norsmanarchitects.com</p>
         <span></span>
         <p>Address: 1317 N Wood St, Chicago, IL 60622</p>
+        </div>
         {/* <form>
             <h2 class="form-heading">Business Inquiries</h2>
             <label for="business-name">Name/Company</label>

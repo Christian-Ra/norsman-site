@@ -54,10 +54,10 @@ function App() {
   //   : null;
   return (
     <div className='App'>
+      {/* <AnimatePresence mode='wait'> */}
       <RouterProvider router={router}>
-        <AnimatePresence mode='wait'>
-          <MenuBar />
-          {/* <Routes location={location} key={location.key}>
+        <MenuBar />
+        {/* <Routes location={location} key={location.key}>
           <Route
           path='/norsman-site/projects/:id'
           element={<ProjectPage projects={Projects} />}
@@ -66,7 +66,7 @@ function App() {
           <Route path='/norsman-site/about' element={<About />}></Route>
           <Route path='/norsman-site' element={<HomePage />}></Route>
           </Routes> */}
-          {/* <ScrollRestoration
+        {/* <ScrollRestoration
           getKey={(location, matches) => {
             const paths = ["/norsman-site"];
             return paths.includes(location.pathname)
@@ -76,8 +76,8 @@ function App() {
             location.key;
             }}
             /> */}
-        </AnimatePresence>
       </RouterProvider>
+      {/* </AnimatePresence> */}
     </div>
   );
 }
