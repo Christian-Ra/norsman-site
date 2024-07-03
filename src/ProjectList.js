@@ -172,7 +172,7 @@ export const Projects = [
     coverPhoto: NHermitage01,
     title: "1732 North Hermitage",
     subheading: "Single-Family",
-    description: "",
+    description: [""],
     photos: [
       NHermitage01,
       NHermitage02,
@@ -189,7 +189,11 @@ export const Projects = [
     coverPhoto: CaffeStreets01,
     title: "Caffe Streets",
     subheading: "Gather",
-    description: "",
+    description: [
+      "Located on Wicker Park’s vibrant Division Street, Caffe Streets balances a “social” coffee house atmosphere with a highly functional Masters Barista bar designed for craft coffee making.",
+      "Reinforcing the owner’s belief that the street is a vital component of our urban community, elements of the street are brought into the cafe.  As you enter, a seven foot tall photo light-box of the neighborhood’s famous six-corner intersection greets guests.  Above the chrome and dark wood of the coffee bar, the baristas’ work is illuminated by retrofitted Chicago streetlights while a wide storefront displays to the street the intimate 1,000 square foot interior space and backlit coffee bar.  The polished concrete floors underfoot physically and visually connect with the city sidewalks.",
+      "Marbled bamboo plywood also gives the space a sense of warmth reminiscent of the shop’s inspiration.  The plywood material is carried throughout the space, on the custom communal tables, chairs, wall paneling and the CNC-sculpted ceiling.  The layered ceiling is inspired by the baristas artistic pouring of steamed milk into coffee. The seating plan maximizes occupancy and circulation.  The traditional walk up espresso counter further encourages interaction and reaffirms the cafe’s symbiotic relationship with its community",
+    ],
     photos: [
       CaffeStreets01,
       CaffeStreets02,
@@ -207,7 +211,7 @@ export const Projects = [
     coverPhoto: Marias11,
     title: "Maria's",
     subheading: "Gather",
-    description: "",
+    description: [""],
     photos: [
       Marias11,
       Marias02,
@@ -228,7 +232,7 @@ export const Projects = [
     coverPhoto: CoPro01,
     title: "CoPro Radio Studio",
     subheading: "Gather",
-    description: "",
+    description: [""],
     photos: [CoPro01, CoPro02, CoPro03, CoPro04, CoPro05],
   },
   {
@@ -236,7 +240,12 @@ export const Projects = [
     coverPhoto: Leavitt01,
     title: "Leavitt",
     subheading: "Single-Family",
-    description: "",
+    description: [
+      "This adaptive re-use of a former VFW meeting hall with apartment above created a 6000 s.f. custom single family home for a recently married couples and their merged families.  The home participated in the Chicago Green Homes permit program and employs sustainable strategies including a solar thermal hot water heating system, extensive green roofs and a super-insulated building envelope.  Custom interior finishes throughout were defined by the owner’s collection of artifacts and manner of living.  A custom walnut office that includes a secret door to the bamboo clad bar/club in the lower level.  It also created a buffer from the buildings corner sidewalk site line condition.  A basement spa includes an illuminated rain shower head and LED light star system.  Antique Thai door archways were integrated into the building plan and the primary living spaces radiate around a central light court that was cut from through the historic building.",
+      "Consultants:  Structural Engineer – Louis Shell Structures",
+      "MEP Engineer – BES Engineering",
+      "Photography: Nikola Zlatkovic, Norsman Architects, Ltd.",
+    ],
     photos: [
       Leavitt01,
       Leavitt02,
@@ -253,7 +262,10 @@ export const Projects = [
     coverPhoto: MarionCH01,
     title: "Marion Court House",
     subheading: "Single-Family",
-    description: "",
+    description: [
+      "This 5,700 SF adaptive re-use single family residence includes a substantial rear addition to house a new great room/ kitchen area, a lower level playroom and additional 2nd floor bedrooms for a growing family.  A contemporary neutral dark palette was chosen to quietly play off the existing building construction.  A custom plate steel, glass and wood slab riser stair sits at the juncture of the new and old providing a sculptural circulation space for the home.  The rather substantial Chicago backyard is the focal point of the first floor great room.",
+      "Consultants:  Structural Engineer – Louis Shell Structures",
+    ],
     photos: [
       MarionCH01,
       MarionCH02,
@@ -274,7 +286,11 @@ export const Projects = [
     coverPhoto: ChicagoLoop01,
     title: "Pied a Terre",
     subheading: "Chicago Loop",
-    description: "",
+    description: [
+      "Situated on the 23rd and 24th floors of an historic building in Chicago's downtown Loop, the custom interior design and addition to this penthouse apartment create a distinct vocabulary between the public spaces and the private spaces within.  The first level is existing and has gothic-inspired windows, exaggerated moldings and is used primarily for formal entertaining and living.  Finish materials, including black slate, ebony floors and dark grey painted walls, create a formal but muted backdrop to the owner's modern furniture and architectural rendering collections.",
+      "The second level addition is reached via a custom two-piece spiral staircase. As the steps progress, the staircase inverts itself, creating a literal transition from the exterior to the interior of the staircase, suggesting the more private nature of the second level. Here, the historic materials of the first floor give way to light-colored materials, including white resin, teak floors and fiber cement wall panels. Interior sliding glass dividers enable the space to transform from two bedrooms to an open, airy loft in addition to a 12' x 35' skylight and north facing wall of glass that leads to the roof deck and stationary lap pool.",
+      "Photography:  Michelle Litvin",
+    ],
     photos: [
       ChicagoLoop01,
       ChicagoLoop02,
@@ -296,7 +312,13 @@ export const Projects = [
     coverPhoto: Fairbanks01,
     title: "Fairbanks Condo",
     subheading: "Multi-Family",
-    description: "",
+    description: [
+      "Located in Helmut Jahn’s signature condominium building in the Streeterville neighborhood this penthouse unit was designed around the owner-bachelor’s lifestyle.  Highly customized black walnut paneling and cabinetry create a common theme throughout the unit and include a floor to ceiling paneled cigar room, a hallway gallery with in-laid LED floor lighting, a master closet specifically designed for his clothes and his preferred method of storage.  The entire floor was raised with an air-floor and finished with custom terrazzo flooring to eliminate ductwork, provide a radiant floor and permit window line integrated floor diffusers.  It also provide an opportunity to integrate art metal in the floor in discreet locations.",
+      "A glass walled master shower at the window line with carefully placed window etching completes a very unique approach to high rise living.",
+      "Consultants:  Structural Engineer – Louis Shell Structures, ",
+      "MEP engineers – Environmental Systems Design, Inc.,",
+      "Photography:  Nikola Zlatkovic, Norsman Architects, Ltd.",
+    ],
     photos: [
       Fairbanks01,
       Fairbanks02,
@@ -320,7 +342,12 @@ export const Projects = [
     coverPhoto: Pontomac01,
     title: "Potomac",
     subheading: "Single-Family",
-    description: "",
+    description: [
+      "Sustainable Highlights:  Habitable green roof, passive solar strategies, rainwater harvesting, and highly insulative building envelope.",
+      "This new construction home was the first to participate in Chicago’s Green Permit Program and provided an opportunity for a comprehensive exploration of sustainable design and construction practices.  These included obvious items like natural light, energy efficient walls, and non-toxic building materials which create buildings that are physically and mentally healthy as well as less obvious items like green-roofs, strategic landscape design and ventilated facades which offer additional amenities to urban living.",
+      "Consultants: Structural Engineer - C.E. Anderson",
+      "Photography: Norsman Architects, NIkola Zlatkovic",
+    ],
     photos: [
       Pontomac01,
       Pontomac02,

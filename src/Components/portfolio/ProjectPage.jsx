@@ -39,7 +39,7 @@ export default function ProjectPage ({projects}) {
             <Element name="description">
 
             <section>
-                <ProjectDescription title={project.title} subHeading={project.subheading} />
+                <ProjectDescription title={project.title} subHeading={project.subheading} description={ project.description}/>
             </section>
             </Element>
         </motion.div>

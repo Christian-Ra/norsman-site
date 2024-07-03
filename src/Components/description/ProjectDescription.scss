@@ -48,6 +48,7 @@
         // font-family: Arial, Narrow;
         font-size: 1rem;
         line-height: 1.875rem;
+        // white-space: pre;
         @include breakpoint-down(small) {
             line-height: 1.675rem;
         }
