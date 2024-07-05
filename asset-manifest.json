@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/norsman-site/static/css/main.c0758782.css",
-    "main.js": "/norsman-site/static/js/main.b791dce7.js",
+    "main.css": "/norsman-site/static/css/main.45b9c889.css",
+    "main.js": "/norsman-site/static/js/main.c07cedd8.js",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-04.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-04.7cf318c4a12e6f8c7ddd.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-05.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-05.d7e6dacd0b64aecf78b5.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-12.png": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-12.e9208c6c88960094724f.png",
@@ -95,17 +95,18 @@
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-13.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-13.ef58b58a42babfcfa46d.jpg",
     "static/media/Potomac-I-Kitchen-06.jpg": "/norsman-site/static/media/Potomac-I-Kitchen-06.845dccee04e73b0aa047.jpg",
     "static/media/Potomac-I-Detail-08.jpg": "/norsman-site/static/media/Potomac-I-Detail-08.14be0f1c57ef9c46a078.jpg",
+    "static/media/Contact-Page.jpg": "/norsman-site/static/media/Contact-Page.27f05cf62477a03769ba.jpg",
     "static/media/Potomac-I-Lightwell-12.jpg": "/norsman-site/static/media/Potomac-I-Lightwell-12.ce46b570c3c122818a1b.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Section-11.png": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Section-11.7148a6f56c77f5188891.png",
     "static/media/Potomac-I-Detail-10.jpg": "/norsman-site/static/media/Potomac-I-Detail-10.790d104b01640ac1ff59.jpg",
     "static/media/ARIALN.TTF": "/norsman-site/static/media/ARIALN.4b8d1d12b9574544ab39.TTF",
     "static/media/ARLRDBD.TTF": "/norsman-site/static/media/ARLRDBD.78ccc3bbe2236b324bfb.TTF",
     "index.html": "/norsman-site/index.html",
-    "main.c0758782.css.map": "/norsman-site/static/css/main.c0758782.css.map",
-    "main.b791dce7.js.map": "/norsman-site/static/js/main.b791dce7.js.map"
+    "main.45b9c889.css.map": "/norsman-site/static/css/main.45b9c889.css.map",
+    "main.c07cedd8.js.map": "/norsman-site/static/js/main.c07cedd8.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0758782.css",
-    "static/js/main.b791dce7.js"
+    "static/css/main.45b9c889.css",
+    "static/js/main.c07cedd8.js"
   ]
 }
