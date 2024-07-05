@@ -52,8 +52,8 @@ function App() {
   return (
     <div className='App'>
       {/* <RouterProvider router={router}> */}
+      <MenuBar />
       <AnimatePresence mode='wait'>
-        <MenuBar />
         <Routes location={location} key={location.key}>
           <Route
             path='/norsman-site/projects/:id'

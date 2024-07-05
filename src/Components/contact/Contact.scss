@@ -4,7 +4,8 @@
 
 .contact-page {
     background-color: $secondaryColor;
-    // background-size: cover;
+    background-size: cover;
+    background-image: url("../../Graphics/Contact-Page.jpg");
     width: 100vw;
     height: 100vh;
     // padding: 40px 40px 40px 40px;
@@ -17,13 +18,14 @@
     .contact-container {
         display: flex;
         flex-direction: column;
-        width: 60%;
+        width: 50%;
         justify-content: space-between;
         padding: 50px 50px;
         margin: 20px auto;
 
         p {
             padding: 20px 0px;
+            font-size: 20px;
         }
     }
 }
