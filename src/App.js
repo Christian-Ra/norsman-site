@@ -50,18 +50,18 @@ function App() {
   //   ? Projects.find((project) => project.id === Number(match.params.id))
   //   : null;
   return (
-    <div className='App'>
+    <div className="App">
       {/* <RouterProvider router={router}> */}
       <MenuBar />
-      <AnimatePresence mode='wait'>
+      <AnimatePresence mode="wait">
         <Routes location={location} key={location.key}>
           <Route
-            path='/norsman-site/projects/:id'
+            path="/norsman-site/projects/:id"
             element={<ProjectPage projects={Projects} />}
           ></Route>
-          <Route path='/norsman-site/contact' element={<Contact />}></Route>
-          <Route path='/norsman-site/about' element={<About />}></Route>
-          <Route path='/norsman-site' element={<HomePage />}></Route>
+          <Route path="/norsman-site/contact" element={<Contact />}></Route>
+          <Route path="/norsman-site/about" element={<About />}></Route>
+          <Route path="/norsman-site" element={<HomePage />}></Route>
         </Routes>
         {/* <ScrollRestoration
           getKey={(location, matches) => {

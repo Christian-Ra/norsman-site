@@ -20,6 +20,11 @@
     .hero-content {
         align-content: center;
         cursor: default;
+
+        img {
+            width: 700px;
+            height: auto;
+        }
     }
 }
 
@@ -39,6 +44,27 @@
     @include breakpoint-down(small) {
         font-size: 1em;
         transform: translate(5px, -10px);
+    }
+}
+
+.cta-info {
+    height: 110vh;
+    width: 100vw;
+
+    background-color: $secondaryColor;
+
+    .cta-content {
+        // display: flex;
+        position: absolute;
+        flex-direction: column;
+        align-content: center;
+        right: 500px;
+        line-height: 100px;
+        font-size: 32px;
+        // left: 50;
+        justify-content: center;
+        max-width: 50%;
+        height: 100%;
     }
 }
 

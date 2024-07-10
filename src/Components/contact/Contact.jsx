@@ -1,13 +1,11 @@
 import React from "react";
-import "./Contact.scss"
+import "./Contact.scss";
 import { motion } from "framer-motion";
 
-export default function Contact () {
-
-    return (
-        <motion.div exit={{ opacity: 0 }} class="contact-page">
-
-    <div class="contact-container">
+export default function Contact() {
+  return (
+    <motion.div exit={{ opacity: 0 }} class="contact-page">
+      <div class="contact-container">
         <h1>Contact Us:</h1>
         <p>Phone: + 1-773-252-9448</p>
         <p>Email: info@norsmanarchitects.com</p>
@@ -40,8 +38,7 @@ export default function Contact () {
             
             <button type="submit">Submit</button>
         </form> */}
-    </div>
-</motion.div>
-    )
-
+      </div>
+    </motion.div>
+  );
 }

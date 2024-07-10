@@ -4,26 +4,40 @@
 
 .about-container {
     width: 100vw;
-    height: 100vh;
+    height: 100%;
     background-color: $secondaryColor;
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     justify-content: space-around;
+
+    .section {
+        margin-top: 30px;
+        width: 70%;
+        h1 {
+            padding-top: 20px;
+            color: $primaryColor;
+            margin-bottom: 20px;
+            font-size: 36px;
+        }
+
+        p {
+            color: $white;
+            line-height: 30px;
+            font-size: 20px;
+        }
+    }
+
+    .about-text {
+        max-width: 50%;
+    }
 }
 
-.section {
-    margin-top: 30px;
-    width: 70%;
+.project-team {
     h1 {
         color: $primaryColor;
-        margin-bottom: 20px;
-        font-size: 36px;
     }
-
-    p {
-        color: $white;
-        line-height: 30px;
-        font-size: 20px;
-    }
+    background-color: $secondaryColor;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
 }

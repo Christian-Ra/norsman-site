@@ -18,13 +18,17 @@
     .contact-container {
         display: flex;
         flex-direction: column;
-        width: 50%;
+        width: 60%;
         justify-content: space-between;
-        padding: 50px 50px;
+        padding: 50px 70px;
         margin: 20px auto;
 
+        h1 {
+            padding: 35px 0px;
+        }
+
         p {
-            padding: 20px 0px;
+            padding: 5px 0px;
             font-size: 20px;
         }
     }
