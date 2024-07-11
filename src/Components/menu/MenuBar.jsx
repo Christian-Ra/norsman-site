@@ -22,6 +22,7 @@ export default function MenuBar() {
       <div
         className="overlay"
         style={{ display: menuCoverVisible ? "block" : "none" }}
+        onClick={() => toggleMenu()}
       ></div>
       <div className="hamburger" onClick={() => toggleMenu()}>
         <div className={activeMenu ? "line active" : "line"}></div>
