@@ -6,6 +6,9 @@
     background-color: $secondaryColor;
     background-size: cover;
     background-image: url("../../Graphics/Contact-Page.jpg");
+    @include breakpoint-down("small") {
+        background-position: 20% 80%;
+    }
     width: 100vw;
     height: 100vh;
     // padding: 40px 40px 40px 40px;
@@ -23,6 +26,10 @@
         padding: 50px 70px;
         margin: 20px auto;
 
+        @include breakpoint-down("small") {
+            // transform: translate(0px, -50px);
+        }
+
         h1 {
             padding: 35px 0px;
         }
@@ -30,6 +37,25 @@
         p {
             padding: 5px 0px;
             font-size: 20px;
+            @include breakpoint-down("small") {
+                font-size: 16px;
+            }
+        }
+
+        a {
+            width: fit-content;
+            text-decoration: none;
+            color: white;
+            padding: 5px 0px;
+            font-size: 20px;
+
+            @include breakpoint-down("small") {
+                font-size: 16px;
+            }
+
+            &:hover {
+                color: $primaryColor;
+            }
         }
     }
 }

@@ -38,10 +38,6 @@ export default function HomePage() {
           </h1>
         </div>
       </section>
-      <div className="portfolio-section" id="project1">
-        <h1 className="project-title">Maria's</h1>
-        <h2 className="project-subheading">Description</h2>
-      </div>
       <div className="project-display" id="project-gallery">
         {Projects.map((p) => (
           <div key={p.id}>

@@ -44,9 +44,9 @@ export default function MenuBar() {
             <li>
               <Link to="/norsman-site/about">About Us</Link>
             </li>
-            <li>
-              <Link to="/norsman-site/current-projects">Current Projects</Link>
-            </li>
+            {/* <li>
+              <Link to="/norsman-site/gallery">Gallery</Link>
+            </li> */}
             <li>
               <Link to="/norsman-site/contact">Contact</Link>
             </li>
