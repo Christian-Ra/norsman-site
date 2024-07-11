@@ -68,28 +68,6 @@
     }
 }
 
-.portfolio-section {
-    height: 100vh;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    color: white;
-    background-image: url("../../Project_placeholders_photos/Marias+Seating-125+cc+ws.jpg");
-    background-size: cover;
-    box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, 0.2);
-}
-
-.project-title {
-    font-size: 6em;
-    color: white;
-}
-
-.project-subheading {
-    font-size: 1.5em;
-}
-
 .project-display {
     display: grid;
     grid-template-columns: repeat(2, 2fr);

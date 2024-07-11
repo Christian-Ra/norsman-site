@@ -1,7 +1,12 @@
 import "./CollageCard.scss";
 
 const CollageCard = ({ image }) => {
-  return <div>Collage Card</div>;
+  return (
+    <div
+      className="collage-card"
+      style={{ backgroundImage: `url(${image})` }}
+    ></div>
+  );
 };
 
 export default CollageCard;

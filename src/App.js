@@ -10,6 +10,7 @@ import HomePage from "./Components/home/HomePage";
 import ProjectPage from "./Components/portfolio/ProjectPage";
 import Contact from "./Components/contact/Contact";
 import About from "./Components/about/About";
+import Collage from "./Components/collage/Collage";
 import { AnimatePresence } from "framer-motion";
 import { Projects } from "./ProjectList";
 
@@ -60,6 +61,7 @@ function App() {
             element={<ProjectPage projects={Projects} />}
           ></Route>
           <Route path="/norsman-site/contact" element={<Contact />}></Route>
+          <Route path="/norsman-site/collage" element={<Collage />}></Route>
           <Route path="/norsman-site/about" element={<About />}></Route>
           <Route path="/norsman-site" element={<HomePage />}></Route>
         </Routes>
