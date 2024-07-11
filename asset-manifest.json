@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/norsman-site/static/css/main.6b404149.css",
-    "main.js": "/norsman-site/static/js/main.023d64d6.js",
+    "main.css": "/norsman-site/static/css/main.4cf30c1c.css",
+    "main.js": "/norsman-site/static/js/main.f27f3da5.js",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-04.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-04.7cf318c4a12e6f8c7ddd.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-05.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-05.d7e6dacd0b64aecf78b5.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-12.png": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-12.e9208c6c88960094724f.png",
@@ -67,6 +67,7 @@
     "static/media/CoPro-Radio-Studio-Interior-02.jpg": "/norsman-site/static/media/CoPro-Radio-Studio-Interior-02.17503ab75ee62262922d.jpg",
     "static/media/Leavitt-Cover-01.jpg": "/norsman-site/static/media/Leavitt-Cover-01.87c152c0ce408c730807.jpg",
     "static/media/Leavitt-Exterior-07.jpg": "/norsman-site/static/media/Leavitt-Exterior-07.fbcb2abb52d55e5e2618.jpg",
+    "static/media/pin-up photo.jpg": "/norsman-site/static/media/pin-up photo.91e62165e169ec1f40f7.jpg",
     "static/media/Marion-Court-House-Exterior-10.jpg": "/norsman-site/static/media/Marion-Court-House-Exterior-10.a681cdb752e1392c4b2d.jpg",
     "static/media/Fairbanks-Condo-Living-Room-05.jpg": "/norsman-site/static/media/Fairbanks-Condo-Living-Room-05.473c35fbc22bd647e628.jpg",
     "static/media/Leavitt-Exterior-06.jpg": "/norsman-site/static/media/Leavitt-Exterior-06.51a908fd83a1ff25ddbc.jpg",
@@ -91,22 +92,30 @@
     "static/media/Potomac-I-Bedroom-07.jpg": "/norsman-site/static/media/Potomac-I-Bedroom-07.d34de15810ed6c06822c.jpg",
     "static/media/Marion-Court-House-Exterior-12.jpg": "/norsman-site/static/media/Marion-Court-House-Exterior-12.4b402122cafeb619756d.jpg",
     "static/media/Potomac-I-Living-Room-04.jpg": "/norsman-site/static/media/Potomac-I-Living-Room-04.86381c5c03e2ea741b89.jpg",
-    "static/media/Marias+Seating-125+cc+ws.jpg": "/norsman-site/static/media/Marias+Seating-125+cc+ws.b73c918183688887aa20.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-13.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-13.ef58b58a42babfcfa46d.jpg",
+    "static/media/New+City-75.jpg": "/norsman-site/static/media/New+City-75.34f98ce7f9fbd872c396.jpg",
     "static/media/Potomac-I-Kitchen-06.jpg": "/norsman-site/static/media/Potomac-I-Kitchen-06.845dccee04e73b0aa047.jpg",
     "static/media/Potomac-I-Detail-08.jpg": "/norsman-site/static/media/Potomac-I-Detail-08.14be0f1c57ef9c46a078.jpg",
+    "static/media/Exterior1.jpg": "/norsman-site/static/media/Exterior1.f82da9e95c0d3337dca1.jpg",
+    "static/media/Feb102011_9690_1_tonemapped.jpg": "/norsman-site/static/media/Feb102011_9690_1_tonemapped.f0e10707450ab8bffcd8.jpg",
+    "static/media/Village+Park+of+Hoffman+Estates+008.jpg": "/norsman-site/static/media/Village+Park+of+Hoffman+Estates+008.21ef55409c73504c1bd1.jpg",
+    "static/media/DSC_0106.jpg": "/norsman-site/static/media/DSC_0106.5eb875a95cb3bb1674b1.jpg",
+    "static/media/DSC_0116.jpg": "/norsman-site/static/media/DSC_0116.d863e356288bc3dd8ed6.jpg",
     "static/media/Contact-Page.jpg": "/norsman-site/static/media/Contact-Page.27f05cf62477a03769ba.jpg",
     "static/media/Potomac-I-Lightwell-12.jpg": "/norsman-site/static/media/Potomac-I-Lightwell-12.ce46b570c3c122818a1b.jpg",
+    "static/media/06+Leavitt.jpg": "/norsman-site/static/media/06+Leavitt.e2af9380bc463adfcc0e.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Section-11.png": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Section-11.7148a6f56c77f5188891.png",
     "static/media/Potomac-I-Detail-10.jpg": "/norsman-site/static/media/Potomac-I-Detail-10.790d104b01640ac1ff59.jpg",
+    "static/media/Nonnina+Dining-47.jpg": "/norsman-site/static/media/Nonnina+Dining-47.0e5634855270ac89771d.jpg",
+    "static/media/07+Potomac.jpg": "/norsman-site/static/media/07+Potomac.1521e70ec238fd1a5a94.jpg",
     "static/media/ARIALN.TTF": "/norsman-site/static/media/ARIALN.4b8d1d12b9574544ab39.TTF",
     "static/media/ARLRDBD.TTF": "/norsman-site/static/media/ARLRDBD.78ccc3bbe2236b324bfb.TTF",
     "index.html": "/norsman-site/index.html",
-    "main.6b404149.css.map": "/norsman-site/static/css/main.6b404149.css.map",
-    "main.023d64d6.js.map": "/norsman-site/static/js/main.023d64d6.js.map"
+    "main.4cf30c1c.css.map": "/norsman-site/static/css/main.4cf30c1c.css.map",
+    "main.f27f3da5.js.map": "/norsman-site/static/js/main.f27f3da5.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b404149.css",
-    "static/js/main.023d64d6.js"
+    "static/css/main.4cf30c1c.css",
+    "static/js/main.f27f3da5.js"
   ]
 }
