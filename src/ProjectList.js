@@ -1,10 +1,13 @@
-// import Division from "./Project_placeholders_photos/Division-19.jpg";
-// import Ridge from "./Project_placeholders_photos/01+Ridge.jpg";
-// import Cafe from "./Project_placeholders_photos/DSC_0013.jpg";
-// import Interior18 from "./Project_placeholders_photos/Interior-18.jpg";
-// import FebCafe from "./Project_placeholders_photos/Feb052011_9213.jpg";
-// import Library from "./Project_placeholders_photos/DSC_0106.jpg";
-// import Pool from "./Project_placeholders_photos/DSC_0116.jpg";
+//collage imports
+import photo1 from "./Project_placeholders_photos/DSC_0106.jpg";
+import photo2 from "./Project_placeholders_photos/DSC_0116.jpg";
+import photo3 from "./Project_placeholders_photos/Exterior1.jpg";
+import photo4 from "./Project_placeholders_photos/Nonnina+Dining-47.jpg";
+import photo5 from "./Project_placeholders_photos/Village+Park+of+Hoffman+Estates+008.jpg";
+import photo6 from "./Project_placeholders_photos/New+City-75.jpg";
+import photo7 from "./Project_placeholders_photos/07+Potomac.jpg";
+import photo8 from "./Project_placeholders_photos/06+Leavitt.jpg";
+import photo9 from "./Project_placeholders_photos/Feb102011_9690_1_tonemapped.jpg";
 
 //1732 N Heritage imports
 import NHermitage01 from "./Site_Projects/1732 N Hermitage_Photoshoped/1732-N-Hermitage-Cover-01.jpg";
@@ -118,55 +121,52 @@ import Pontomac10 from "./Site_Projects/Single_Potomac I_Photoshoped/Potomac-I-D
 import Pontomac11 from "./Site_Projects/Single_Potomac I_Photoshoped/Potomac-I-Detail-11.jpg";
 import Pontomac12 from "./Site_Projects/Single_Potomac I_Photoshoped/Potomac-I-Lightwell-12.jpg";
 
+export const Collections = [
+  {
+    type: "Live",
+    photos: [
+      photo1,
+      photo2,
+      photo3,
+      photo4,
+      photo5,
+      photo6,
+      photo7,
+      photo8,
+      photo9,
+    ],
+  },
+  {
+    type: "Work",
+    photos: [
+      photo9,
+      photo2,
+      photo3,
+      photo4,
+      photo5,
+      photo6,
+      photo7,
+      photo8,
+      photo9,
+    ],
+  },
+  {
+    type: "Third",
+    photos: [
+      photo4,
+      photo2,
+      photo3,
+      photo4,
+      photo5,
+      photo6,
+      photo7,
+      photo8,
+      photo9,
+    ],
+  },
+];
+
 export const Projects = [
-  // {
-  //   id: 1,
-  //   coverPhoto: Division,
-  //   title: "Division Street",
-  //   subheading: "Gather",
-  //   description: "",
-  //   photos: [Division, Ridge, Cafe, Interior18, FebCafe, Library, Pool],
-  // },
-  // {
-  //   id: 2,
-  //   coverPhoto: Ridge,
-  //   title: "Ridge",
-  //   subheading: "Multi-Family",
-  //   description: "",
-  //   photos: [Ridge, Cafe, Division, Interior18, FebCafe, Library, Pool],
-  // },
-  // {
-  //   id: 3,
-  //   coverPhoto: Cafe,
-  //   title: "Cafe",
-  //   subheading: "Gather",
-  //   description: "",
-  //   photos: [Cafe, Division, Interior18, Ridge, FebCafe, Library, Pool],
-  // },
-  // {
-  //   id: 4,
-  //   coverPhoto: Interior18,
-  //   title: "Interior Design",
-  //   subheading: "Single-Family",
-  //   description: "",
-  //   photos: [Interior18, Ridge, Cafe, FebCafe, Library, Pool],
-  // },
-  // {
-  //   id: 5,
-  //   coverPhoto: Library,
-  //   title: "Library",
-  //   subheading: "Gather",
-  //   Description: "",
-  //   photos: [Library, Pool, Ridge, Interior18, Cafe, FebCafe],
-  // },
-  // {
-  //   id: 6,
-  //   coverPhoto: Pool,
-  //   title: "Pool",
-  //   subheading: "Single-Family",
-  //   description: "",
-  //   photos: [Pool, Cafe, FebCafe, Division, Library],
-  // },
   {
     id: 7,
     coverPhoto: NHermitage01,
@@ -242,6 +242,8 @@ export const Projects = [
     subheading: "Single-Family",
     description: [
       "This adaptive re-use of a former VFW meeting hall with apartment above created a 6000 s.f. custom single family home for a recently married couples and their merged families.  The home participated in the Chicago Green Homes permit program and employs sustainable strategies including a solar thermal hot water heating system, extensive green roofs and a super-insulated building envelope.  Custom interior finishes throughout were defined by the owner’s collection of artifacts and manner of living.  A custom walnut office that includes a secret door to the bamboo clad bar/club in the lower level.  It also created a buffer from the buildings corner sidewalk site line condition.  A basement spa includes an illuminated rain shower head and LED light star system.  Antique Thai door archways were integrated into the building plan and the primary living spaces radiate around a central light court that was cut from through the historic building.",
+    ],
+    credits: [
       "Consultants:  Structural Engineer – Louis Shell Structures",
       "MEP Engineer – BES Engineering",
       "Photography: Nikola Zlatkovic, Norsman Architects, Ltd.",
@@ -264,8 +266,8 @@ export const Projects = [
     subheading: "Single-Family",
     description: [
       "This 5,700 SF adaptive re-use single family residence includes a substantial rear addition to house a new great room/ kitchen area, a lower level playroom and additional 2nd floor bedrooms for a growing family.  A contemporary neutral dark palette was chosen to quietly play off the existing building construction.  A custom plate steel, glass and wood slab riser stair sits at the juncture of the new and old providing a sculptural circulation space for the home.  The rather substantial Chicago backyard is the focal point of the first floor great room.",
-      "Consultants:  Structural Engineer – Louis Shell Structures",
     ],
+    credits: ["Consultants:  Structural Engineer – Louis Shell Structures"],
     photos: [
       MarionCH01,
       MarionCH02,
@@ -289,8 +291,8 @@ export const Projects = [
     description: [
       "Situated on the 23rd and 24th floors of an historic building in Chicago's downtown Loop, the custom interior design and addition to this penthouse apartment create a distinct vocabulary between the public spaces and the private spaces within.  The first level is existing and has gothic-inspired windows, exaggerated moldings and is used primarily for formal entertaining and living.  Finish materials, including black slate, ebony floors and dark grey painted walls, create a formal but muted backdrop to the owner's modern furniture and architectural rendering collections.",
       "The second level addition is reached via a custom two-piece spiral staircase. As the steps progress, the staircase inverts itself, creating a literal transition from the exterior to the interior of the staircase, suggesting the more private nature of the second level. Here, the historic materials of the first floor give way to light-colored materials, including white resin, teak floors and fiber cement wall panels. Interior sliding glass dividers enable the space to transform from two bedrooms to an open, airy loft in addition to a 12' x 35' skylight and north facing wall of glass that leads to the roof deck and stationary lap pool.",
-      "Photography:  Michelle Litvin",
     ],
+    credits: ["Photography:  Michelle Litvin"],
     photos: [
       ChicagoLoop01,
       ChicagoLoop02,
@@ -315,6 +317,8 @@ export const Projects = [
     description: [
       "Located in Helmut Jahn’s signature condominium building in the Streeterville neighborhood this penthouse unit was designed around the owner-bachelor’s lifestyle.  Highly customized black walnut paneling and cabinetry create a common theme throughout the unit and include a floor to ceiling paneled cigar room, a hallway gallery with in-laid LED floor lighting, a master closet specifically designed for his clothes and his preferred method of storage.  The entire floor was raised with an air-floor and finished with custom terrazzo flooring to eliminate ductwork, provide a radiant floor and permit window line integrated floor diffusers.  It also provide an opportunity to integrate art metal in the floor in discreet locations.",
       "A glass walled master shower at the window line with carefully placed window etching completes a very unique approach to high rise living.",
+    ],
+    credits: [
       "Consultants:  Structural Engineer – Louis Shell Structures, ",
       "MEP engineers – Environmental Systems Design, Inc.,",
       "Photography:  Nikola Zlatkovic, Norsman Architects, Ltd.",
@@ -345,6 +349,8 @@ export const Projects = [
     description: [
       "Sustainable Highlights:  Habitable green roof, passive solar strategies, rainwater harvesting, and highly insulative building envelope.",
       "This new construction home was the first to participate in Chicago’s Green Permit Program and provided an opportunity for a comprehensive exploration of sustainable design and construction practices.  These included obvious items like natural light, energy efficient walls, and non-toxic building materials which create buildings that are physically and mentally healthy as well as less obvious items like green-roofs, strategic landscape design and ventilated facades which offer additional amenities to urban living.",
+    ],
+    credits: [
       "Consultants: Structural Engineer - C.E. Anderson",
       "Photography: Norsman Architects, NIkola Zlatkovic",
     ],

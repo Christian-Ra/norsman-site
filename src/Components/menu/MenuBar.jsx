@@ -31,24 +31,24 @@ export default function MenuBar() {
       </div>
       <nav className="homebar" style={{ right: menuCoverVisible ? 0 : -900 }}>
         <ul>
-          <li>
+          <li onClick={() => toggleMenu()}>
             <Link to="/norsman-site" state={{ targetId: "landing" }}>
               <img className="homebar-logo" src={logo} alt="norsman" />
             </Link>
           </li>
           <section className="navLinks">
-            <li>
+            <li onClick={() => toggleMenu()}>
               <Link to="/norsman-site" state={{ targetId: "project-gallery" }}>
                 Projects
               </Link>
             </li>
-            <li>
+            <li onClick={() => toggleMenu()}>
               <Link to="/norsman-site/about">About Us</Link>
             </li>
-            <li>
+            {/* <li onClick={() => toggleMenu()}>
               <Link to="/norsman-site/collage">Collage</Link>
-            </li>
-            <li>
+            </li> */}
+            <li onClick={() => toggleMenu()}>
               <Link to="/norsman-site/contact">Contact</Link>
             </li>
           </section>

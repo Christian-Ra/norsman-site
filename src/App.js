@@ -12,37 +12,7 @@ import Contact from "./Components/contact/Contact";
 import About from "./Components/about/About";
 import Collage from "./Components/collage/Collage";
 import { AnimatePresence } from "framer-motion";
-import { Projects } from "./ProjectList";
-
-//TODO: figure out what the heck is going on with createBrowserRouter, specifically scroll position and animate presence
-// const router = createBrowserRouter([
-//   {
-//     path: "/",
-//     element: <MenuBar />,
-//     children: [
-//       {
-//         path: "/norsman-site/projects/:id",
-//         element: <ProjectPage projects={Projects} />,
-//       },
-//       {
-//         path: "/norsman-site/contact",
-//         element: <Contact />,
-//       },
-//       {
-//         path: "/norsman-site/about",
-//         element: <About />,
-//       },
-//       {
-//         path: "/norsman-site/news",
-//         element: <HomePage />,
-//       },
-//       {
-//         path: "/norsman-site",
-//         element: <HomePage />,
-//       },
-//     ],
-//   },
-// ]);
+import { Projects, Collections } from "./ProjectList";
 
 function App() {
   // const match = useMatch("/norsman-site/projects/:id");
@@ -61,7 +31,10 @@ function App() {
             element={<ProjectPage projects={Projects} />}
           ></Route>
           <Route path="/norsman-site/contact" element={<Contact />}></Route>
-          <Route path="/norsman-site/collage" element={<Collage />}></Route>
+          <Route
+            path="/norsman-site/collections/:type"
+            element={<Collage collections={Collections} />}
+          ></Route>
           <Route path="/norsman-site/about" element={<About />}></Route>
           <Route path="/norsman-site" element={<HomePage />}></Route>
         </Routes>

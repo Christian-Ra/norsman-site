@@ -4,8 +4,9 @@
 
 .main-content {
     height: 100vh;
+    position: relative;
     background-size: cover;
-    background-image: url("../../Project_placeholders_photos/Division-19.jpg");
+    // background-image: url("../../Project_placeholders_photos/Division-19.jpg");
     background-repeat: no-repeat;
     /* background-size: cover; */
     background-position: center;
@@ -16,15 +17,65 @@
     justify-content: center;
     align-content: center;
     // padding-top: 40vh;
+    animation: fadeIn 1s ease-in-out forwards;
 
     .hero-content {
         align-content: center;
         cursor: default;
 
         img {
-            width: 700px;
+            // left: 35vw;
+            // position: absolute;
+            width: 600px;
             height: auto;
+            // margin-left: auto;
+            // margin-right: auto;
+            // left: 0;
+            // right: 0;
+            // text-align: center;
+            // z-index: 52;
         }
+    }
+    //     .overlay-black {
+    //         position: absolute;
+    //         top: 0;
+    //         left: 0;
+    //         height: 100vh;
+    //         width: 100vw;
+    //         z-index: 1;
+    //         background-color: black;
+    //         opacity: 0;
+    //         // animation-name: fadeIn;
+    //         // animation-duration: 0.5s;
+    //         // animation-timing-function: ease-in;
+    //         // animation-fill-mode: forwards;
+    //     }
+    //     .overlay-black[fade="1"] {
+    //         animation-name: fadeIn;
+    //         animation-duration: 1s;
+    //         animation-timing-function: ease-in-out;
+    //         animation-fill-mode: forwards;
+    //     }
+
+    @keyframes fadeIn {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+        // 0% {
+        //     opacity: 0.5;
+        // }
+        // 50% {
+        //     opacity: 1;
+        // }
+        // 75% {
+        //     opacity: 0.5;
+        // }
+        // 100% {
+        //     opacity: 0;
+        // }
     }
 }
 

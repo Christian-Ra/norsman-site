@@ -44,6 +44,7 @@ export default function ProjectPage({ projects }) {
             title={project.title}
             subHeading={project.subheading}
             description={project.description}
+            credits={project.credits}
           />
         </section>
       </Element>

@@ -41,7 +41,7 @@
     .description_subheading {
         font-size: 0.875rem;
         margin-bottom: 1.125rem;
-        color: #ffffff;
+        color: $white;
     }
 
     .body-text {
@@ -52,7 +52,14 @@
         @include breakpoint-down(small) {
             line-height: 1.675rem;
         }
-        margin-bottom: 1.875rem;
-        color: #ffffff;
+        // margin-bottom: 1.875rem;
+        color: $white;
+    }
+
+    .credit-text {
+        font-size: 1rem;
+        line-height: 1.875rem;
+
+        color: $white;
     }
 }

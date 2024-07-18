@@ -1,6 +1,11 @@
 import "./ProjectDescription.scss";
 
-export default function ProjectDescription({ title, subHeading, description }) {
+export default function ProjectDescription({
+  title,
+  subHeading,
+  description,
+  credits,
+}) {
   return (
     <section className="description">
       <div className="container">
@@ -11,8 +16,10 @@ export default function ProjectDescription({ title, subHeading, description }) {
             <p className="body-text">
               {d}
               <br></br>
+              <br></br>
             </p>
           ))}
+          {credits && credits.map((c) => <p className="body-text">{c}</p>)}
           {/* <p className="body-text">{description}</p> */}
         </div>
       </div>
