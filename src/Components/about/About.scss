@@ -4,6 +4,7 @@
 
 .about-container {
     width: 100%;
+    min-height: 100vh;
     max-height: 100%;
     background-color: $secondaryColor;
     display: flex;
@@ -15,7 +16,9 @@
     .section {
         transition: all;
         margin-top: 50px;
-        width: 70%;
+        @include breakpoint-up(large) {
+            width: 70%;
+        }
         h1 {
             padding-top: 20px;
             color: $primaryColor;
@@ -35,8 +38,11 @@
     }
 
     .about-text {
-        max-width: 50%;
-        margin-left: 300px;
+        max-width: 75%;
+        @include breakpoint-up(large) {
+            max-width: 50%;
+            margin-left: 300px;
+        }
         height: 100%;
     }
 

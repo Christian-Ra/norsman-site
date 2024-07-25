@@ -24,8 +24,8 @@ const AccordionItem = ({ heading, content, isOpen, onClick }) => {
             : { height: "0px" }
         }
       >
-        {content.map((c) => (
-          <p className="content">
+        {content.map((c, index) => (
+          <p key={index} className="content">
             {c}
             <br></br>
             <br></br>

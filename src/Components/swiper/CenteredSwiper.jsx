@@ -10,7 +10,7 @@ import "swiper/css/navigation";
 import "./CenteredSwiper.scss";
 
 // import required modules
-import { FreeMode, Pagination, Navigation } from "swiper/modules";
+import { Pagination, Navigation } from "swiper/modules";
 
 export default function CenteredSwiper({ photos }) {
   // const images = [photo1, photo2, photo5, photo4, photo3]
@@ -22,17 +22,16 @@ export default function CenteredSwiper({ photos }) {
         slidesPerView={1}
         spaceBetween={20}
         centeredSlides={true}
-        FreeMode={true}
         navigation={true}
         loop={true}
         pagination={{
           clickable: true,
         }}
-        modules={[FreeMode, Pagination, Navigation]}
+        modules={[Pagination, Navigation]}
         className="mySwiper"
       >
         {photos.map((src, index) => (
-          <SwiperSlide key={index}>
+          <SwiperSlide className="centered-slide" key={index}>
             <img src={src} alt={`Slide ${index + 1}`} />
           </SwiperSlide>
         ))}

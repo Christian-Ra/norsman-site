@@ -29,7 +29,10 @@ export default function MenuBar() {
         <div className={activeMenu ? "line active" : "line"}></div>
         <div className={activeMenu ? "line active" : "line"}></div>
       </div>
-      <nav className="homebar" style={{ right: menuCoverVisible ? 0 : -900 }}>
+      <nav
+        className="homebar"
+        style={{ right: menuCoverVisible ? 0 : "-1200px" }}
+      >
         <ul>
           <li onClick={() => toggleMenu()}>
             <Link to="/norsman-site" state={{ targetId: "landing" }}>

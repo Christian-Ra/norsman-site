@@ -16,8 +16,8 @@ const Collage = ({ collections }) => {
   }
   return (
     <motion.div exit={{ opacity: 0 }} className="collage-display">
-      {collection.photos.map((p) => (
-        <div>
+      {collection.photos.map((p, index) => (
+        <div key={index}>
           <CollageCard image={p} />
         </div>
       ))}
