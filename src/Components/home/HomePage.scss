@@ -6,18 +6,13 @@
     height: 100vh;
     position: relative;
     background-size: cover;
-    // background-image: url("../../Project_placeholders_photos/Division-19.jpg");
     background-repeat: no-repeat;
-    /* background-size: cover; */
     background-position: center;
-    // box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, 0.2);
     background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
     text-align: center;
     display: flex;
     justify-content: center;
     align-content: center;
-    // padding-top: 40vh;
-    // animation: fadeIn 1s ease-in-out forwards;
 
     .hero-content {
         align-content: center;
@@ -38,11 +33,12 @@
             position: absolute;
             width: 600px;
             height: 142px;
-            margin-left: auto;
-            margin-right: auto;
-            left: 0;
-            right: 0;
-            bottom: 45%;
+            // margin-left: auto;
+            // margin-right: auto;
+            top: 50%; /* position the top  edge of the element at the middle of the parent */
+            left: 50%; /* position the left edge of the element at the middle of the parent */
+
+            transform: translate(-50%, -50%);
             text-align: center;
             z-index: 20;
 
@@ -52,26 +48,6 @@
             }
         }
     }
-    //     .overlay-black {
-    //         position: absolute;
-    //         top: 0;
-    //         left: 0;
-    //         height: 100vh;
-    //         width: 100vw;
-    //         z-index: 1;
-    //         background-color: black;
-    //         opacity: 0;
-    //         // animation-name: fadeIn;
-    //         // animation-duration: 0.5s;
-    //         // animation-timing-function: ease-in;
-    //         // animation-fill-mode: forwards;
-    //     }
-    //     .overlay-black[fade="1"] {
-    //         animation-name: fadeIn;
-    //         animation-duration: 1s;
-    //         animation-timing-function: ease-in-out;
-    //         animation-fill-mode: forwards;
-    //     }
 
     @keyframes fadeIn {
         from {
@@ -80,26 +56,14 @@
         to {
             opacity: 1;
         }
-        // 0% {
-        //     opacity: 0.5;
-        // }
-        // 50% {
-        //     opacity: 1;
-        // }
-        // 75% {
-        //     opacity: 0.5;
-        // }
-        // 100% {
-        //     opacity: 0;
-        // }
     }
 }
 
 .cta-info {
-    height: 100vh;
+    height: 130vh;
     width: 100vw;
 
-    background-color: $secondaryColor;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
 
     .cta-content {
         // display: flex;
@@ -109,24 +73,25 @@
         overflow: hidden;
         // left: 50;
         justify-content: center;
-        max-width: 70%;
-        @include breakpoint-up(large) {
-            max-width: 50%;
-        }
+        // max-width: 100%;
+        // @include breakpoint-up(large) {
+        //     max-width: 100%;
+        // }
         // position: absolute;
         margin-left: auto;
         margin-right: auto;
         left: 0;
         right: 0;
         text-align: center;
-        height: 100%;
+        height: 110vh;
     }
 
     .cta {
-        font-size: 16px;
+        font-size: 24px;
         line-height: 50px;
+        // color: $primaryColor;
         @include breakpoint-up(large) {
-            font-size: 32px;
+            font-size: 64px;
             line-height: 100px;
         }
     }
@@ -149,24 +114,4 @@
         width: 600px;
         height: auto;
     }
-    // margin-top: 20px;
 }
-
-// .project-card {
-//     background-color: #f9f9f9;
-//     // background-image: url("../../Project_placeholders_photos/Feb102011_9690_1_tonemapped.jpg");
-//     background-size: cover;
-//     height: 50vh;
-//     margin: 0;
-//     padding: 0;
-//     /* border-radius: 2px; */
-//     box-shadow: inset 0 0 0 100vmax rgba(0, 0, 0, 0.2);
-//     display: flex;
-//     align-items: center;
-//     flex-direction: column;
-//     justify-content: center;
-
-//     &:hover {
-//         opacity: 90%;
-//     }
-// }

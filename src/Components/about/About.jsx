@@ -4,6 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import Accordion from "../Accordion/Accordion";
 import pinupPhoto from "../../Graphics/pin-up photo.jpg";
+import aboutPhoto from "../../Graphics/Norsman-Business-Card-Front-for-Website-01.png";
 
 export default function About() {
   return (
@@ -16,20 +17,7 @@ export default function About() {
         </div>
         <div className="about-images hide-for-mobile">
           <img
-            style={{ width: "inherit", height: "inherit" }}
-            src={pinupPhoto}
-            alt="norsman architects office"
-          ></img>
-          <img
-            style={{
-              width: "inherit",
-              height: "inherit",
-            }}
-            src={pinupPhoto}
-            alt="norsman architects office"
-          ></img>
-          <img
-            style={{ width: "inherit", height: "inherit" }}
+            style={{ height: "inherit" }}
             src={pinupPhoto}
             alt="norsman architects office"
           ></img>

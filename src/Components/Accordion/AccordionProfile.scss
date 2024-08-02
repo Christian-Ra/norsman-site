@@ -1,0 +1,82 @@
+@use "../../globals" as *;
+@use "../../variables" as *;
+@use "../../mixins" as *;
+
+.wrapper {
+    overflow: hidden;
+
+    .heading-container {
+        width: 100%;
+        text-align: left;
+        padding: 20px 0px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-weight: 500;
+        font-size: 20px;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+    }
+
+    .arrow {
+        font-size: 4rem;
+        transition: 0.5s ease-in-out;
+        color: $white;
+        &.active {
+            rotate: 180deg;
+        }
+    }
+
+    .content-container {
+        transition: all 1s ease-in-out;
+        .team-container {
+            display: flex;
+            flex-direction: column;
+            padding-top: 20px;
+            // padding-left: 10px;
+            @include breakpoint-up(large) {
+                flex-direction: row;
+                align-content: flex-start;
+            }
+        }
+
+        .headshot {
+            display: inline;
+            width: 100%;
+            @include breakpoint-up(medium) {
+                width: 235px;
+            }
+            height: auto;
+        }
+
+        .team-heading {
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
+            align-content: flex-start;
+            align-items: stretch;
+            // transform: translate(0px, -10px);
+
+            .name {
+                line-height: 30px;
+            }
+            // .title {
+            //     line-height: 10px;
+            // }
+
+            p {
+                // justify-content: space-between;
+                text-align: left;
+                // line-height: 40px;
+                @include breakpoint-up(large) {
+                    padding-left: 10px;
+                }
+            }
+        }
+
+        .heading-container {
+            display: flex;
+        }
+    }
+}

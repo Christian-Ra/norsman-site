@@ -13,6 +13,4 @@
     @include breakpoint-up(xlarge) {
         grid-template-columns: repeat(3, 1fr);
     }
-    // text-align: center;
-    // margin-top: 20px;
 }

@@ -49,6 +49,7 @@
 
 .swiper-button-prev {
     color: $white;
+    z-index: 3;
     transform: translate(100px, 0px);
     @include breakpoint-down(medium) {
         display: none;
@@ -62,6 +63,8 @@
 .swiper-button-next {
     color: $white;
     transform: translate(-100px, 0px);
+    position: absolute;
+    z-index: 5;
     &:hover {
         opacity: 50%;
     }

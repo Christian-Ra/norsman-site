@@ -9,7 +9,7 @@ import "swiper/css/navigation";
 import "./LandingSwiper.scss";
 
 // import required modules
-import { Autoplay } from "swiper/modules";
+import { Autoplay, Navigation } from "swiper/modules";
 
 export default function LandingSwiper({ landingImages }) {
   if (!landingImages) return null;
@@ -19,13 +19,15 @@ export default function LandingSwiper({ landingImages }) {
       <Swiper
         spaceBetween={30}
         centeredSlides={true}
-        // allowTouchMove={false}
-        // allowSlideNext={false}
-        // allowSlidePrev={false}
+        allowTouchMove={false}
+        allowSlideNext={true}
+        allowSlidePrev={false}
+        loop={true}
         autoplay={{
           delay: 5000,
           disableOnInteraction: false,
         }}
+        navigation={false}
         modules={[Autoplay]}
         className="landingSwiper"
       >

@@ -1,3 +1,6 @@
+import brentPhoto from "../../Graphics/Brent.jpg";
+import tomPhoto from "../../Graphics/website temp profile photo.jpg";
+
 const aboutData = [
   {
     heading: "About Us",
@@ -22,9 +25,43 @@ const aboutData = [
       "With an emphasis on conceptual exploration, Norsman Architects believe that a building’s use, its context and original characteristics are critical tools that guide the design process. We work to enrich and enliven this process through a thoughtful and collaborative approach with all parties to the construction process, continually seeking the highest standards of design excellence.",
     ],
   },
+];
+
+export const teamInfo = [
   {
-    heading: "Project Team",
-    content: ["Brent Norsman"],
+    name: "Brent Norsman, AIA",
+    title: "Principal Architect",
+    bio: "Brent is the founder and principal of Norsman Architects. Throughout his nearly 30 years of architectural practice in the urban backdrop of the City of Chicago he has consistently employed a thoughtful approach to his designs, always considering the context of the local community, challenges of site, context, program, and sustainability.",
+    education: [
+      "Master of Architecture - University of Illinois, Chicago, Chicago, 1995",
+      "Bachelor of Arts, Economics and Philosophy - University of Wisconsin-Madison, 1990",
+    ],
+    headshot: brentPhoto,
+    work: [
+      "Norsman Architects, Ltd., President - 2003 to Present",
+      "Adjunct Associate Professor, Illinois Institute of Technology - 2007 to Present",
+      "H+P, Ltd., 1996-2003 - Senior Project Architect",
+      "Kathryn Quinn Architects, -1994 - Intern",
+    ],
+    affiliations: [
+      "Member First Ward Milwaukee Avenue Advisory Committee",
+      "American Institute of Architects (AIA)",
+      "National Council of Architectural Registration Boards (NCARB)",
+    ],
+  },
+
+  {
+    name: "Tom Novak",
+    title: "Associate Architect",
+    bio: "Tom is an associate architect for Norsman Architects. He assists in all aspects of architectural design, from client presentations to working with the construction team. His passion for architecture is compounded by a deep interest in construction, spatial design, sustainability and nature. His approach to projects involves designing spaces that are both human-centered, incorporate natural materials and light and are efficient in terms of materials and energy. He has extensive experience in utilizing design tools and hands-on construction.",
+    education: [
+      "Bachelor of Architecture, Illinois Institute of Technology, Chicago, 2023",
+    ],
+    headshot: tomPhoto,
+    work: [
+      "Associate Architect - Norsman Architects - 2023 to present",
+      "Architectural Intern - Taylor Architecture & Design, North Plainfield, NJ",
+    ],
   },
 ];
 

@@ -4,6 +4,7 @@ import { Projects, Collections } from "../../ProjectList";
 import { motion } from "framer-motion";
 import { useLocation } from "react-router-dom";
 import { useEffect } from "react";
+import quoteImage from "../../Graphics/landing-staircase.jpg";
 import logo from "../../Graphics/Norsman-Logo-2021-B-no-background-01.png";
 import landingImage1 from "../../Project_placeholders_photos/Exterior1.jpg";
 import landingImage2 from "../../Project_placeholders_photos/DSC_0116.jpg";
@@ -85,8 +86,14 @@ export default function HomePage() {
           ></LandingSwiper>
         </div>
       </div>
-      <section className="cta-info">
-        <div className="cta-content">
+      <section
+        style={{
+          ...landingImageStyle,
+          backgroundImage: `url(${quoteImage})`,
+        }}
+        className="cta-info"
+      >
+        <div className="cta-content landing-mask">
           <h1 className="cta">
             Norsman Architects seek innovative solutions for built environments.
             As a full service architectural practice, our projects present
