@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/norsman-site/static/css/main.43c5e92e.css",
-    "main.js": "/norsman-site/static/js/main.d1267416.js",
+    "main.css": "/norsman-site/static/css/main.796b7760.css",
+    "main.js": "/norsman-site/static/js/main.ca4bff9a.js",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-04.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-04.7cf318c4a12e6f8c7ddd.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-05.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-05.d7e6dacd0b64aecf78b5.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-12.png": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-12.e9208c6c88960094724f.png",
@@ -93,6 +93,7 @@
     "static/media/Potomac-I-Living-Room-04.jpg": "/norsman-site/static/media/Potomac-I-Living-Room-04.86381c5c03e2ea741b89.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-13.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-13.ef58b58a42babfcfa46d.jpg",
     "static/media/New+City-75.jpg": "/norsman-site/static/media/New+City-75.34f98ce7f9fbd872c396.jpg",
+    "static/media/landing-staircase.jpg": "/norsman-site/static/media/landing-staircase.8ff14d4d620e991aeacf.jpg",
     "static/media/Potomac-I-Kitchen-06.jpg": "/norsman-site/static/media/Potomac-I-Kitchen-06.845dccee04e73b0aa047.jpg",
     "static/media/Potomac-I-Detail-08.jpg": "/norsman-site/static/media/Potomac-I-Detail-08.14be0f1c57ef9c46a078.jpg",
     "static/media/Exterior1.jpg": "/norsman-site/static/media/Exterior1.f82da9e95c0d3337dca1.jpg",
@@ -106,15 +107,18 @@
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Section-11.png": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Section-11.7148a6f56c77f5188891.png",
     "static/media/Potomac-I-Detail-10.jpg": "/norsman-site/static/media/Potomac-I-Detail-10.790d104b01640ac1ff59.jpg",
     "static/media/Nonnina+Dining-47.jpg": "/norsman-site/static/media/Nonnina+Dining-47.0e5634855270ac89771d.jpg",
+    "static/media/Norsman-Business-Card-Front-for-Website-01.png": "/norsman-site/static/media/Norsman-Business-Card-Front-for-Website-01.7480bdce527f6ec8c0e4.png",
     "static/media/07+Potomac.jpg": "/norsman-site/static/media/07+Potomac.1521e70ec238fd1a5a94.jpg",
     "static/media/ARIALN.TTF": "/norsman-site/static/media/ARIALN.4b8d1d12b9574544ab39.TTF",
+    "static/media/Brent.jpg": "/norsman-site/static/media/Brent.c619ef0b19e92a720191.jpg",
+    "static/media/website temp profile photo.jpg": "/norsman-site/static/media/website temp profile photo.a7d259fde241d31e0a3a.jpg",
     "static/media/ARLRDBD.TTF": "/norsman-site/static/media/ARLRDBD.78ccc3bbe2236b324bfb.TTF",
     "index.html": "/norsman-site/index.html",
-    "main.43c5e92e.css.map": "/norsman-site/static/css/main.43c5e92e.css.map",
-    "main.d1267416.js.map": "/norsman-site/static/js/main.d1267416.js.map"
+    "main.796b7760.css.map": "/norsman-site/static/css/main.796b7760.css.map",
+    "main.ca4bff9a.js.map": "/norsman-site/static/js/main.ca4bff9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.43c5e92e.css",
-    "static/js/main.d1267416.js"
+    "static/css/main.796b7760.css",
+    "static/js/main.ca4bff9a.js"
   ]
 }
