@@ -5,9 +5,7 @@ import photo2 from "../../Project_placeholders_photos/Interior-18.jpg";
 import photo3 from "../../Project_placeholders_photos/01+Ridge.jpg";
 import KeyboardArrowLeftIcon from "@mui/icons-material/KeyboardArrowLeft";
 import KeyboardArrowRightIcon from "@mui/icons-material/KeyboardArrowRight";
-import { useState, useRef, useEffect } from "react";
-import "react-slideshow-image/dist/styles.css";
-import { Fade } from "react-slideshow-image";
+import { useState } from "react";
 
 const images = [photo1, photo2, photo3];
 // const delay = 5000;
@@ -57,6 +55,7 @@ export default function Slideshow() {
         {images.map((url) => (
           <img
             src={url}
+            alt="slide"
             className="slide"
             style={{ translate: `${-index * 100}%` }}
           />

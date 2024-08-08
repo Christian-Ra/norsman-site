@@ -1,4 +1,3 @@
-import { useRef, useState } from "react";
 import "./Bio.scss";
 import { useCallbackRef } from "use-callback-ref";
 import { RiArrowDropDownLine } from "react-icons/ri";

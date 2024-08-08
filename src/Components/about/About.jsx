@@ -3,7 +3,7 @@ import React from "react";
 // import { useState, useEffect, useRef } from "react";
 import { motion } from "framer-motion";
 import Accordion from "../Accordion/Accordion";
-import pinupPhoto from "../../Graphics/pin-up photo.jpg";
+// import pinupPhoto from "../../Graphics/pin-up photo.jpg";
 import aboutPhoto from "../../Graphics/Norsman Side Banner-01.png";
 
 export default function About() {

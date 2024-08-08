@@ -61,6 +61,7 @@
 .cta-info {
     height: 130vh;
     width: 100vw;
+    background-position: 35% 65%;
 
     .cta-content {
         background-color: rgba(0, 0, 0, 0.25); /* Semi-transparent overlay */
@@ -87,7 +88,6 @@
     .cta {
         font-size: 18px;
         line-height: 50px;
-        // color: $primaryColor;
         margin: 20px;
 
         @include breakpoint-up(medium) {

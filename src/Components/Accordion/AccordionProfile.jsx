@@ -1,6 +1,5 @@
 import { RiArrowDropDownLine } from "react-icons/ri";
-import { useEffect, useRef, useState } from "react";
-import { useCallbackRef } from "use-callback-ref";
+import { useRef, useState } from "react";
 import { useMediaQuery } from "@mui/material";
 import Bio from "../about/Bio";
 import "./AccordionProfile.scss";
