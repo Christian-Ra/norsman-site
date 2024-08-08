@@ -13,26 +13,25 @@
     display: flex;
     justify-content: center;
     align-content: center;
+    .landing-mask {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100vw;
+        height: 100vh;
+        background-color: rgba(0, 0, 0, 0.25); /* Semi-transparent overlay */
+        z-index: 2;
+    }
 
     .hero-content {
         align-content: center;
         cursor: default;
 
-        .landing-mask {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100vw;
-            height: 100vh;
-            background-color: rgba(0, 0, 0, 0.25); /* Semi-transparent overlay */
-            z-index: 2;
-        }
-
         .landing-logo {
             // left: 35vw;
             position: absolute;
             width: 600px;
-            height: 142px;
+            height: auto;
             // margin-left: auto;
             // margin-right: auto;
             top: 50%; /* position the top  edge of the element at the middle of the parent */
@@ -63,10 +62,9 @@
     height: 130vh;
     width: 100vw;
 
-    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent overlay */
-
     .cta-content {
-        // display: flex;
+        background-color: rgba(0, 0, 0, 0.25); /* Semi-transparent overlay */
+        display: flex;
         position: absolute;
         flex-direction: column;
         align-content: center;
@@ -83,15 +81,24 @@
         left: 0;
         right: 0;
         text-align: center;
-        height: 110vh;
+        height: 100vh;
     }
 
     .cta {
-        font-size: 24px;
+        font-size: 18px;
         line-height: 50px;
         // color: $primaryColor;
-        @include breakpoint-up(large) {
-            font-size: 64px;
+        margin: 20px;
+
+        @include breakpoint-up(medium) {
+            font-size: 30px;
+            line-height: 75px;
+            margin: 55px;
+        }
+
+        @include breakpoint-up(xlarge) {
+            // margin: 30px;
+            font-size: 60px;
             line-height: 100px;
         }
     }

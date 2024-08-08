@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { useLocation } from "react-router-dom";
 import { useEffect } from "react";
 import quoteImage from "../../Graphics/landing-staircase.jpg";
-import logo from "../../Graphics/Norsman-Logo-2021-B-no-background-01.png";
+import logo from "../../Graphics/Norsman Logo 2024 Transparent.png";
 import landingImage1 from "../../Project_placeholders_photos/Exterior1.jpg";
 import landingImage2 from "../../Project_placeholders_photos/DSC_0116.jpg";
 import landingImage3 from "../../Project_placeholders_photos/New+City-75.jpg";

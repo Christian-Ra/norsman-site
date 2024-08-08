@@ -49,13 +49,16 @@
     }
 
     .about-images {
+        display: flex;
         position: fixed;
         right: 0;
         width: 30%;
         height: 100vh;
         padding: 0px;
         margin: 0px;
+        justify-content: end;
         img {
+            justify-self: end;
         }
     }
 }

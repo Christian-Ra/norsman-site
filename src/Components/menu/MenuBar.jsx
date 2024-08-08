@@ -1,11 +1,14 @@
 import { useState } from "react";
+import { useMatch } from "react-router-dom";
 import { Link, Outlet } from "react-router-dom";
 import houzzLogo from "../../Graphics/houzz-logo.png";
 import InstagramIcon from "@mui/icons-material/Instagram";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import logo from "../../Graphics/Norsman-Logo-2021-C-no-subtitle.png";
+import logoIcon from "../../Graphics/Norsman Icon A.png";
 import "./MenuBar.scss";
+import { useMediaQuery } from "@mui/material";
 
 export default function MenuBar() {
   const [menuCoverVisible, setCoverVisible] = useState(false);
@@ -17,6 +20,14 @@ export default function MenuBar() {
     setActiveMenu(!activeMenu);
   };
 
+  const isMobile = useMediaQuery("(min-width:1024px)");
+
+  const match = useMatch("/norsman-site/about");
+
+  const hamburgerStyle =
+    match && isMobile
+      ? { backgroundColor: "rgb(237, 237, 237)" }
+      : { backgroundColor: "#fdb715" };
   return (
     <header className="headerBar">
       <div
@@ -25,9 +36,18 @@ export default function MenuBar() {
         onClick={() => toggleMenu()}
       ></div>
       <div className="hamburger" onClick={() => toggleMenu()}>
-        <div className={activeMenu ? "line active" : "line"}></div>
-        <div className={activeMenu ? "line active" : "line"}></div>
-        <div className={activeMenu ? "line active" : "line"}></div>
+        <div
+          className={activeMenu ? "line active" : "line"}
+          style={hamburgerStyle}
+        ></div>
+        <div
+          className={activeMenu ? "line active" : "line"}
+          style={hamburgerStyle}
+        ></div>
+        <div
+          className={activeMenu ? "line active" : "line"}
+          style={hamburgerStyle}
+        ></div>
       </div>
       <nav
         className="homebar"
@@ -80,7 +100,7 @@ export default function MenuBar() {
         state={{ targetId: "landing" }}
         className="small-logo"
       >
-        <img src={logo} alt="norsman" />
+        <img src={logoIcon} alt="norsman" />
       </Link>
       <Outlet />
     </header>

@@ -5,11 +5,12 @@ import { Swiper, SwiperSlide } from "swiper/react";
 // Import Swiper styles
 import "swiper/css";
 import "swiper/css/pagination";
+import "swiper/css/effect-fade";
 import "swiper/css/navigation";
 import "./LandingSwiper.scss";
 
 // import required modules
-import { Autoplay, Navigation } from "swiper/modules";
+import { Autoplay, Navigation, EffectFade, Keyboard } from "swiper/modules";
 
 export default function LandingSwiper({ landingImages }) {
   if (!landingImages) return null;
@@ -18,17 +19,17 @@ export default function LandingSwiper({ landingImages }) {
     <>
       <Swiper
         spaceBetween={30}
+        effect={"fade"}
         centeredSlides={true}
-        allowTouchMove={false}
-        allowSlideNext={true}
-        allowSlidePrev={false}
         loop={true}
+        keyboard={{
+          enabled: true,
+        }}
         autoplay={{
           delay: 5000,
           disableOnInteraction: false,
         }}
-        navigation={false}
-        modules={[Autoplay]}
+        modules={[Autoplay, EffectFade, Navigation, Keyboard]}
         className="landingSwiper"
       >
         {landingImages.map((slide, index) => (

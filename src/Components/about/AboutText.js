@@ -19,7 +19,7 @@ const aboutData = [
     ],
   },
   {
-    heading: "Design Strategy",
+    heading: "Design Build",
     content: [
       "Norsman Architects seek innovative solutions for built environments. As a full service architectural practice, our projects present opportunities to explore new paradigms in housing and urban development; including mixed-use developments, environmentally responsive adaptive reuse, commercial and residential work.",
       "With an emphasis on conceptual exploration, Norsman Architects believe that a building’s use, its context and original characteristics are critical tools that guide the design process. We work to enrich and enliven this process through a thoughtful and collaborative approach with all parties to the construction process, continually seeking the highest standards of design excellence.",

@@ -4,7 +4,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import Accordion from "../Accordion/Accordion";
 import pinupPhoto from "../../Graphics/pin-up photo.jpg";
-import aboutPhoto from "../../Graphics/Norsman-Business-Card-Front-for-Website-01.png";
+import aboutPhoto from "../../Graphics/Norsman Side Banner-01.png";
 
 export default function About() {
   return (
@@ -17,8 +17,9 @@ export default function About() {
         </div>
         <div className="about-images hide-for-mobile">
           <img
+            className="hide-for-mobile"
             style={{ height: "inherit" }}
-            src={pinupPhoto}
+            src={aboutPhoto}
             alt="norsman architects office"
           ></img>
         </div>
