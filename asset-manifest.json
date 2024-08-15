@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/norsman-site/static/css/main.e039baf4.css",
-    "main.js": "/norsman-site/static/js/main.9d5ebd30.js",
+    "main.css": "/norsman-site/static/css/main.31e2ef6d.css",
+    "main.js": "/norsman-site/static/js/main.e3b6c2d1.js",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-04.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-04.7cf318c4a12e6f8c7ddd.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-05.jpg": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Living-Room-05.d7e6dacd0b64aecf78b5.jpg",
     "static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-12.png": "/norsman-site/static/media/Single-Chicago-Loop-Pied-a-Terre-Bathroom-Diagram-12.e9208c6c88960094724f.png",
@@ -114,11 +114,11 @@
     "static/media/website temp profile photo.jpg": "/norsman-site/static/media/website temp profile photo.a7d259fde241d31e0a3a.jpg",
     "static/media/ARLRDBD.TTF": "/norsman-site/static/media/ARLRDBD.78ccc3bbe2236b324bfb.TTF",
     "index.html": "/norsman-site/index.html",
-    "main.e039baf4.css.map": "/norsman-site/static/css/main.e039baf4.css.map",
-    "main.9d5ebd30.js.map": "/norsman-site/static/js/main.9d5ebd30.js.map"
+    "main.31e2ef6d.css.map": "/norsman-site/static/css/main.31e2ef6d.css.map",
+    "main.e3b6c2d1.js.map": "/norsman-site/static/js/main.e3b6c2d1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e039baf4.css",
-    "static/js/main.9d5ebd30.js"
+    "static/css/main.31e2ef6d.css",
+    "static/js/main.e3b6c2d1.js"
   ]
 }
