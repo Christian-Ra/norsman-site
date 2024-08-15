@@ -1,6 +1,6 @@
 import "./Bio.scss";
 import { useCallbackRef } from "use-callback-ref";
-import { RiArrowDropDownLine } from "react-icons/ri";
+import { IoIosArrowDown } from "react-icons/io";
 
 export default function Bio({ content, isBioOpen, onClick }) {
   const bioHeight = useCallbackRef(null, (ref) => ref && ref.focus());
@@ -34,7 +34,7 @@ export default function Bio({ content, isBioOpen, onClick }) {
         onClick={onClick}
       >
         {/* <h1 className="heading-content">{heading}</h1> */}
-        <RiArrowDropDownLine className={`arrow ${isBioOpen ? "active" : ""}`} />
+        <IoIosArrowDown className={`arrow ${isBioOpen ? "active" : ""}`} />
       </button>
       <div
         ref={bioHeight}

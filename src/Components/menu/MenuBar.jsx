@@ -6,7 +6,7 @@ import InstagramIcon from "@mui/icons-material/Instagram";
 import FacebookIcon from "@mui/icons-material/Facebook";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import logo from "../../Graphics/Norsman-Logo-2021-C-no-subtitle.png";
-import logoIcon from "../../Graphics/Norsman Icon A.png";
+import logoIcon from "../../Graphics/Norsman Icon B.png";
 import "./MenuBar.scss";
 import { useMediaQuery } from "@mui/material";
 

@@ -27,7 +27,7 @@ function App() {
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.key}>
           <Route
-            path="/norsman-site/projects/:id"
+            path="/norsman-site/projects/:title"
             element={<ProjectPage projects={Projects} />}
           ></Route>
           <Route path="/norsman-site/contact" element={<Contact />}></Route>

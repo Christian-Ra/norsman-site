@@ -20,7 +20,7 @@
     }
 
     .arrow {
-        font-size: 4rem;
+        font-size: 3rem;
         transition: 0.5s ease-in-out;
         color: $white;
         &.active {
@@ -44,6 +44,7 @@
         .headshot {
             display: inline;
             width: 100%;
+            border-radius: 3px;
             @include breakpoint-up(medium) {
                 width: 235px;
             }

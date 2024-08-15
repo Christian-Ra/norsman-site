@@ -12,9 +12,16 @@ import ProjectDescription from "../description/ProjectDescription";
 import { useMatch } from "react-router-dom";
 
 export default function ProjectPage({ projects }) {
-  const match = useMatch("/norsman-site/projects/:id");
+  const match = useMatch("/norsman-site/projects/:title");
+
+  const modifyLink = (str) => {
+    return str.replaceAll(" ", "-").toLowerCase();
+  };
+
   const project = match
-    ? projects.find((project) => project.id === Number(match.params.id))
+    ? projects.find(
+        (project) => modifyLink(project.title) === String(match.params.title)
+      )
     : null;
 
   if (!project) {

@@ -67,8 +67,12 @@ export default function HomePage() {
   };
 
   return (
-    <motion.div exit={{ opacity: 0 }}>
-      <div exit={{ opacity: 0 }} className="main-content" id="landing">
+    <motion.div exit={{ opacity: 0 }} id="container" className="scroll-snap">
+      <div
+        exit={{ opacity: 0 }}
+        className="main-content scroll-snap"
+        id="landing"
+      >
         <div
           className="hero-content"
           // key={index}

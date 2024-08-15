@@ -2,6 +2,14 @@
 @use "../../mixins.scss" as *;
 @use "../../variables" as *;
 
+.scroll-snap {
+    scroll-snap-type: y proximity;
+
+    div {
+        scroll-snap-align: center;
+    }
+}
+
 .main-content {
     height: 100vh;
     position: relative;

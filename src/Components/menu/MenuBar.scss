@@ -18,6 +18,7 @@
         height: 5px;
         // background-color: $primaryColor;
         margin: 5px 0px;
+        border-radius: 3px;
         transition: all 250ms ease-in-out;
         &.active:nth-of-type(1) {
             // transition: all 100ms ease-in-out;
@@ -52,6 +53,7 @@
         }
         width: 40px; /* Adjust the size as needed */
         height: 40px;
+        border-radius: 3px;
     }
 }
 

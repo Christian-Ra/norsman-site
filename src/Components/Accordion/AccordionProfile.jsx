@@ -1,4 +1,4 @@
-import { RiArrowDropDownLine } from "react-icons/ri";
+import { IoIosArrowDown } from "react-icons/io";
 import { useRef, useState } from "react";
 import { useMediaQuery } from "@mui/material";
 import Bio from "../about/Bio";
@@ -20,7 +20,7 @@ const AccordionProfile = ({ heading, content, isOpen, onClick }) => {
         onClick={onClick}
       >
         <h1 className="heading-content">{heading}</h1>
-        <RiArrowDropDownLine className={`arrow ${isOpen ? "active" : ""}`} />
+        <IoIosArrowDown className={`arrow ${isOpen ? "active" : ""}`} />
       </button>
       <div
         ref={contentHeight}
