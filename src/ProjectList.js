@@ -230,6 +230,76 @@ import milwaukee04 from "./Site_Projects/00-Milwaukee/1505-04.jpg";
 import milwaukee05 from "./Site_Projects/00-Milwaukee/1505-05.jpg";
 import milwaukee06 from "./Site_Projects/00-Milwaukee/1505-06.jpg";
 
+//new city imports
+import newCity01 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-01.jpg";
+import newCity02 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-02.jpg";
+import newCity03 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-03.jpg";
+import newCity04 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-04.jpg";
+import newCity05 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-05.jpg";
+import newCity06 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-06.jpg";
+import newCity07 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-07.jpg";
+import newCity08 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-08.jpg";
+import newCity09 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-01.jpg";
+import newCity10 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-03.jpg";
+import newCity11 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-07.jpg";
+import newCity12 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-13.jpg";
+import newCity13 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-14.jpg";
+import newCity14 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-17.jpg";
+
+//noninas imports
+import nonnina01 from "./Site_Projects/00-Nonnina_s/Nonnina-01.jpg";
+import nonnina02 from "./Site_Projects/00-Nonnina_s/Nonnina-02.jpg";
+import nonnina03 from "./Site_Projects/00-Nonnina_s/Nonnina-03.jpg";
+import nonnina04 from "./Site_Projects/00-Nonnina_s/Nonnina-04.jpg";
+import nonnina05 from "./Site_Projects/00-Nonnina_s/Nonnina-05.jpg";
+import nonnina06 from "./Site_Projects/00-Nonnina_s/Nonnina-06.jpg";
+import nonnina07 from "./Site_Projects/00-Nonnina_s/Nonnina-07.jpg";
+import nonnina08 from "./Site_Projects/00-Nonnina_s/Nonnina-08.jpg";
+import nonnina09 from "./Site_Projects/00-Nonnina_s/Nonnina-09.jpg";
+import nonnina10 from "./Site_Projects/00-Nonnina_s/Nonnina-10.jpg";
+import nonnina11 from "./Site_Projects/00-Nonnina_s/Nonnina-11.jpg";
+import nonnina12 from "./Site_Projects/00-Nonnina_s/Nonnina-12.jpg";
+import nonnina13 from "./Site_Projects/00-Nonnina_s/Nonnina-13.jpg";
+import nonnina14 from "./Site_Projects/00-Nonnina_s/Nonnina-14.jpg";
+
+//Potomac imports
+import potomac01 from "./Site_Projects/00-Potomac/Potomac-01.jpg";
+import potomac02 from "./Site_Projects/00-Potomac/Potomac-02.jpg";
+import potomac03 from "./Site_Projects/00-Potomac/Potomac-03.jpg";
+import potomac04 from "./Site_Projects/00-Potomac/Potomac-04.jpg";
+import potomac05 from "./Site_Projects/00-Potomac/Potomac-05.jpg";
+import potomac06 from "./Site_Projects/00-Potomac/Potomac-06.jpg";
+import potomac07 from "./Site_Projects/00-Potomac/Potomac-07.jpg";
+import potomac08 from "./Site_Projects/00-Potomac/Potomac-08.jpg";
+import potomac09 from "./Site_Projects/00-Potomac/Potomac-09.jpg";
+import potomac10 from "./Site_Projects/00-Potomac/Potomac-10.jpg";
+import potomac11 from "./Site_Projects/00-Potomac/Potomac-11.jpg";
+import potomac12 from "./Site_Projects/00-Potomac/Potomac-12.jpg";
+import potomac13 from "./Site_Projects/00-Potomac/Potomac-13.jpg";
+import potomac14 from "./Site_Projects/00-Potomac/Potomac-II-01.jpg";
+import potomac15 from "./Site_Projects/00-Potomac/Potomac-II-02.jpg";
+import potomac16 from "./Site_Projects/00-Potomac/Potomac-II-05.jpg";
+import potomac17 from "./Site_Projects/00-Potomac/Potomac-II-08.jpg";
+import potomac18 from "./Site_Projects/00-Potomac/Potomac-II-11.jpg";
+import potomac19 from "./Site_Projects/00-Potomac/Potomac-II-12.jpg";
+import potomac20 from "./Site_Projects/00-Potomac/Potomac-II-17.jpg";
+import potomac21 from "./Site_Projects/00-Potomac/Potomac-II-18.jpg";
+import potomac22 from "./Site_Projects/00-Potomac/Potomac-II-20.jpg";
+import potomac23 from "./Site_Projects/00-Potomac/Potomac-II-21.jpg";
+import potomac24 from "./Site_Projects/00-Potomac/Potomac-II-24.jpg";
+import potomac25 from "./Site_Projects/00-Potomac/Potomac-II-25.jpg";
+
+//Ridge imports
+import ridge01 from "./Site_Projects/00-Ridge/1800-01.jpg";
+import ridge02 from "./Site_Projects/00-Ridge/1800-02.jpg";
+import ridge03 from "./Site_Projects/00-Ridge/1800-03.jpg";
+import ridge04 from "./Site_Projects/00-Ridge/1800-04.jpg";
+import ridge05 from "./Site_Projects/00-Ridge/1800-05.jpg";
+import ridge06 from "./Site_Projects/00-Ridge/1800-06.jpg";
+import ridge07 from "./Site_Projects/00-Ridge/1800-07.jpg";
+import ridge08 from "./Site_Projects/00-Ridge/1800-08.jpg";
+import ridge09 from "./Site_Projects/00-Ridge/1800-09.jpg";
+
 export const Collections = [
   // {
   //   type: "Live",
@@ -572,6 +642,96 @@ export const Projects = [
       milwaukee04,
       milwaukee05,
       milwaukee06,
+    ],
+  },
+  {
+    coverPhoto: newCity01,
+    title: "New City Moving Company",
+    description: [""],
+    photos: [
+      newCity01,
+      newCity02,
+      newCity03,
+      newCity04,
+      newCity05,
+      newCity06,
+      newCity07,
+      newCity08,
+      newCity09,
+      newCity10,
+      newCity11,
+      newCity12,
+      newCity13,
+      newCity14,
+    ],
+  },
+  {
+    coverPhoto: nonnina01,
+    title: "Nonnina's",
+    description: [""],
+    photos: [
+      nonnina01,
+      nonnina02,
+      nonnina03,
+      nonnina04,
+      nonnina05,
+      nonnina06,
+      nonnina07,
+      nonnina08,
+      nonnina09,
+      nonnina10,
+      nonnina11,
+      nonnina12,
+      nonnina13,
+      nonnina14,
+    ],
+  },
+  {
+    coverPhoto: potomac01,
+    title: "Pontomac",
+    description: [""],
+    photos: [
+      potomac01,
+      potomac02,
+      potomac03,
+      potomac04,
+      potomac05,
+      potomac06,
+      potomac07,
+      potomac08,
+      potomac09,
+      potomac10,
+      potomac11,
+      potomac12,
+      potomac13,
+      potomac14,
+      potomac15,
+      potomac16,
+      potomac17,
+      potomac18,
+      potomac19,
+      potomac20,
+      potomac21,
+      potomac22,
+      potomac23,
+      potomac24,
+      potomac25,
+    ],
+  },
+  {
+    coverPhoto: ridge01,
+    title: "Ridge",
+    description: [""],
+    photos: [
+      ridge01,
+      ridge02,
+      ridge03,
+      ridge04,
+      ridge05,
+      ridge06,
+      ridge07,
+      ridge08,
+      ridge09,
     ],
   },
 
