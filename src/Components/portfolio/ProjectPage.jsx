@@ -30,7 +30,7 @@ export default function ProjectPage({ projects }) {
   return (
     <motion.div exit={{ opacity: 0 }}>
       <section>
-        <CenteredSwiper photos={project.photos} />
+        <CenteredSwiper photos={project.photos} videos={project.videos} />
         {/* <SpaceBetweenSwiper /> */}
         {/* <   SwiperComponent/> */}
         {/* <BlurredSwiper/> */}

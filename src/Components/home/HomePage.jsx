@@ -2,7 +2,7 @@ import "./HomePage.scss";
 import GalleryCard from "../gallery/GalleryCard";
 import { Projects, Collections } from "../../ProjectList";
 import { motion } from "framer-motion";
-import { useLocation } from "react-router-dom";
+import { useLocation, Link } from "react-router-dom";
 import { useEffect } from "react";
 import quoteImage from "../../Graphics/landing-staircase.jpg";
 import logo from "../../Graphics/Norsman Logo 2024 Transparent.png";
@@ -98,13 +98,16 @@ export default function HomePage() {
         className="cta-info"
       >
         <div className="cta-content landing-mask">
-          <h1 className="cta">
-            Norsman Architects seek innovative solutions for built environments.
-            As a full service architectural practice, our projects present
-            opportunities to explore new paradigms in housing and urban
-            development; including mixed-use developments, environmentally
-            responsive adaptive reuse, commercial and residential work.
-          </h1>
+          <Link to="/norsman-site/about">
+            <h1 className="cta">
+              Norsman Architects seek innovative solutions for built
+              environments. As a full service architectural practice, our
+              projects present opportunities to explore new paradigms in housing
+              and urban development; including mixed-use developments,
+              environmentally responsive adaptive reuse, commercial and
+              residential work.
+            </h1>
+          </Link>
         </div>
       </section>
       <div className="project-display" id="project-gallery">

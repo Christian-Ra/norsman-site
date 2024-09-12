@@ -26,33 +26,11 @@ import caffe02 from "./Site_Projects/00-Caffe-Streets/Caffe-S-02.jpg";
 import caffe03 from "./Site_Projects/00-Caffe-Streets/Caffe-S-03.jpg";
 import caffe04 from "./Site_Projects/00-Caffe-Streets/Caffe-S-04.jpg";
 import caffe05 from "./Site_Projects/00-Caffe-Streets/Caffe-S-05.jpg";
-// import caffe06 from "./Site_Projects/00-Caffe-Streets/Caffe-S-06.jpg";
 import caffe07 from "./Site_Projects/00-Caffe-Streets/Caffe-S-07.jpg";
 import caffe08 from "./Site_Projects/00-Caffe-Streets/Caffe-S-08.jpg";
 import caffe09 from "./Site_Projects/00-Caffe-Streets/Caffe-S-09.jpg";
 import caffe10 from "./Site_Projects/00-Caffe-Streets/Caffe-S-10.jpg";
 import caffe11 from "./Site_Projects/00-Caffe-Streets/Caffe-S-11.jpg";
-import caffe12 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-02.jpg";
-import caffe13 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-06.jpg";
-import caffe14 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-07.jpg";
-import caffe15 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-09.jpg";
-import caffe16 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-10.jpg";
-import caffe17 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-12.jpg";
-import caffe18 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-13.jpg";
-import caffe19 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-14.jpg";
-import caffe20 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-15.jpg";
-import caffe21 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-18.jpg";
-import caffe22 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-19.jpg";
-import caffe23 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-22.jpg";
-import caffe24 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-23.jpg";
-import caffe25 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-24.jpg";
-import caffe26 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-02.jpg";
-import caffe27 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-25.jpg";
-import caffe28 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-26.jpg";
-import caffe29 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-27.jpg";
-import caffe30 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-28.jpg";
-import caffe31 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-29.jpg";
-import caffe32 from "./Site_Projects/00-Caffe-Streets/Caffe-Streets-30.jpg";
 
 //division imports
 import division01 from "./Site_Projects/00-Division/Division-01.jpg";
@@ -81,10 +59,6 @@ import fairbanks11 from "./Site_Projects/00-Fairbanks/Fairbanks-11.jpg";
 import fairbanks12 from "./Site_Projects/00-Fairbanks/Fairbanks-12.jpg";
 import fairbanks13 from "./Site_Projects/00-Fairbanks/Fairbanks-13.jpg";
 import fairbanks14 from "./Site_Projects/00-Fairbanks/Fairbanks-14.png";
-import fairbanks15 from "./Site_Projects/00-Fairbanks/Fairbanks-Condo-01.jpg";
-import fairbanks16 from "./Site_Projects/00-Fairbanks/Fairbanks-Condo-04.jpg";
-import fairbanks17 from "./Site_Projects/00-Fairbanks/Fairbanks-Condo-07.jpg";
-import fairbanks18 from "./Site_Projects/00-Fairbanks/Fairbanks-Condo-17.jpg";
 
 //Hermitage imports
 import hermitage01 from "./Site_Projects/00-Hermitage/1732-01.jpg";
@@ -112,18 +86,6 @@ import hoffman08 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-08.jp
 import hoffman09 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-09.jpg";
 import hoffman10 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-10.jpg";
 import hoffman11 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-11.jpg";
-import hoffman12 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-02.jpg";
-import hoffman13 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-03.jpg";
-import hoffman14 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-04.jpg";
-import hoffman15 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-06.jpg";
-import hoffman16 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-07.jpg";
-import hoffman17 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-08.jpg";
-import hoffman18 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-13.jpg";
-import hoffman19 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-15.jpg";
-import hoffman20 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-18.jpg";
-import hoffman21 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-19.jpg";
-import hoffman22 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-21.jpg";
-import hoffman23 from "./Site_Projects/00-Hoffman-States-Clubhouse/Hoffman-States-Clubhouse-22.jpg";
 
 //Kimbark imports
 import kimbark01 from "./Site_Projects/00-Kimbark/5740-01.jpg";
@@ -214,13 +176,6 @@ import marz13 from "./Site_Projects/00-Marz-Brewing/Marz-13.jpg";
 import marz14 from "./Site_Projects/00-Marz-Brewing/Marz-14.jpg";
 import marz15 from "./Site_Projects/00-Marz-Brewing/Marz-15.jpg";
 import marz16 from "./Site_Projects/00-Marz-Brewing/Marz-16.jpg";
-import marz17 from "./Site_Projects/00-Marz-Brewing/Marz-Brewing-08.jpg";
-import marz18 from "./Site_Projects/00-Marz-Brewing/Marz-Brewing-14.jpg";
-import marz19 from "./Site_Projects/00-Marz-Brewing/Marz-Brewing-15.jpg";
-import marz20 from "./Site_Projects/00-Marz-Brewing/Marz-Brewing-19.jpg";
-import marz21 from "./Site_Projects/00-Marz-Brewing/Marz-Brewing-20.jpg";
-import marz22 from "./Site_Projects/00-Marz-Brewing/Marz-Brewing-21.jpg";
-import marz23 from "./Site_Projects/00-Marz-Brewing/Marz-Brewing-28.jpg";
 
 //milwaukee imports
 import milwaukee01 from "./Site_Projects/00-Milwaukee/1505-01.jpg";
@@ -229,6 +184,7 @@ import milwaukee03 from "./Site_Projects/00-Milwaukee/1505-03.jpg";
 import milwaukee04 from "./Site_Projects/00-Milwaukee/1505-04.jpg";
 import milwaukee05 from "./Site_Projects/00-Milwaukee/1505-05.jpg";
 import milwaukee06 from "./Site_Projects/00-Milwaukee/1505-06.jpg";
+import milwaukee07 from "./Site_Projects/00-Milwaukee/1505-08.mp4";
 
 //new city imports
 import newCity01 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-01.jpg";
@@ -239,12 +195,6 @@ import newCity05 from "./Site_Projects/00-New-City-Moving-Company/New-City-Movin
 import newCity06 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-06.jpg";
 import newCity07 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-07.jpg";
 import newCity08 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-08.jpg";
-import newCity09 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-01.jpg";
-import newCity10 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-03.jpg";
-import newCity11 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-07.jpg";
-import newCity12 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-13.jpg";
-import newCity13 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-14.jpg";
-import newCity14 from "./Site_Projects/00-New-City-Moving-Company/New-City-Moving-Company-17.jpg";
 
 //noninas imports
 import nonnina01 from "./Site_Projects/00-Nonnina_s/Nonnina-01.jpg";
@@ -276,18 +226,6 @@ import potomac10 from "./Site_Projects/00-Potomac/Potomac-10.jpg";
 import potomac11 from "./Site_Projects/00-Potomac/Potomac-11.jpg";
 import potomac12 from "./Site_Projects/00-Potomac/Potomac-12.jpg";
 import potomac13 from "./Site_Projects/00-Potomac/Potomac-13.jpg";
-import potomac14 from "./Site_Projects/00-Potomac/Potomac-II-01.jpg";
-import potomac15 from "./Site_Projects/00-Potomac/Potomac-II-02.jpg";
-import potomac16 from "./Site_Projects/00-Potomac/Potomac-II-05.jpg";
-import potomac17 from "./Site_Projects/00-Potomac/Potomac-II-08.jpg";
-import potomac18 from "./Site_Projects/00-Potomac/Potomac-II-11.jpg";
-import potomac19 from "./Site_Projects/00-Potomac/Potomac-II-12.jpg";
-import potomac20 from "./Site_Projects/00-Potomac/Potomac-II-17.jpg";
-import potomac21 from "./Site_Projects/00-Potomac/Potomac-II-18.jpg";
-import potomac22 from "./Site_Projects/00-Potomac/Potomac-II-20.jpg";
-import potomac23 from "./Site_Projects/00-Potomac/Potomac-II-21.jpg";
-import potomac24 from "./Site_Projects/00-Potomac/Potomac-II-24.jpg";
-import potomac25 from "./Site_Projects/00-Potomac/Potomac-II-25.jpg";
 
 //Ridge imports
 import ridge01 from "./Site_Projects/00-Ridge/1800-01.jpg";
@@ -299,6 +237,55 @@ import ridge06 from "./Site_Projects/00-Ridge/1800-06.jpg";
 import ridge07 from "./Site_Projects/00-Ridge/1800-07.jpg";
 import ridge08 from "./Site_Projects/00-Ridge/1800-08.jpg";
 import ridge09 from "./Site_Projects/00-Ridge/1800-09.jpg";
+
+//St.Croix imports
+import stcroix01 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-01.jpg";
+import stcroix02 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-02.jpg";
+import stcroix03 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-03.jpg";
+import stcroix04 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-05.jpg";
+import stcroix05 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-06.jpg";
+import stcroix06 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-07.jpg";
+import stcroix07 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-08.jpg";
+// import stcroix08 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-09.jpg"
+import stcroix08 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-09.jpg";
+import stcroix09 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-10.jpg";
+import stcroix10 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-11.jpg";
+import stcroix11 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-12.jpg";
+import stcroix12 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-12.jpg";
+
+//Wicker Park imports
+import wickerPark01 from "./Site_Projects/00-Wicker-Park/1311-01.jpg";
+import wickerPark02 from "./Site_Projects/00-Wicker-Park/1311-02.jpg";
+import wickerPark03 from "./Site_Projects/00-Wicker-Park/1311-03.jpg";
+import wickerPark04 from "./Site_Projects/00-Wicker-Park/1311-04.jpg";
+import wickerPark05 from "./Site_Projects/00-Wicker-Park/1311-05.jpg";
+import wickerPark06 from "./Site_Projects/00-Wicker-Park/1311-06.jpg";
+
+//woodLawn I imports
+import woodLawn01 from "./Site_Projects/00-Woodlawn-I/5527-01.png";
+import woodLawn02 from "./Site_Projects/00-Woodlawn-I/5527-02.jpg";
+import woodLawn03 from "./Site_Projects/00-Woodlawn-I/5527-03.png";
+import woodLawn04 from "./Site_Projects/00-Woodlawn-I/5527-04.jpg";
+import woodLawn05 from "./Site_Projects/00-Woodlawn-I/5527-05.jpg";
+import woodLawn06 from "./Site_Projects/00-Woodlawn-I/5527-06.jpg";
+import woodLawn07 from "./Site_Projects/00-Woodlawn-I/5527-07.jpg";
+import woodLawn08 from "./Site_Projects/00-Woodlawn-I/5527-08.jpg";
+import woodLawn09 from "./Site_Projects/00-Woodlawn-I/5527-09.png";
+
+//woodlawn II imports
+import woodLawnII01 from "./Site_Projects/00-Woodlawn-II/5633-01.jpg";
+import woodLawnII02 from "./Site_Projects/00-Woodlawn-II/5633-02.jpg";
+import woodLawnII03 from "./Site_Projects/00-Woodlawn-II/5633-03.jpg";
+import woodLawnII04 from "./Site_Projects/00-Woodlawn-II/5633-04.jpg";
+import woodLawnII05 from "./Site_Projects/00-Woodlawn-II/5633-05.jpg";
+import woodLawnII06 from "./Site_Projects/00-Woodlawn-II/5633-06.jpg";
+import woodLawnII07 from "./Site_Projects/00-Woodlawn-II/5633-07.jpg";
+import woodLawnII08 from "./Site_Projects/00-Woodlawn-II/5633-08.jpg";
+import woodLawnII09 from "./Site_Projects/00-Woodlawn-II/5633-09.jpg";
+import woodLawnII10 from "./Site_Projects/00-Woodlawn-II/5633-10.jpg";
+import woodLawnII11 from "./Site_Projects/00-Woodlawn-II/5633-11.jpg";
+import woodLawnII12 from "./Site_Projects/00-Woodlawn-II/5633-12.jpg";
+import woodLawnII13 from "./Site_Projects/00-Woodlawn-II/5633-13.jpg";
 
 export const Collections = [
   // {
@@ -374,7 +361,7 @@ export const Projects = [
   },
   {
     coverPhoto: caffe01,
-    title: "Caffe-Streets",
+    title: "Caffe Streets",
     subHeading: "Gather",
     description: [""],
     photos: [
@@ -389,27 +376,6 @@ export const Projects = [
       caffe09,
       caffe10,
       caffe11,
-      caffe12,
-      caffe13,
-      caffe14,
-      caffe15,
-      caffe16,
-      caffe17,
-      caffe18,
-      caffe19,
-      caffe20,
-      caffe21,
-      caffe22,
-      caffe23,
-      caffe24,
-      caffe25,
-      caffe26,
-      caffe27,
-      caffe28,
-      caffe29,
-      caffe30,
-      caffe31,
-      caffe32,
     ],
   },
   {
@@ -449,10 +415,6 @@ export const Projects = [
       fairbanks12,
       fairbanks13,
       fairbanks14,
-      fairbanks15,
-      fairbanks16,
-      fairbanks17,
-      fairbanks18,
     ],
   },
   {
@@ -476,7 +438,7 @@ export const Projects = [
   },
   {
     coverPhoto: hoffman01,
-    title: "Hoffman-States-Clubhouse",
+    title: "Hoffman Estates Clubhouse",
     description: [""],
     photos: [
       hoffman01,
@@ -490,18 +452,6 @@ export const Projects = [
       hoffman09,
       hoffman10,
       hoffman11,
-      hoffman12,
-      hoffman13,
-      hoffman14,
-      hoffman15,
-      hoffman16,
-      hoffman17,
-      hoffman18,
-      hoffman19,
-      hoffman20,
-      hoffman21,
-      hoffman22,
-      hoffman23,
     ],
   },
   {
@@ -622,13 +572,6 @@ export const Projects = [
       marz14,
       marz15,
       marz16,
-      marz17,
-      marz18,
-      marz19,
-      marz20,
-      marz21,
-      marz22,
-      marz23,
     ],
   },
   {
@@ -643,6 +586,7 @@ export const Projects = [
       milwaukee05,
       milwaukee06,
     ],
+    videos: [milwaukee07],
   },
   {
     coverPhoto: newCity01,
@@ -657,12 +601,6 @@ export const Projects = [
       newCity06,
       newCity07,
       newCity08,
-      newCity09,
-      newCity10,
-      newCity11,
-      newCity12,
-      newCity13,
-      newCity14,
     ],
   },
   {
@@ -688,7 +626,7 @@ export const Projects = [
   },
   {
     coverPhoto: potomac01,
-    title: "Pontomac",
+    title: "Potomac",
     description: [""],
     photos: [
       potomac01,
@@ -704,18 +642,6 @@ export const Projects = [
       potomac11,
       potomac12,
       potomac13,
-      potomac14,
-      potomac15,
-      potomac16,
-      potomac17,
-      potomac18,
-      potomac19,
-      potomac20,
-      potomac21,
-      potomac22,
-      potomac23,
-      potomac24,
-      potomac25,
     ],
   },
   {
@@ -734,207 +660,72 @@ export const Projects = [
       ridge09,
     ],
   },
-
-  // {
-  //   id: 7,
-  //   coverPhoto: NHermitage01,
-  //   title: "1732 North Hermitage",
-  //   subheading: "Single-Family",
-  //   description: [""],
-  //   photos: [
-  //     NHermitage01,
-  //     NHermitage02,
-  //     NHermitage03,
-  //     NHermitage04,
-  //     NHermitage05,
-  //     NHermitage06,
-  //     NHermitage07,
-  //     NHermitage08,
-  //   ],
-  // },
-  // {
-  //   id: 8,
-  //   coverPhoto: CaffeStreets01,
-  //   title: "Caffe Streets",
-  //   subheading: "Gather",
-  //   description: [
-  //     "Located on Wicker Park’s vibrant Division Street, Caffe Streets balances a “social” coffee house atmosphere with a highly functional Masters Barista bar designed for craft coffee making.",
-  //     "Reinforcing the owner’s belief that the street is a vital component of our urban community, elements of the street are brought into the cafe.  As you enter, a seven foot tall photo light-box of the neighborhood’s famous six-corner intersection greets guests.  Above the chrome and dark wood of the coffee bar, the baristas’ work is illuminated by retrofitted Chicago streetlights while a wide storefront displays to the street the intimate 1,000 square foot interior space and backlit coffee bar.  The polished concrete floors underfoot physically and visually connect with the city sidewalks.",
-  //     "Marbled bamboo plywood also gives the space a sense of warmth reminiscent of the shop’s inspiration.  The plywood material is carried throughout the space, on the custom communal tables, chairs, wall paneling and the CNC-sculpted ceiling.  The layered ceiling is inspired by the baristas artistic pouring of steamed milk into coffee. The seating plan maximizes occupancy and circulation.  The traditional walk up espresso counter further encourages interaction and reaffirms the cafe’s symbiotic relationship with its community",
-  //   ],
-  //   photos: [
-  //     CaffeStreets01,
-  //     CaffeStreets02,
-  //     CaffeStreets03,
-  //     CaffeStreets04,
-  //     CaffeStreets05,
-  //     CaffeStreets06,
-  //     CaffeStreets07,
-  //     CaffeStreets08,
-  //     CaffeStreets09,
-  //   ],
-  // },
-  // {
-  //   id: 9,
-  //   coverPhoto: Marias11,
-  //   title: "Maria's",
-  //   subheading: "Gather",
-  //   description: [""],
-  //   photos: [
-  //     Marias11,
-  //     Marias02,
-  //     Marias03,
-  //     Marias04,
-  //     Marias05,
-  //     Marias06,
-  //     Marias07,
-  //     Marias08,
-  //     Marias09,
-  //     Marias10,
-  //     Marias01,
-  //     Marias12,
-  //   ],
-  // },
-  // {
-  //   id: 10,
-  //   coverPhoto: CoPro01,
-  //   title: "CoPro Radio Studio",
-  //   subheading: "Gather",
-  //   description: [""],
-  //   photos: [CoPro01, CoPro02, CoPro03, CoPro04, CoPro05],
-  // },
-  // {
-  //   id: 11,
-  //   coverPhoto: Leavitt01,
-  //   title: "Leavitt",
-  //   subheading: "Single-Family",
-  //   description: [
-  //     "This adaptive re-use of a former VFW meeting hall with apartment above created a 6000 s.f. custom single family home for a recently married couples and their merged families.  The home participated in the Chicago Green Homes permit program and employs sustainable strategies including a solar thermal hot water heating system, extensive green roofs and a super-insulated building envelope.  Custom interior finishes throughout were defined by the owner’s collection of artifacts and manner of living.  A custom walnut office that includes a secret door to the bamboo clad bar/club in the lower level.  It also created a buffer from the buildings corner sidewalk site line condition.  A basement spa includes an illuminated rain shower head and LED light star system.  Antique Thai door archways were integrated into the building plan and the primary living spaces radiate around a central light court that was cut from through the historic building.",
-  //   ],
-  //   credits: [
-  //     "Consultants:  Structural Engineer – Louis Shell Structures",
-  //     "MEP Engineer – BES Engineering",
-  //     "Photography: Nikola Zlatkovic, Norsman Architects, Ltd.",
-  //   ],
-  //   photos: [
-  //     Leavitt01,
-  //     Leavitt02,
-  //     Leavitt03,
-  //     Leavitt04,
-  //     Leavitt05,
-  //     Leavitt06,
-  //     Leavitt07,
-  //     Leavitt08,
-  //   ],
-  // },
-  // {
-  //   id: 12,
-  //   coverPhoto: MarionCH01,
-  //   title: "Marion Court House",
-  //   subheading: "Single-Family",
-  //   description: [
-  //     "This 5,700 SF adaptive re-use single family residence includes a substantial rear addition to house a new great room/ kitchen area, a lower level playroom and additional 2nd floor bedrooms for a growing family.  A contemporary neutral dark palette was chosen to quietly play off the existing building construction.  A custom plate steel, glass and wood slab riser stair sits at the juncture of the new and old providing a sculptural circulation space for the home.  The rather substantial Chicago backyard is the focal point of the first floor great room.",
-  //   ],
-  //   credits: ["Consultants:  Structural Engineer – Louis Shell Structures"],
-  //   photos: [
-  //     MarionCH01,
-  //     MarionCH02,
-  //     MarionCH03,
-  //     MarionCH04,
-  //     MarionCH05,
-  //     MarionCH06,
-  //     MarionCH07,
-  //     MarionCH08,
-  //     MarionCH09,
-  //     MarionCH10,
-  //     MarionCH11,
-  //     MarionCH12,
-  //   ],
-  // },
-  // {
-  //   id: 13,
-  //   coverPhoto: ChicagoLoop01,
-  //   title: "Pied a Terre",
-  //   subheading: "Chicago Loop",
-  //   description: [
-  //     "Situated on the 23rd and 24th floors of an historic building in Chicago's downtown Loop, the custom interior design and addition to this penthouse apartment create a distinct vocabulary between the public spaces and the private spaces within.  The first level is existing and has gothic-inspired windows, exaggerated moldings and is used primarily for formal entertaining and living.  Finish materials, including black slate, ebony floors and dark grey painted walls, create a formal but muted backdrop to the owner's modern furniture and architectural rendering collections.",
-  //     "The second level addition is reached via a custom two-piece spiral staircase. As the steps progress, the staircase inverts itself, creating a literal transition from the exterior to the interior of the staircase, suggesting the more private nature of the second level. Here, the historic materials of the first floor give way to light-colored materials, including white resin, teak floors and fiber cement wall panels. Interior sliding glass dividers enable the space to transform from two bedrooms to an open, airy loft in addition to a 12' x 35' skylight and north facing wall of glass that leads to the roof deck and stationary lap pool.",
-  //   ],
-  //   credits: ["Photography:  Michelle Litvin"],
-  //   photos: [
-  //     ChicagoLoop01,
-  //     ChicagoLoop02,
-  //     ChicagoLoop03,
-  //     ChicagoLoop04,
-  //     ChicagoLoop05,
-  //     ChicagoLoop06,
-  //     ChicagoLoop07,
-  //     ChicagoLoop08,
-  //     ChicagoLoop09,
-  //     ChicagoLoop10,
-  //     ChicagoLoop11,
-  //     ChicagoLoop12,
-  //     ChicagoLoop13,
-  //   ],
-  // },
-  // {
-  //   id: 14,
-  //   coverPhoto: Fairbanks01,
-  //   title: "Fairbanks Condo",
-  //   subheading: "Multi-Family",
-  //   description: [
-  //     "Located in Helmut Jahn’s signature condominium building in the Streeterville neighborhood this penthouse unit was designed around the owner-bachelor’s lifestyle.  Highly customized black walnut paneling and cabinetry create a common theme throughout the unit and include a floor to ceiling paneled cigar room, a hallway gallery with in-laid LED floor lighting, a master closet specifically designed for his clothes and his preferred method of storage.  The entire floor was raised with an air-floor and finished with custom terrazzo flooring to eliminate ductwork, provide a radiant floor and permit window line integrated floor diffusers.  It also provide an opportunity to integrate art metal in the floor in discreet locations.",
-  //     "A glass walled master shower at the window line with carefully placed window etching completes a very unique approach to high rise living.",
-  //   ],
-  //   credits: [
-  //     "Consultants:  Structural Engineer – Louis Shell Structures, ",
-  //     "MEP engineers – Environmental Systems Design, Inc.,",
-  //     "Photography:  Nikola Zlatkovic, Norsman Architects, Ltd.",
-  //   ],
-  //   photos: [
-  //     Fairbanks01,
-  //     Fairbanks02,
-  //     Fairbanks03,
-  //     Fairbanks04,
-  //     Fairbanks05,
-  //     Fairbanks06,
-  //     Fairbanks07,
-  //     Fairbanks08,
-  //     Fairbanks09,
-  //     Fairbanks10,
-  //     Fairbanks11,
-  //     Fairbanks12,
-  //     Fairbanks13,
-  //     Fairbanks14,
-  //     Fairbanks15,
-  //   ],
-  // },
-  // {
-  //   id: 15,
-  //   coverPhoto: Pontomac01,
-  //   title: "Potomac",
-  //   subheading: "Single-Family",
-  //   description: [
-  //     "Sustainable Highlights:  Habitable green roof, passive solar strategies, rainwater harvesting, and highly insulative building envelope.",
-  //     "This new construction home was the first to participate in Chicago’s Green Permit Program and provided an opportunity for a comprehensive exploration of sustainable design and construction practices.  These included obvious items like natural light, energy efficient walls, and non-toxic building materials which create buildings that are physically and mentally healthy as well as less obvious items like green-roofs, strategic landscape design and ventilated facades which offer additional amenities to urban living.",
-  //   ],
-  //   credits: [
-  //     "Consultants: Structural Engineer - C.E. Anderson",
-  //     "Photography: Norsman Architects, NIkola Zlatkovic",
-  //   ],
-  //   photos: [
-  //     Pontomac01,
-  //     Pontomac02,
-  //     Pontomac03,
-  //     Pontomac04,
-  //     Pontomac05,
-  //     Pontomac06,
-  //     Pontomac07,
-  //     Pontomac08,
-  //     Pontomac09,
-  //     Pontomac10,
-  //     Pontomac11,
-  //     Pontomac12,
-  //   ],
-  // },
+  {
+    coverPhoto: stcroix01,
+    title: "St. Croix Falls Public Library",
+    description: [""],
+    photos: [
+      stcroix01,
+      stcroix02,
+      stcroix03,
+      stcroix04,
+      stcroix05,
+      stcroix06,
+      stcroix07,
+      stcroix08,
+      stcroix09,
+      stcroix10,
+      stcroix11,
+      stcroix12,
+    ],
+  },
+  {
+    coverPhoto: wickerPark01,
+    title: "Wicker Park",
+    description: [""],
+    photos: [
+      wickerPark01,
+      wickerPark02,
+      wickerPark03,
+      wickerPark04,
+      wickerPark05,
+      wickerPark06,
+    ],
+  },
+  {
+    coverPhoto: woodLawn01,
+    title: "Woodlawn I",
+    description: [""],
+    photos: [
+      woodLawn01,
+      woodLawn02,
+      woodLawn03,
+      woodLawn04,
+      woodLawn05,
+      woodLawn06,
+      woodLawn07,
+      woodLawn08,
+      woodLawn09,
+    ],
+  },
+  {
+    coverPhoto: woodLawnII01,
+    title: "Woodlawn II",
+    description: [""],
+    photos: [
+      woodLawnII01,
+      woodLawnII02,
+      woodLawnII03,
+      woodLawnII04,
+      woodLawnII05,
+      woodLawnII06,
+      woodLawnII07,
+      woodLawnII08,
+      woodLawnII09,
+      woodLawnII10,
+      woodLawnII11,
+      woodLawnII12,
+      woodLawnII13,
+    ],
+  },
 ];

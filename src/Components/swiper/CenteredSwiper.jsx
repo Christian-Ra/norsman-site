@@ -12,7 +12,7 @@ import "./CenteredSwiper.scss";
 // import required modules
 import { Pagination, Navigation } from "swiper/modules";
 
-export default function CenteredSwiper({ photos }) {
+export default function CenteredSwiper({ photos, videos }) {
   // const images = [photo1, photo2, photo5, photo4, photo3]
   if (!photos) return null;
 
@@ -35,6 +35,18 @@ export default function CenteredSwiper({ photos }) {
             <img src={src} alt={`Slide ${index + 1}`} />
           </SwiperSlide>
         ))}
+        {videos &&
+          videos.map((src, index) => (
+            <SwiperSlide className="centered-slide" key={index}>
+              <video
+                src={src}
+                alt={`Video Slide ${index + 1}`}
+                preload="metadata"
+                autoPlay
+                controls
+              />
+            </SwiperSlide>
+          ))}
       </Swiper>
     </>
   );
