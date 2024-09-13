@@ -12,6 +12,10 @@ import "./LandingSwiper.scss";
 // import required modules
 import { Autoplay, Navigation, EffectFade, Keyboard } from "swiper/modules";
 
+function randomInt(max) {
+  return Math.floor(Math.random() * max);
+}
+
 export default function LandingSwiper({ landingImages }) {
   if (!landingImages) return null;
 
@@ -22,6 +26,7 @@ export default function LandingSwiper({ landingImages }) {
         effect={"fade"}
         centeredSlides={true}
         loop={true}
+        initialSlide={randomInt(landingImages.length)}
         keyboard={{
           enabled: true,
         }}

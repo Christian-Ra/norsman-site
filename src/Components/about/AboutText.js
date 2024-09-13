@@ -1,5 +1,7 @@
 import brentPhoto from "../../Graphics/Brent.jpg";
 import tomPhoto from "../../Graphics/website temp profile photo.jpg";
+import jakePhoto from "../../Graphics/03-Jake-Gagner.jpg";
+import muPhoto from "../../Graphics/04-Mu-Cao.jpg";
 
 const aboutData = [
   {
@@ -30,7 +32,7 @@ const aboutData = [
 export const teamInfo = [
   {
     name: "Brent Norsman, AIA",
-    title: "Principal Architect",
+    title: "Founding Principal",
     bio: "Brent is the founder and principal of Norsman Architects. Throughout his nearly 30 years of architectural practice in the urban backdrop of the City of Chicago he has consistently employed a thoughtful approach to his designs, always considering the context of the local community, challenges of site, context, program, and sustainability.",
     education: [
       "Master of Architecture - University of Illinois, Chicago, Chicago, 1995",
@@ -52,7 +54,7 @@ export const teamInfo = [
 
   {
     name: "Tom Novak",
-    title: "Associate Architect",
+    title: "Project Manager & Designer",
     bio: "Tom is an associate architect for Norsman Architects. He assists in all aspects of architectural design, from client presentations to working with the construction team. His passion for architecture is compounded by a deep interest in construction, spatial design, sustainability and nature. His approach to projects involves designing spaces that are both human-centered, incorporate natural materials and light and are efficient in terms of materials and energy. He has extensive experience in utilizing design tools and hands-on construction.",
     education: [
       "Bachelor of Architecture, Illinois Institute of Technology, Chicago, 2023",
@@ -62,6 +64,24 @@ export const teamInfo = [
       "Associate Architect - Norsman Architects - 2023 to present",
       "Architectural Intern - Taylor Architecture & Design, North Plainfield, NJ",
     ],
+  },
+  {
+    name: "Jake Gagner",
+    title: "Architectual Associate",
+    bio: "",
+    education: [
+      "Bachelor of Architecture, Illinois Institute of Technology, Chicago, 2023",
+    ],
+    headshot: jakePhoto,
+    work: [""],
+  },
+  {
+    name: "Mu Cao",
+    title: "Architectual Intern",
+    bio: "",
+    education: [""],
+    headshot: muPhoto,
+    work: [""],
   },
 ];
 

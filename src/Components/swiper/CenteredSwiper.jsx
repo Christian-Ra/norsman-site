@@ -42,7 +42,6 @@ export default function CenteredSwiper({ photos, videos }) {
                 src={src}
                 alt={`Video Slide ${index + 1}`}
                 preload="metadata"
-                autoPlay
                 controls
               />
             </SwiperSlide>

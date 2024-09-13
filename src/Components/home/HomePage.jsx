@@ -97,7 +97,7 @@ export default function HomePage() {
         }}
         className="cta-info"
       >
-        <div className="cta-content landing-mask">
+        <div className="cta-content landing-mask" key={"cta"}>
           <Link to="/norsman-site/about">
             <h1 className="cta">
               Norsman Architects seek innovative solutions for built
