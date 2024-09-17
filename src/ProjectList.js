@@ -26,11 +26,13 @@ import caffe02 from "./Site_Projects/00-Caffe-Streets/Caffe-S-02.jpg";
 import caffe03 from "./Site_Projects/00-Caffe-Streets/Caffe-S-03.jpg";
 import caffe04 from "./Site_Projects/00-Caffe-Streets/Caffe-S-04.jpg";
 import caffe05 from "./Site_Projects/00-Caffe-Streets/Caffe-S-05.jpg";
+import caffe06 from "./Site_Projects/00-Caffe-Streets/Caffe-S-06.jpg";
 import caffe07 from "./Site_Projects/00-Caffe-Streets/Caffe-S-07.jpg";
 import caffe08 from "./Site_Projects/00-Caffe-Streets/Caffe-S-08.jpg";
 import caffe09 from "./Site_Projects/00-Caffe-Streets/Caffe-S-09.jpg";
 import caffe10 from "./Site_Projects/00-Caffe-Streets/Caffe-S-10.jpg";
 import caffe11 from "./Site_Projects/00-Caffe-Streets/Caffe-S-11.jpg";
+import caffe12 from "./Site_Projects/00-Caffe-Streets/Caffe-S-12.jpg";
 
 //division imports
 import division01 from "./Site_Projects/00-Division/Division-01.jpg";
@@ -254,12 +256,15 @@ import stcroix11 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix
 import stcroix12 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-12.jpg";
 
 //Wicker Park imports
-import wickerPark01 from "./Site_Projects/00-Wicker-Park/1311-01.jpg";
+import wickerPark01 from "./Site_Projects/00-Wicker-Park/1311-01.png";
 import wickerPark02 from "./Site_Projects/00-Wicker-Park/1311-02.jpg";
 import wickerPark03 from "./Site_Projects/00-Wicker-Park/1311-03.jpg";
 import wickerPark04 from "./Site_Projects/00-Wicker-Park/1311-04.jpg";
-import wickerPark05 from "./Site_Projects/00-Wicker-Park/1311-05.jpg";
-import wickerPark06 from "./Site_Projects/00-Wicker-Park/1311-06.jpg";
+import wickerPark05 from "./Site_Projects/00-Wicker-Park/1311-05.png";
+import wickerPark06 from "./Site_Projects/00-Wicker-Park/1311-06.png";
+import wickerPark07 from "./Site_Projects/00-Wicker-Park/1311-07.png";
+import wickerPark08 from "./Site_Projects/00-Wicker-Park/1311-08.jpg";
+import wickerPark09 from "./Site_Projects/00-Wicker-Park/1311-09.jpg";
 
 //woodLawn I imports
 import woodLawn01 from "./Site_Projects/00-Woodlawn-I/5527-01.png";
@@ -370,12 +375,13 @@ export const Projects = [
       caffe03,
       caffe04,
       caffe05,
-      // caffe06,
+      caffe06,
       caffe07,
       caffe08,
       caffe09,
       caffe10,
       caffe11,
+      caffe12,
     ],
   },
   {
@@ -690,6 +696,9 @@ export const Projects = [
       wickerPark04,
       wickerPark05,
       wickerPark06,
+      wickerPark07,
+      wickerPark08,
+      wickerPark09,
     ],
   },
   {
