@@ -292,49 +292,53 @@ import woodLawnII11 from "./Site_Projects/00-Woodlawn-II/5633-11.jpg";
 import woodLawnII12 from "./Site_Projects/00-Woodlawn-II/5633-12.jpg";
 import woodLawnII13 from "./Site_Projects/00-Woodlawn-II/5633-13.jpg";
 
+import photo1 from "./Site_Projects/00-Live/Live-Space-01.jpg";
+import photo2 from "./Site_Projects/00-Work/Live-Space-02.jpg";
+import photo3 from "./Site_Projects/00-Third/Third-Space-01.jpg";
+
 export const Collections = [
-  // {
-  //   type: "Live",
-  //   photos: [
-  //     photo1,
-  //     photo2,
-  //     photo3,
-  //     photo4,
-  //     photo5,
-  //     photo6,
-  //     photo7,
-  //     photo8,
-  //     photo9,
-  //   ],
-  // },
-  // {
-  //   type: "Work",
-  //   photos: [
-  //     photo9,
-  //     photo2,
-  //     photo3,
-  //     photo4,
-  //     photo5,
-  //     photo6,
-  //     photo7,
-  //     photo8,
-  //     photo9,
-  //   ],
-  // },
-  // {
-  //   type: "Third",
-  //   photos: [
-  //     photo4,
-  //     photo2,
-  //     photo3,
-  //     photo4,
-  //     photo5,
-  //     photo6,
-  //     photo7,
-  //     photo8,
-  //     photo9,
-  //   ],
-  // },
+  {
+    type: "Live",
+    photos: [
+      photo1,
+      //     photo2,
+      //     photo3,
+      //     photo4,
+      //     photo5,
+      //     photo6,
+      //     photo7,
+      //     photo8,
+      //     photo9,
+    ],
+  },
+  {
+    type: "Work",
+    photos: [
+      //     photo9,
+      photo2,
+      //     photo3,
+      //     photo4,
+      //     photo5,
+      //     photo6,
+      //     photo7,
+      //     photo8,
+      //     photo9,
+    ],
+  },
+  {
+    type: "Third",
+    photos: [
+      //     photo4,
+      //     photo2,
+      photo3,
+      //     photo4,
+      //     photo5,
+      //     photo6,
+      //     photo7,
+      //     photo8,
+      //     photo9,
+    ],
+  },
 ];
 
 export const Projects = [
