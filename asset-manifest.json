@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/norsman-site/static/css/main.1d61daab.css",
-    "main.js": "/norsman-site/static/js/main.dbe8cf44.js",
+    "main.js": "/norsman-site/static/js/main.d9231752.js",
     "static/media/1505-08.mp4": "/norsman-site/static/media/1505-08.76717bce767d40457df0.mp4",
     "static/media/Caffe-S-08.jpg": "/norsman-site/static/media/Caffe-S-08.346cd4f179f51d4227d8.jpg",
     "static/media/Caffe-S-07.jpg": "/norsman-site/static/media/Caffe-S-07.4cd3de39c55d79317ffc.jpg",
@@ -121,6 +121,7 @@
     "static/media/Leavitt3-10.jpg": "/norsman-site/static/media/Leavitt3-10.2a0b27f07bb35e722c8e.jpg",
     "static/media/Maria_s-11.jpg": "/norsman-site/static/media/Maria_s-11.6b8b08e724eb6b267c9c.jpg",
     "static/media/5740-12.jpg": "/norsman-site/static/media/5740-12.b2b6d8578064cc98f847.jpg",
+    "static/media/Third-Space-01.jpg": "/norsman-site/static/media/Third-Space-01.83a6dcb393a556d0abfa.jpg",
     "static/media/Lake-03.jpg": "/norsman-site/static/media/Lake-03.ef2659be8e39c11656e0.jpg",
     "static/media/Leavitt3-12.jpg": "/norsman-site/static/media/Leavitt3-12.27eec1047672f634c696.jpg",
     "static/media/5740-01.jpg": "/norsman-site/static/media/5740-01.f8428d215ea7cb3c54d5.jpg",
@@ -241,6 +242,7 @@
     "static/media/Live-Space-01.jpg": "/norsman-site/static/media/Live-Space-01.961f177d2122656d8237.jpg",
     "static/media/Hoffman-06.jpg": "/norsman-site/static/media/Hoffman-06.bb50a6407a42e087abd9.jpg",
     "static/media/Maria_s-09.jpg": "/norsman-site/static/media/Maria_s-09.99a80c82951752ba2d30.jpg",
+    "static/media/Live-Space-02.jpg": "/norsman-site/static/media/Live-Space-02.891d1ac76d4a877fd919.jpg",
     "static/media/1800-03.jpg": "/norsman-site/static/media/1800-03.470fc02d7f569c897136.jpg",
     "static/media/Nonnina-08.jpg": "/norsman-site/static/media/Nonnina-08.245ad038cd186982c66b.jpg",
     "static/media/Marz-05.jpg": "/norsman-site/static/media/Marz-05.8e7d28a3707a61996394.jpg",
@@ -263,10 +265,10 @@
     "static/media/ARLRDBD.TTF": "/norsman-site/static/media/ARLRDBD.78ccc3bbe2236b324bfb.TTF",
     "index.html": "/norsman-site/index.html",
     "main.1d61daab.css.map": "/norsman-site/static/css/main.1d61daab.css.map",
-    "main.dbe8cf44.js.map": "/norsman-site/static/js/main.dbe8cf44.js.map"
+    "main.d9231752.js.map": "/norsman-site/static/js/main.d9231752.js.map"
   },
   "entrypoints": [
     "static/css/main.1d61daab.css",
-    "static/js/main.dbe8cf44.js"
+    "static/js/main.d9231752.js"
   ]
 }
