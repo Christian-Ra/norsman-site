@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/norsman-site/static/css/main.bdce7b2c.css",
-    "main.js": "/norsman-site/static/js/main.146afd27.js",
+    "main.css": "/norsman-site/static/css/main.1d61daab.css",
+    "main.js": "/norsman-site/static/js/main.dbe8cf44.js",
     "static/media/1505-08.mp4": "/norsman-site/static/media/1505-08.76717bce767d40457df0.mp4",
     "static/media/Caffe-S-08.jpg": "/norsman-site/static/media/Caffe-S-08.346cd4f179f51d4227d8.jpg",
     "static/media/Caffe-S-07.jpg": "/norsman-site/static/media/Caffe-S-07.4cd3de39c55d79317ffc.jpg",
@@ -262,11 +262,11 @@
     "static/media/website temp profile photo.jpg": "/norsman-site/static/media/website temp profile photo.a7d259fde241d31e0a3a.jpg",
     "static/media/ARLRDBD.TTF": "/norsman-site/static/media/ARLRDBD.78ccc3bbe2236b324bfb.TTF",
     "index.html": "/norsman-site/index.html",
-    "main.bdce7b2c.css.map": "/norsman-site/static/css/main.bdce7b2c.css.map",
-    "main.146afd27.js.map": "/norsman-site/static/js/main.146afd27.js.map"
+    "main.1d61daab.css.map": "/norsman-site/static/css/main.1d61daab.css.map",
+    "main.dbe8cf44.js.map": "/norsman-site/static/js/main.dbe8cf44.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdce7b2c.css",
-    "static/js/main.146afd27.js"
+    "static/css/main.1d61daab.css",
+    "static/js/main.dbe8cf44.js"
   ]
 }
