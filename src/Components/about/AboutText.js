@@ -1,5 +1,5 @@
-import brentPhoto from "../../Graphics/Brent.jpg";
-import tomPhoto from "../../Graphics/website temp profile photo.jpg";
+import brentPhoto from "../../Graphics/01-Brent.jpg";
+import tomPhoto from "../../Graphics/02-Tom-Novak.jpg";
 import jakePhoto from "../../Graphics/03-Jake-Gagner.jpg";
 import muPhoto from "../../Graphics/04-Mu-Cao.jpg";
 
@@ -21,7 +21,7 @@ const aboutData = [
     ],
   },
   {
-    heading: "Design Build",
+    heading: "Design Strategy",
     content: [
       "Norsman Architects seek innovative solutions for built environments. As a full service architectural practice, our projects present opportunities to explore new paradigms in housing and urban development; including mixed-use developments, environmentally responsive adaptive reuse, commercial and residential work.",
       "With an emphasis on conceptual exploration, Norsman Architects believe that a building’s use, its context and original characteristics are critical tools that guide the design process. We work to enrich and enliven this process through a thoughtful and collaborative approach with all parties to the construction process, continually seeking the highest standards of design excellence.",
@@ -32,7 +32,7 @@ const aboutData = [
 export const teamInfo = [
   {
     name: "Brent Norsman, AIA",
-    title: "Founding Principal",
+    title: "Principal",
     bio: "Brent is the founder and principal of Norsman Architects. Throughout his nearly 30 years of architectural practice in the urban backdrop of the City of Chicago he has consistently employed a thoughtful approach to his designs, always considering the context of the local community, challenges of site, context, program, and sustainability.",
     education: [
       "Master of Architecture - University of Illinois, Chicago, Chicago, 1995",
@@ -44,9 +44,14 @@ export const teamInfo = [
       "Adjunct Associate Professor, Illinois Institute of Technology - 2007 to Present",
       "H+P, Ltd., 1996-2003 - Senior Project Architect",
       "Kathryn Quinn Architects, -1994 - Intern",
+      "Taliesin Preservation Commission, - 1991-1992",
+      "Assistant to Preservation Director and Project Architect in the historic restoration of Frank Lloyd Wright’s home in Spring Green, Wisconsin Department of Administration, State of Wisconsin -1989-1991",
+      "Assistant to the Secretary of the Dept. of Administration, the Governor’s right-hand state-official",
     ],
     affiliations: [
+      "City appointed Commissioner for Wicker Park/Bucktown Special Service Assessment (SSA #33)",
       "Member First Ward Milwaukee Avenue Advisory Committee",
+      "Guest Facilitator and Critic, University of Illinois-Chicago and Illinois Institute of Technology",
       "American Institute of Architects (AIA)",
       "National Council of Architectural Registration Boards (NCARB)",
     ],
@@ -54,26 +59,27 @@ export const teamInfo = [
 
   {
     name: "Tom Novak",
-    title: "Project Manager & Designer",
-    bio: "Tom is an associate architect for Norsman Architects. He assists in all aspects of architectural design, from client presentations to working with the construction team. His passion for architecture is compounded by a deep interest in construction, spatial design, sustainability and nature. His approach to projects involves designing spaces that are both human-centered, incorporate natural materials and light and are efficient in terms of materials and energy. He has extensive experience in utilizing design tools and hands-on construction.",
+    title: "Project Manager + Designer",
+    bio: "Tom is a project manager and designer for Norsman Architects. He assists in all aspects of architectural design, from client presentations to working with the construction team. His passion for architecture is compounded by a deep interest in construction, spatial design, sustainability and nature. His approach to projects involves designing spaces that are human-centered, incorporate natural materials and light and are efficient in terms of materials and energy. He has extensive experience in utilizing design tools and hands-on construction.",
     education: [
       "Bachelor of Architecture, Illinois Institute of Technology, Chicago, 2023",
     ],
     headshot: tomPhoto,
     work: [
-      "Associate Architect - Norsman Architects - 2023 to present",
+      "Project Manager + Designer - Norsman Architects - 2024 to present",
+      "Architectual Associate - Norsman Architects - 2023 - 2024",
       "Architectural Intern - Taylor Architecture & Design, North Plainfield, NJ",
     ],
   },
   {
     name: "Jake Gagner",
     title: "Architectual Associate",
-    bio: "",
+    bio: "Jake is an architectural associate for Norsman Architects. He assists in all aspects of architectural design, from client presentations to developing permit and construction drawings.",
     education: [
-      "Bachelor of Architecture, Illinois Institute of Technology, Chicago, 2023",
+      "Bachelor of Architecture, Illinois Institute of Technology, Chicago, 2023 Specialization in Design-Build, Minor in Construction Management",
     ],
     headshot: jakePhoto,
-    work: [""],
+    work: ["Architectural Associate - Norsman Architects - 2024 to present"],
   },
   {
     name: "Mu Cao",

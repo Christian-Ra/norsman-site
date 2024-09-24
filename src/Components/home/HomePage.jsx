@@ -108,12 +108,10 @@ export default function HomePage() {
         <div className="cta-content landing-mask" key={"cta"}>
           <Link to="/norsman-site/about">
             <h1 className="cta">
-              Norsman Architects seek innovative solutions for built
-              environments. As a full service architectural practice, our
-              projects present opportunities to explore new paradigms in housing
-              and urban development; including mixed-use developments,
-              environmentally responsive adaptive reuse, commercial and
-              residential work.
+              Our firm looks to stitch their work into the urban fabric, provide
+              for sustainable long reaching solutions, and provide dynamic
+              spatial experiences that extend beyond the building’s interior
+              into the urban landscape beyond.
             </h1>
           </Link>
         </div>

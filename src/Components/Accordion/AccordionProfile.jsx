@@ -28,8 +28,8 @@ const AccordionProfile = ({ heading, content, isOpen, onClick }) => {
         style={
           isOpen
             ? matches
-              ? { height: "1600px" }
-              : { height: "2650px" }
+              ? { height: "2800px" }
+              : { height: "3050px" }
             : { height: "0px" }
         }
       >

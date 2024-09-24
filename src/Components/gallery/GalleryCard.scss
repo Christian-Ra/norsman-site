@@ -2,6 +2,17 @@
 @use "../../mixins.scss" as *;
 @use "../../variables" as *;
 
+#Woodlawn\ II {
+    background-position: top;
+}
+
+#Maria\'s {
+    background-position: bottom;
+}
+
+#Lake\ Meadows {
+    background-position: 20% 80%;
+}
 .project-card {
     background-color: #f9f9f9;
     background-size: cover;
