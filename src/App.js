@@ -11,6 +11,7 @@ import ProjectPage from "./Components/portfolio/ProjectPage";
 import Contact from "./Components/contact/Contact";
 import About from "./Components/about/About";
 import Collage from "./Components/collage/Collage";
+import ErrorPage from "./ErrorPage";
 import { AnimatePresence } from "framer-motion";
 import { Projects, Collections } from "./ProjectList";
 
@@ -31,12 +32,14 @@ function App() {
             element={<ProjectPage projects={Projects} />}
           ></Route>
           <Route path="/norsman-site/contact" element={<Contact />}></Route>
-          <Route
+          {/* <Route
             path="/norsman-site/collections/:type"
             element={<Collage collections={Collections} />}
-          ></Route>
+          ></Route> */}
           <Route path="/norsman-site/about" element={<About />}></Route>
           <Route path="/norsman-site" element={<HomePage />}></Route>
+
+          <Route path="*" element={<ErrorPage />}></Route>
         </Routes>
         {/* <ScrollRestoration
           getKey={(location, matches) => {
