@@ -45,10 +45,11 @@
             display: inline;
             width: 100%;
             border-radius: 3px;
+            height: auto;
             @include breakpoint-up(medium) {
                 width: 235px;
+                height: 315px;
             }
-            height: auto;
         }
 
         .team-heading {

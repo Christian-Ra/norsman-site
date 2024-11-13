@@ -7,8 +7,8 @@ import { useEffect } from "react";
 import quoteImage from "../../Graphics/landing-staircase.jpg";
 import logo from "../../Graphics/Norsman Logo 2024 Transparent.png";
 import landingImage1 from "../../Landing_photos/Leavitt3-01.jpg"; //TODO: Lower the focus point, logo sits above window
-import landingImage2 from "../../Landing_photos/Live-Space-01.jpg";
-import landingImage3 from "../../Landing_photos/Maria's-04.jpg";
+import landingImage2 from "../../Landing_photos/Marion-Court-House-06.jpg";
+import landingImage3 from "../../Landing_photos/Maria_s-04.jpg";
 import landingImage4 from "../../Landing_photos/New-City-Moving-02.jpg";
 import landingImage5 from "../../Landing_photos/Potomac-01.jpg"; //TODO: Lower the focus point, logo sits above window
 import landingImage6 from "../../Landing_photos/St-Croix-Falls-01.jpg";
