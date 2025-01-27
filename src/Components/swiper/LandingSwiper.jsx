@@ -31,7 +31,7 @@ export default function LandingSwiper({ landingImages }) {
           enabled: true,
         }}
         autoplay={{
-          delay: 5000,
+          delay: 3500,
           disableOnInteraction: false,
         }}
         modules={[Autoplay, EffectFade, Navigation, Keyboard]}

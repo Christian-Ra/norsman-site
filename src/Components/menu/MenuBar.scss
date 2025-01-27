@@ -53,6 +53,10 @@
         }
         width: 40px; /* Adjust the size as needed */
         height: 40px;
+        @include breakpoint-down("small") {
+            width: 35px;
+            height: 35px;
+        }
         border-radius: 3px;
     }
 }

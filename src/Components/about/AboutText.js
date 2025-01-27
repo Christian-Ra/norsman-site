@@ -21,7 +21,7 @@ const aboutData = [
     ],
   },
   {
-    heading: "Design Strategy",
+    heading: "Design Process",
     content: [
       "Norsman Architects seek innovative solutions for built environments. As a full service architectural practice, our projects present opportunities to explore new paradigms in housing and urban development; including mixed-use developments, environmentally responsive adaptive reuse, commercial and residential work.",
       "With an emphasis on conceptual exploration, Norsman Architects believe that a building’s use, its context and original characteristics are critical tools that guide the design process. We work to enrich and enliven this process through a thoughtful and collaborative approach with all parties to the construction process, continually seeking the highest standards of design excellence.",
@@ -35,10 +35,9 @@ export const teamInfo = [
     title: "Principal",
     bio: "Brent is the founder and principal of Norsman Architects. Throughout his nearly 30 years of architectural practice in the urban backdrop of the City of Chicago he has consistently employed a thoughtful approach to his designs, always considering the context of the local community, challenges of site, context, program, and sustainability.",
     education: [
-      "Master of Architecture",
-      "- University of Illinois, Chicago, Chicago, 1995",
-      "Bachelor of Arts, Economics and Philosophy",
-      "- University of Wisconsin-Madison, 1990",
+      `Master of Architecture
+      - University of Illinois, Chicago, Chicago, 1995`,
+      "Bachelor of Arts, Economics and Philosophy - University of Wisconsin-Madison, 1990",
     ],
     headshot: brentPhoto,
     work: [
@@ -101,10 +100,8 @@ export const teamInfo = [
     title: "Architectual Intern",
     bio: "Mu is an architectural intern at Norsman Architects. She assists in project documentation, visualization and participates in design conversations. She seeks to contribute to projects that stand at the intersection of architecture, nature, and sustainability, and to further her growth as a designer within a firm that shapes the built environment through pioneering and impactful design.",
     education: [
-      "Master of Architecture (candidate, NAAB Accredited Program)",
-      "- University of Pennsylvania, Philadelphia - 2023 to present",
-      "Bachelor’s of Engineering with Honors in Architecture",
-      "- University of Nottingham, Ningbo, China (UNNC) - 2017 to 2021",
+      "Master of Architecture - University of Pennsylvania, Philadelphia - 2023 to present",
+      "Bachelor’s of Engineering with Honors in Architecture - University of Nottingham, Ningbo, China (UNNC) - 2017 to 2021",
       // TODO: Figure out workaround for when there is overhang from education in bio
       // "Exchange Student, University of Nottingham (UNUK), Nottingham, United Kingdom, 2020",
     ],

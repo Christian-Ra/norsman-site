@@ -32,10 +32,10 @@ function App() {
             element={<ProjectPage projects={Projects} />}
           ></Route>
           <Route path="/norsman-site/contact" element={<Contact />}></Route>
-          {/* <Route
+          <Route
             path="/norsman-site/collections/:type"
             element={<Collage collections={Collections} />}
-          ></Route> */}
+          ></Route>
           <Route path="/norsman-site/about" element={<About />}></Route>
           <Route path="/norsman-site" element={<HomePage />}></Route>
 

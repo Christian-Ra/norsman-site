@@ -22,10 +22,10 @@ export default function MenuBar() {
 
   const isMobile = useMediaQuery("(min-width:1024px)");
 
-  const match = useMatch("/norsman-site/about");
+  const onAbout = useMatch("/norsman-site/about");
 
   const hamburgerStyle =
-    match && isMobile
+    onAbout && isMobile
       ? { backgroundColor: "rgb(237, 237, 237)" }
       : { backgroundColor: "#fdb715" };
   return (
@@ -98,6 +98,7 @@ export default function MenuBar() {
       <Link
         to="/norsman-site"
         state={{ targetId: "landing" }}
+        style={{ display: activeMenu && isMobile ? "none" : "block" }}
         className="small-logo"
       >
         <img src={logoIcon} alt="norsman" />
