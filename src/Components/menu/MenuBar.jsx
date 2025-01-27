@@ -20,12 +20,12 @@ export default function MenuBar() {
     setActiveMenu(!activeMenu);
   };
 
-  const isMobile = useMediaQuery("(min-width:1024px)");
+  const isMobile = useMediaQuery("(max-width:1024px)");
 
   const onAbout = useMatch("/norsman-site/about");
 
   const hamburgerStyle =
-    onAbout && isMobile
+    onAbout && !isMobile
       ? { backgroundColor: "rgb(237, 237, 237)" }
       : { backgroundColor: "#fdb715" };
   return (
@@ -102,6 +102,8 @@ export default function MenuBar() {
         className="small-logo"
       >
         <img src={logoIcon} alt="norsman" />
+        {console.log("ismobile active: " + isMobile)}
+        {console.log("active menu: " + activeMenu)}
       </Link>
       <Outlet />
     </header>

@@ -302,7 +302,7 @@ import photo3 from "./Site_Projects/00-Third/Third-Space-01.jpg";
 
 export const Collections = [
   {
-    type: "Live",
+    type: "On The Boards",
     photos: [
       photo1,
       photo1,
@@ -324,7 +324,7 @@ export const Collections = [
     ],
   },
   {
-    type: "Work",
+    type: "Archive",
     photos: [
       //     photo9,
       photo2,
@@ -338,7 +338,7 @@ export const Collections = [
     ],
   },
   {
-    type: "Third",
+    type: "Urban",
     photos: [
       //     photo4,
       //     photo2,

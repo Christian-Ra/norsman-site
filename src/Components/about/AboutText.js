@@ -35,8 +35,10 @@ export const teamInfo = [
     title: "Principal",
     bio: "Brent is the founder and principal of Norsman Architects. Throughout his nearly 30 years of architectural practice in the urban backdrop of the City of Chicago he has consistently employed a thoughtful approach to his designs, always considering the context of the local community, challenges of site, context, program, and sustainability.",
     education: [
-      `Master of Architecture
-      - University of Illinois, Chicago, Chicago, 1995`,
+      [
+        "Master of Architecture",
+        "- University of Illinois, Chicago, Chicago, 1995",
+      ],
       "Bachelor of Arts, Economics and Philosophy - University of Wisconsin-Madison, 1990",
     ],
     headshot: brentPhoto,
