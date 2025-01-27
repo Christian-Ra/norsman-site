@@ -14,12 +14,12 @@ const aboutData = [
       "By thoughtfully and sensitively fostering relationships between architecture, its occupants and the urban and natural environments, Norsman Architects creates structures and sites that are as unique as their circumstances.",
     ],
   },
-  {
-    heading: "Our Philosophy",
-    content: [
-      "Our firm looks to stitch their work into the urban fabric, provide for sustainable long reaching solutions, and provide dynamic spatial experiences that extend beyond the building’s interior into the urban landscape beyond.",
-    ],
-  },
+  // {
+  //   heading: "Our Philosophy",
+  //   content: [
+  //     "Our firm looks to stitch their work into the urban fabric, provide for sustainable long reaching solutions, and provide dynamic spatial experiences that extend beyond the building’s interior into the urban landscape beyond.",
+  //   ],
+  // },
   {
     heading: "Design Process",
     content: [

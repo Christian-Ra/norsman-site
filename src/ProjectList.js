@@ -270,16 +270,28 @@ import wickerPark07 from "./Site_Projects/00-Wicker-Park/1311-07.png";
 import wickerPark08 from "./Site_Projects/00-Wicker-Park/1311-08.jpg";
 import wickerPark09 from "./Site_Projects/00-Wicker-Park/1311-09.jpg";
 
+//wolcott imports
+import wolcott01 from "./Site_Projects/08-Wolcott/Wolcott-01.jpg";
+import wolcott02 from "./Site_Projects/08-Wolcott/Wolcott-2.jpg";
+import wolcott03 from "./Site_Projects/08-Wolcott/Wolcott-3.jpg";
+import wolcott04 from "./Site_Projects/08-Wolcott/Wolcott-4.jpg";
+import wolcott05 from "./Site_Projects/08-Wolcott/Wolcott-5.jpg";
+import wolcott06 from "./Site_Projects/08-Wolcott/Wolcott-6.jpg";
+import wolcott07 from "./Site_Projects/08-Wolcott/Wolcott-7.jpg";
+import wolcott08 from "./Site_Projects/08-Wolcott/Wolcott-08.jpg";
+import wolcott09 from "./Site_Projects/08-Wolcott/Wolcott-09.jpg";
+import wolcott10 from "./Site_Projects/08-Wolcott/Wolcott-10.jpg";
+
 //woodLawn I imports
-import woodLawn01 from "./Site_Projects/00-Woodlawn-I/5527-01.png";
-import woodLawn02 from "./Site_Projects/00-Woodlawn-I/5527-02.jpg";
-import woodLawn03 from "./Site_Projects/00-Woodlawn-I/5527-03.png";
-import woodLawn04 from "./Site_Projects/00-Woodlawn-I/5527-04.jpg";
-import woodLawn05 from "./Site_Projects/00-Woodlawn-I/5527-05.jpg";
-import woodLawn06 from "./Site_Projects/00-Woodlawn-I/5527-06.jpg";
-import woodLawn07 from "./Site_Projects/00-Woodlawn-I/5527-07.jpg";
-import woodLawn08 from "./Site_Projects/00-Woodlawn-I/5527-08.jpg";
-import woodLawn09 from "./Site_Projects/00-Woodlawn-I/5527-09.png";
+// import woodLawn01 from "./Site_Projects/00-Woodlawn-I/5527-01.png";
+// import woodLawn02 from "./Site_Projects/00-Woodlawn-I/5527-02.jpg";
+// import woodLawn03 from "./Site_Projects/00-Woodlawn-I/5527-03.png";
+// import woodLawn04 from "./Site_Projects/00-Woodlawn-I/5527-04.jpg";
+// import woodLawn05 from "./Site_Projects/00-Woodlawn-I/5527-05.jpg";
+// import woodLawn06 from "./Site_Projects/00-Woodlawn-I/5527-06.jpg";
+// import woodLawn07 from "./Site_Projects/00-Woodlawn-I/5527-07.jpg";
+// import woodLawn08 from "./Site_Projects/00-Woodlawn-I/5527-08.jpg";
+// import woodLawn09 from "./Site_Projects/00-Woodlawn-I/5527-09.png";
 
 //woodlawn II imports
 import woodLawnII01 from "./Site_Projects/00-Woodlawn-II/5633-01.jpg";
@@ -356,7 +368,7 @@ export const Collections = [
 export const Projects = [
   {
     coverPhoto: woodLawnII01,
-    title: "Woodlawn II",
+    title: "Woodlawn",
     description: [""],
     photos: [
       woodLawnII01,
@@ -489,19 +501,20 @@ export const Projects = [
     videos: [milwaukee07],
   },
   {
-    coverPhoto: woodLawn01,
-    title: "Woodlawn I",
+    coverPhoto: wolcott01,
+    title: "Wolcott",
     description: [""],
     photos: [
-      woodLawn01,
-      woodLawn02,
-      woodLawn03,
-      woodLawn04,
-      woodLawn05,
-      woodLawn06,
-      woodLawn07,
-      woodLawn08,
-      woodLawn09,
+      wolcott01,
+      wolcott02,
+      wolcott03,
+      wolcott04,
+      wolcott05,
+      wolcott06,
+      wolcott07,
+      wolcott08,
+      wolcott09,
+      wolcott10,
     ],
   },
   {

@@ -79,16 +79,32 @@ export default function MenuBar() {
             <li className="footerLink">info@norsmanarchitects.com</li>
             <li className="footerLink">+ 1-773-252-9448</li>
             <li className="footerLink">
-              <a href="https://www.instagram.com/norsman_architects/?hl=en">
+              <a
+                href="https://www.instagram.com/norsman_architects/?hl=en"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <InstagramIcon fontSize="30px" className="social-icon" />
               </a>
-              <a href="https://www.facebook.com/NorsmanArchitects/">
+              <a
+                href="https://www.facebook.com/NorsmanArchitects/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <FacebookIcon fontSize="30px" className="social-icon" />
               </a>
-              <a href="https://www.linkedin.com/company/norsman-architect-led-design-build/">
+              <a
+                href="https://www.linkedin.com/company/norsman-architect-led-design-build/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <LinkedInIcon fontSize="30px" className="social-icon" />
               </a>
-              <a href="https://www.houzz.com/professionals/architects-and-building-designers/norsman-architects-ltd-pfvwus-pf~1635802663">
+              <a
+                href="https://www.houzz.com/professionals/architects-and-building-designers/norsman-architects-ltd-pfvwus-pf~1635802663"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
                 <img src={houzzLogo} className="houzzIcon" alt="houzz logo" />
               </a>
             </li>
@@ -102,8 +118,6 @@ export default function MenuBar() {
         className="small-logo"
       >
         <img src={logoIcon} alt="norsman" />
-        {console.log("ismobile active: " + isMobile)}
-        {console.log("active menu: " + activeMenu)}
       </Link>
       <Outlet />
     </header>
