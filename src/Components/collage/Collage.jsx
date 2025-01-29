@@ -6,15 +6,9 @@ import { motion } from "framer-motion";
 
 const Collage = ({ collections }) => {
   const match = useMatch("/norsman-site/collections/:type");
-
-  const modifyLink = (str) => {
-    return str.replaceAll(" ", "-").toLowerCase();
-  };
-
   const collection = match
     ? collections.find(
-        (collection) =>
-          modifyLink(collection.type) === String(match.params.type)
+        (collection) => collection.type === String(match.params.type)
       )
     : null;
   if (!collection) {

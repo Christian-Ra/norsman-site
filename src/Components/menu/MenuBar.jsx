@@ -20,13 +20,12 @@ export default function MenuBar() {
     setActiveMenu(!activeMenu);
   };
 
-  const isTablet = useMediaQuery("(max-width:1024px)");
-  const isMobile = useMediaQuery("(max-width:640px)");
+  const isMobile = useMediaQuery("(max-width:1024px)");
 
   const onAbout = useMatch("/norsman-site/about");
 
   const hamburgerStyle =
-    onAbout && !isTablet
+    onAbout && !isMobile
       ? { backgroundColor: "rgb(237, 237, 237)" }
       : { backgroundColor: "#fdb715" };
   return (
