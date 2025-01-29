@@ -46,10 +46,8 @@ export const teamInfo = [
       "Norsman Architects, Ltd., President - 2003 to Present",
       "Adjunct Associate Professor, Illinois Institute of Technology - 2007 to Present",
       "H+P, Ltd., 1996-2003 - Senior Project Architect",
-      "Kathryn Quinn Architects, -1994 - Intern",
       "Taliesin Preservation Commission, - 1991-1992",
       "Assistant to Preservation Director and Project Architect in the historic restoration of Frank Lloyd Wright’s home in Spring Green, Wisconsin Department of Administration, State of Wisconsin -1989-1991",
-      "Assistant to the Secretary of the Dept. of Administration, the Governor’s right-hand state-official",
     ],
     affiliations: [
       "City appointed Commissioner for Wicker Park/Bucktown Special Service Assessment (SSA #33)",
