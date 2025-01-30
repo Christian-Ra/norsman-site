@@ -313,23 +313,63 @@ import woodLawn14 from "./Site_Projects/01-Woodlawn/Woodlawn-15.png";
 import woodLawn15 from "./Site_Projects/01-Woodlawn/Woodlawn-16.jpg";
 import woodLawn16 from "./Site_Projects/01-Woodlawn/Woodlawn-17.jpg";
 
-import photo1 from "./Site_Projects/00-Live/Live-Space-01.jpg";
-import photo2 from "./Site_Projects/00-Work/Live-Space-02.jpg";
-import photo3 from "./Site_Projects/00-Third/Third-Space-01.jpg";
+// import photo1 from "./Site_Projects/00-Live/Live-Space-01.jpg";
+// import photo2 from "./Site_Projects/00-Work/Live-Space-02.jpg";
+// import photo3 from "./Site_Projects/00-Third/Third-Space-01.jpg";
+
+import ontheBoards01 from "./Site_Projects/22-On-The-Boards/01-Illumina-01.png";
+import ontheBoards02 from "./Site_Projects/22-On-The-Boards/01-Illumina-02.png";
+import ontheBoards03 from "./Site_Projects/22-On-The-Boards/01-Illumina-03.png";
+import ontheBoards04 from "./Site_Projects/22-On-The-Boards/01-Illumina-04.png";
+import ontheBoards05 from "./Site_Projects/22-On-The-Boards/01-Illumina-05.jpg";
+import ontheBoards06 from "./Site_Projects/22-On-The-Boards/01-Illumina-06.jpg";
+import ontheBoards07 from "./Site_Projects/22-On-The-Boards/02-Wood-01.png";
+import ontheBoards08 from "./Site_Projects/22-On-The-Boards/02-Wood-02.jpg";
+import ontheBoards09 from "./Site_Projects/22-On-The-Boards/02-Wood-03.jpg";
+import ontheBoards10 from "./Site_Projects/22-On-The-Boards/02-Wood-04.png";
+import ontheBoards11 from "./Site_Projects/22-On-The-Boards/02-Wood-05.jpg";
+import ontheBoards12 from "./Site_Projects/22-On-The-Boards/02-Wood-06.png";
+import ontheBoards13 from "./Site_Projects/22-On-The-Boards/03-Atlantic-01.png";
+import ontheBoards14 from "./Site_Projects/22-On-The-Boards/03-Atlantic-02.png";
+import ontheBoards15 from "./Site_Projects/22-On-The-Boards/03-Atlantic-03.png";
+import ontheBoards16 from "./Site_Projects/22-On-The-Boards/03-Atlantic-04.png";
+import ontheBoards17 from "./Site_Projects/22-On-The-Boards/03-Atlantic-05.png";
+import ontheBoards18 from "./Site_Projects/22-On-The-Boards/03-Atlantic-06.png";
+import ontheBoards19 from "./Site_Projects/22-On-The-Boards/04-Mpower-01.jpg";
+import ontheBoards20 from "./Site_Projects/22-On-The-Boards/04-Mpower-02.jpg";
+import ontheBoards21 from "./Site_Projects/22-On-The-Boards/04-Mpower-03.jpg";
+import ontheBoards22 from "./Site_Projects/22-On-The-Boards/04-Mpower-04.jpg";
+import ontheBoards23 from "./Site_Projects/22-On-The-Boards/04-Mpower-05.jpg";
+import ontheBoards24 from "./Site_Projects/22-On-The-Boards/04-Mpower-06.png";
 
 export const Collections = [
   {
     type: "On The Boards",
     photos: [
-      photo1,
-      photo1,
-      photo1,
-      photo1,
-      photo1,
-      photo1,
-      photo1,
-      photo1,
-      photo1,
+      ontheBoards01,
+      ontheBoards02,
+      ontheBoards03,
+      ontheBoards04,
+      ontheBoards05,
+      ontheBoards06,
+      ontheBoards07,
+      ontheBoards08,
+      ontheBoards09,
+      ontheBoards10,
+      ontheBoards11,
+      ontheBoards12,
+      ontheBoards13,
+      ontheBoards14,
+      ontheBoards15,
+      ontheBoards16,
+      ontheBoards17,
+      ontheBoards18,
+      ontheBoards19,
+      ontheBoards20,
+      ontheBoards21,
+      ontheBoards22,
+      ontheBoards23,
+      ontheBoards24,
       //     photo2,
       //     photo3,
       //     photo4,
@@ -344,7 +384,7 @@ export const Collections = [
     type: "Under Construction",
     photos: [
       //     photo9,
-      photo2,
+      ontheBoards01,
       //     photo3,
       //     photo4,
       //     photo5,
@@ -359,7 +399,7 @@ export const Collections = [
     photos: [
       //     photo4,
       //     photo2,
-      photo3,
+      ontheBoards01,
       //     photo4,
       //     photo5,
       //     photo6,
