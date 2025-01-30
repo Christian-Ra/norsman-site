@@ -385,6 +385,99 @@ import construction43 from "./Site_Projects/23-Under-Construction/04-Woodlawn-05
 import construction44 from "./Site_Projects/23-Under-Construction/04-Woodlawn-06.jpeg";
 import construction45 from "./Site_Projects/23-Under-Construction/05-Marz-01.jpg";
 
+//archive imports
+import archive01 from "./Site_Projects/24-Archive/01-Metric-Coffee-01.png";
+import archive02 from "./Site_Projects/24-Archive/01-Metric-Coffee-02.png";
+import archive03 from "./Site_Projects/24-Archive/01-Metric-Coffee-03.jpg";
+import archive04 from "./Site_Projects/24-Archive/01-Metric-Coffee-04.jpg";
+import archive05 from "./Site_Projects/24-Archive/01-Metric-Coffee-05.jpg";
+import archive06 from "./Site_Projects/24-Archive/01-Metric-Coffee-06.jpg";
+import archive07 from "./Site_Projects/24-Archive/02-Potomac-II-01.jpg";
+import archive08 from "./Site_Projects/24-Archive/02-Potomac-II-02.jpg";
+import archive09 from "./Site_Projects/24-Archive/02-Potomac-II-03.jpg";
+import archive10 from "./Site_Projects/24-Archive/02-Potomac-II-04.jpg";
+import archive11 from "./Site_Projects/24-Archive/02-Potomac-II-05.jpg";
+import archive12 from "./Site_Projects/24-Archive/02-Potomac-II-06.jpg";
+import archive13 from "./Site_Projects/24-Archive/03-Racine-01.jpg";
+import archive14 from "./Site_Projects/24-Archive/03-Racine-02.jpg";
+import archive15 from "./Site_Projects/24-Archive/03-Racine-03.jpg";
+import archive16 from "./Site_Projects/24-Archive/03-Racine-04.jpg";
+import archive17 from "./Site_Projects/24-Archive/03-Racine-05.jpg";
+import archive18 from "./Site_Projects/24-Archive/03-Racine-06.jpg";
+import archive19 from "./Site_Projects/24-Archive/04-Association-House-01.jpg";
+import archive20 from "./Site_Projects/24-Archive/04-Association-House-02.jpg";
+import archive21 from "./Site_Projects/24-Archive/04-Association-House-03.jpg";
+import archive22 from "./Site_Projects/24-Archive/04-Association-House-04.jpg";
+import archive23 from "./Site_Projects/24-Archive/04-Association-House-05.jpg";
+import archive24 from "./Site_Projects/24-Archive/04-Association-House-06.jpg";
+import archive25 from "./Site_Projects/24-Archive/05-Pied-a-Terre-01.jpg";
+import archive26 from "./Site_Projects/24-Archive/05-Pied-a-Terre-02.jpg";
+import archive27 from "./Site_Projects/24-Archive/05-Pied-a-Terre-03.jpg";
+import archive28 from "./Site_Projects/24-Archive/05-Pied-a-Terre-04.jpg";
+import archive29 from "./Site_Projects/24-Archive/05-Pied-a-Terre-05.jpg";
+import archive30 from "./Site_Projects/24-Archive/05-Pied-a-Terre-06.jpg";
+import archive31 from "./Site_Projects/24-Archive/06-688-Milwaukee-01.jpg";
+import archive32 from "./Site_Projects/24-Archive/06-688-Milwaukee-02.jpg";
+import archive33 from "./Site_Projects/24-Archive/06-688-Milwaukee-03.jpg";
+import archive34 from "./Site_Projects/24-Archive/07-Marion-Court-House-01.jpg";
+import archive35 from "./Site_Projects/24-Archive/07-Marion-Court-House-02.jpg";
+import archive36 from "./Site_Projects/24-Archive/07-Marion-Court-House-03.jpg";
+import archive37 from "./Site_Projects/24-Archive/07-Marion-Court-House-04.jpg";
+import archive38 from "./Site_Projects/24-Archive/07-Marion-Court-House-05.jpg";
+import archive39 from "./Site_Projects/24-Archive/07-Marion-Court-House-06.jpg";
+import archive40 from "./Site_Projects/24-Archive/08-CoPro-Radio-Studio-01.jpg";
+import archive41 from "./Site_Projects/24-Archive/08-CoPro-Radio-Studio-02.jpg";
+import archive42 from "./Site_Projects/24-Archive/08-CoPro-Radio-Studio-03.jpg";
+import archive43 from "./Site_Projects/24-Archive/09-School-01.jpg";
+import archive44 from "./Site_Projects/24-Archive/09-School-02.jpg";
+import archive45 from "./Site_Projects/24-Archive/09-School-03.jpg";
+import archive46 from "./Site_Projects/24-Archive/10-Elston-01.jpg";
+import archive47 from "./Site_Projects/24-Archive/10-Elston-02.jpg";
+import archive48 from "./Site_Projects/24-Archive/10-Elston-03.jpg";
+import archive49 from "./Site_Projects/24-Archive/10-Elston-04.jpg";
+import archive50 from "./Site_Projects/24-Archive/10-Elston-05.jpg";
+import archive51 from "./Site_Projects/24-Archive/10-Elston-06.jpg";
+import archive52 from "./Site_Projects/24-Archive/11-Suburban-Farmette-01.jpg";
+import archive53 from "./Site_Projects/24-Archive/11-Suburban-Farmette-02.jpg";
+import archive54 from "./Site_Projects/24-Archive/11-Suburban-Farmette-03.jpg";
+import archive55 from "./Site_Projects/24-Archive/11-Suburban-Farmette-04.jpg";
+import archive56 from "./Site_Projects/24-Archive/11-Suburban-Farmette-05.jpg";
+import archive57 from "./Site_Projects/24-Archive/11-Suburban-Farmette-06.jpg";
+import archive58 from "./Site_Projects/24-Archive/12-Juicy-01.jpg";
+import archive59 from "./Site_Projects/24-Archive/12-Juicy-02.jpg";
+import archive60 from "./Site_Projects/24-Archive/12-Juicy-03.jpg";
+import archive61 from "./Site_Projects/24-Archive/12-Juicy-04.jpg";
+import archive62 from "./Site_Projects/24-Archive/12-Juicy-05.jpg";
+import archive63 from "./Site_Projects/24-Archive/12-Juicy-06.jpg";
+import archive64 from "./Site_Projects/24-Archive/13-Moorman-01.jpg";
+import archive65 from "./Site_Projects/24-Archive/13-Moorman-02.jpg";
+import archive66 from "./Site_Projects/24-Archive/13-Moorman-03.jpg";
+import archive67 from "./Site_Projects/24-Archive/13-Moorman-04.jpg";
+import archive68 from "./Site_Projects/24-Archive/13-Moorman-05.jpg";
+import archive69 from "./Site_Projects/24-Archive/13-Moorman-06.jpg";
+import archive70 from "./Site_Projects/24-Archive/14-Piccolo-Sogno-01.jpg";
+import archive71 from "./Site_Projects/24-Archive/14-Piccolo-Sogno-02.jpg";
+import archive72 from "./Site_Projects/24-Archive/14-Piccolo-Sogno-03.jpg";
+import archive73 from "./Site_Projects/24-Archive/16-Prestige-Showroom-01.jpg";
+import archive74 from "./Site_Projects/24-Archive/16-Prestige-Showroom-02.jpg";
+import archive75 from "./Site_Projects/24-Archive/16-Prestige-Showroom-03.jpg";
+import archive76 from "./Site_Projects/24-Archive/17-Milwaukee-Bike-01.jpg";
+import archive77 from "./Site_Projects/24-Archive/17-Milwaukee-Bike-02.jpg";
+import archive78 from "./Site_Projects/24-Archive/17-Milwaukee-Bike-03.jpg";
+import archive79 from "./Site_Projects/24-Archive/18-Redhook-01.jpg";
+import archive80 from "./Site_Projects/24-Archive/18-Redhook-02.jpg";
+import archive81 from "./Site_Projects/24-Archive/18-Redhook-03.jpg";
+import archive82 from "./Site_Projects/24-Archive/19-Polish-Triangle-01.jpg";
+import archive83 from "./Site_Projects/24-Archive/19-Polish-Triangle-03.jpg";
+import archive84 from "./Site_Projects/24-Archive/19-PolishTriangle-02.jpg";
+import archive85 from "./Site_Projects/24-Archive/20-St-Croix-01.jpg";
+import archive86 from "./Site_Projects/24-Archive/20-St-Croix-02.jpg";
+import archive87 from "./Site_Projects/24-Archive/20-St-Croix-03.jpg";
+import archive88 from "./Site_Projects/24-Archive/21-Hermitage-Garden-01.jpg";
+import archive89 from "./Site_Projects/24-Archive/22-Gnome-01.jpg";
+import archive90 from "./Site_Projects/24-Archive/22-Gnome-02.jpg";
+import archive91 from "./Site_Projects/24-Archive/22-Gnome-03.jpg";
+
 export const Collections = [
   {
     type: "On The Boards",
@@ -476,15 +569,97 @@ export const Collections = [
   {
     type: "Archive",
     photos: [
-      //     photo4,
-      //     photo2,
-      ontheBoards01,
-      //     photo4,
-      //     photo5,
-      //     photo6,
-      //     photo7,
-      //     photo8,
-      //     photo9,
+      archive01,
+      archive02,
+      archive03,
+      archive04,
+      archive05,
+      archive06,
+      archive07,
+      archive08,
+      archive09,
+      archive10,
+      archive11,
+      archive12,
+      archive13,
+      archive14,
+      archive15,
+      archive16,
+      archive17,
+      archive18,
+      archive19,
+      archive20,
+      archive21,
+      archive22,
+      archive23,
+      archive24,
+      archive25,
+      archive26,
+      archive27,
+      archive28,
+      archive29,
+      archive30,
+      archive31,
+      archive32,
+      archive33,
+      archive34,
+      archive35,
+      archive36,
+      archive37,
+      archive38,
+      archive39,
+      archive40,
+      archive41,
+      archive42,
+      archive43,
+      archive44,
+      archive45,
+      archive46,
+      archive47,
+      archive48,
+      archive49,
+      archive50,
+      archive51,
+      archive52,
+      archive53,
+      archive54,
+      archive55,
+      archive56,
+      archive57,
+      archive58,
+      archive59,
+      archive60,
+      archive61,
+      archive62,
+      archive63,
+      archive64,
+      archive65,
+      archive66,
+      archive67,
+      archive68,
+      archive69,
+      archive70,
+      archive71,
+      archive72,
+      archive73,
+      archive74,
+      archive75,
+      archive76,
+      archive77,
+      archive78,
+      archive79,
+      archive80,
+      archive81,
+      archive82,
+      archive83,
+      archive84,
+      archive85,
+      archive86,
+      archive87,
+      archive88,
+      archive89,
+      archive90,
+      archive91,
     ],
   },
 ];
