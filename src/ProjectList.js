@@ -313,10 +313,7 @@ import woodLawn14 from "./Site_Projects/01-Woodlawn/Woodlawn-15.png";
 import woodLawn15 from "./Site_Projects/01-Woodlawn/Woodlawn-16.jpg";
 import woodLawn16 from "./Site_Projects/01-Woodlawn/Woodlawn-17.jpg";
 
-// import photo1 from "./Site_Projects/00-Live/Live-Space-01.jpg";
-// import photo2 from "./Site_Projects/00-Work/Live-Space-02.jpg";
-// import photo3 from "./Site_Projects/00-Third/Third-Space-01.jpg";
-
+//on the boards imports
 import ontheBoards01 from "./Site_Projects/22-On-The-Boards/01-Illumina-01.png";
 import ontheBoards02 from "./Site_Projects/22-On-The-Boards/01-Illumina-02.png";
 import ontheBoards03 from "./Site_Projects/22-On-The-Boards/01-Illumina-03.png";
@@ -341,6 +338,52 @@ import ontheBoards21 from "./Site_Projects/22-On-The-Boards/04-Mpower-03.jpg";
 import ontheBoards22 from "./Site_Projects/22-On-The-Boards/04-Mpower-04.jpg";
 import ontheBoards23 from "./Site_Projects/22-On-The-Boards/04-Mpower-05.jpg";
 import ontheBoards24 from "./Site_Projects/22-On-The-Boards/04-Mpower-06.png";
+
+import construction01 from "./Site_Projects/23-Under-Construction/01-Kimbark-01.jpg";
+import construction02 from "./Site_Projects/23-Under-Construction/01-Kimbark-02.jpg";
+import construction03 from "./Site_Projects/23-Under-Construction/02-Roscoe-01.jpeg";
+import construction04 from "./Site_Projects/23-Under-Construction/02-Roscoe-02.jpeg";
+import construction05 from "./Site_Projects/23-Under-Construction/02-Roscoe-03.jpeg";
+import construction06 from "./Site_Projects/23-Under-Construction/02-Roscoe-04.jpeg";
+import construction07 from "./Site_Projects/23-Under-Construction/02-Roscoe-05.jpeg";
+import construction08 from "./Site_Projects/23-Under-Construction/02-Roscoe-06.jpeg";
+import construction09 from "./Site_Projects/23-Under-Construction/02-Roscoe-07.jpeg";
+import construction10 from "./Site_Projects/23-Under-Construction/02-Roscoe-08.jpeg";
+import construction11 from "./Site_Projects/23-Under-Construction/02-Roscoe-09.jpeg";
+import construction12 from "./Site_Projects/23-Under-Construction/02-Roscoe-10.jpeg";
+import construction13 from "./Site_Projects/23-Under-Construction/02-Roscoe-11.jpeg";
+import construction14 from "./Site_Projects/23-Under-Construction/02-Roscoe-12.jpeg";
+import construction15 from "./Site_Projects/23-Under-Construction/02-Roscoe-13.jpeg";
+import construction16 from "./Site_Projects/23-Under-Construction/02-Roscoe-14.jpeg";
+import construction17 from "./Site_Projects/23-Under-Construction/03-Wood-01.jpeg";
+import construction18 from "./Site_Projects/23-Under-Construction/03-Wood-02.jpeg";
+import construction19 from "./Site_Projects/23-Under-Construction/03-Wood-03.jpeg";
+import construction20 from "./Site_Projects/23-Under-Construction/03-Wood-04.jpeg";
+import construction21 from "./Site_Projects/23-Under-Construction/03-Wood-05.jpeg";
+import construction22 from "./Site_Projects/23-Under-Construction/03-Wood-06.jpeg";
+import construction23 from "./Site_Projects/23-Under-Construction/03-Wood-07.jpeg";
+import construction24 from "./Site_Projects/23-Under-Construction/03-Wood-08.JPG";
+import construction25 from "./Site_Projects/23-Under-Construction/03-Wood-09.JPG";
+import construction26 from "./Site_Projects/23-Under-Construction/03-Wood-10.JPG";
+import construction27 from "./Site_Projects/23-Under-Construction/03-Wood-11.JPG";
+import construction28 from "./Site_Projects/23-Under-Construction/03-Wood-12.JPG";
+import construction29 from "./Site_Projects/23-Under-Construction/03-Wood-13.JPG";
+import construction30 from "./Site_Projects/23-Under-Construction/03-Wood-14.JPG";
+import construction31 from "./Site_Projects/23-Under-Construction/03-Wood-15.JPG";
+import construction32 from "./Site_Projects/23-Under-Construction/03-Wood-16.JPG";
+import construction33 from "./Site_Projects/23-Under-Construction/03-Wood-17.jpeg";
+import construction34 from "./Site_Projects/23-Under-Construction/03-Wood-18.jpeg";
+import construction35 from "./Site_Projects/23-Under-Construction/03-Wood-19.jpeg";
+import construction36 from "./Site_Projects/23-Under-Construction/03-Wood-20.jpeg";
+import construction37 from "./Site_Projects/23-Under-Construction/03-Wood-21.jpeg";
+import construction38 from "./Site_Projects/23-Under-Construction/03-Wood-22.jpeg";
+import construction39 from "./Site_Projects/23-Under-Construction/04-Woodlawn-01.jpg";
+import construction40 from "./Site_Projects/23-Under-Construction/04-Woodlawn-02.jpg";
+import construction41 from "./Site_Projects/23-Under-Construction/04-Woodlawn-03.jpg";
+import construction42 from "./Site_Projects/23-Under-Construction/04-Woodlawn-04.jpg";
+import construction43 from "./Site_Projects/23-Under-Construction/04-Woodlawn-05.jpg";
+import construction44 from "./Site_Projects/23-Under-Construction/04-Woodlawn-06.jpeg";
+import construction45 from "./Site_Projects/23-Under-Construction/05-Marz-01.jpg";
 
 export const Collections = [
   {
@@ -383,15 +426,51 @@ export const Collections = [
   {
     type: "Under Construction",
     photos: [
-      //     photo9,
-      ontheBoards01,
-      //     photo3,
-      //     photo4,
-      //     photo5,
-      //     photo6,
-      //     photo7,
-      //     photo8,
-      //     photo9,
+      construction01,
+      construction02,
+      construction03,
+      construction04,
+      construction05,
+      construction06,
+      construction07,
+      construction08,
+      construction09,
+      construction10,
+      construction11,
+      construction12,
+      construction13,
+      construction14,
+      construction15,
+      construction16,
+      construction17,
+      construction18,
+      construction19,
+      construction20,
+      construction21,
+      construction22,
+      construction23,
+      construction24,
+      construction25,
+      construction26,
+      construction27,
+      construction28,
+      construction29,
+      construction30,
+      construction31,
+      construction32,
+      construction33,
+      construction34,
+      construction35,
+      construction36,
+      construction37,
+      construction38,
+      construction39,
+      construction40,
+      construction41,
+      construction42,
+      construction43,
+      construction44,
+      construction45,
     ],
   },
   {
