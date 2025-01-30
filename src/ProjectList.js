@@ -166,22 +166,22 @@ import marias10 from "./Site_Projects/11-Maria_s/Maria_s-10.jpg";
 import marias11 from "./Site_Projects/11-Maria_s/Maria_s-11.jpg";
 
 //Marz imports
-import marz01 from "./Site_Projects/00-Marz-Brewing/Marz-01.jpg";
-import marz02 from "./Site_Projects/00-Marz-Brewing/Marz-02.jpg";
-import marz03 from "./Site_Projects/00-Marz-Brewing/Marz-03.jpg";
-import marz04 from "./Site_Projects/00-Marz-Brewing/Marz-04.jpg";
-import marz05 from "./Site_Projects/00-Marz-Brewing/Marz-05.jpg";
-import marz06 from "./Site_Projects/00-Marz-Brewing/Marz-06.jpg";
-import marz07 from "./Site_Projects/00-Marz-Brewing/Marz-07.jpg";
-import marz08 from "./Site_Projects/00-Marz-Brewing/Marz-08.jpg";
-import marz09 from "./Site_Projects/00-Marz-Brewing/Marz-09.jpg";
-import marz10 from "./Site_Projects/00-Marz-Brewing/Marz-10.png";
-import marz11 from "./Site_Projects/00-Marz-Brewing/Marz-11.jpg";
-import marz12 from "./Site_Projects/00-Marz-Brewing/Marz-12.jpg";
-import marz13 from "./Site_Projects/00-Marz-Brewing/Marz-13.jpg";
-import marz14 from "./Site_Projects/00-Marz-Brewing/Marz-14.jpg";
-import marz15 from "./Site_Projects/00-Marz-Brewing/Marz-15.jpg";
-import marz16 from "./Site_Projects/00-Marz-Brewing/Marz-16.jpg";
+import marz01 from "./Site_Projects/12-Marz-Brewing/Marz-01.jpg";
+import marz02 from "./Site_Projects/12-Marz-Brewing/Marz-02.jpg";
+import marz03 from "./Site_Projects/12-Marz-Brewing/Marz-03.jpg";
+import marz04 from "./Site_Projects/12-Marz-Brewing/Marz-04.jpg";
+import marz05 from "./Site_Projects/12-Marz-Brewing/Marz-05.png";
+import marz06 from "./Site_Projects/12-Marz-Brewing/Marz-06.jpg";
+import marz07 from "./Site_Projects/12-Marz-Brewing/Marz-07.jpg";
+import marz08 from "./Site_Projects/12-Marz-Brewing/Marz-08.jpg";
+import marz09 from "./Site_Projects/12-Marz-Brewing/Marz-09.jpg";
+import marz10 from "./Site_Projects/12-Marz-Brewing/Marz-10.jpg";
+import marz11 from "./Site_Projects/12-Marz-Brewing/Marz-11.jpg";
+import marz12 from "./Site_Projects/12-Marz-Brewing/Marz-12.jpg";
+import marz13 from "./Site_Projects/12-Marz-Brewing/Marz-13.jpg";
+import marz14 from "./Site_Projects/12-Marz-Brewing/Marz-14.png";
+import marz15 from "./Site_Projects/12-Marz-Brewing/Marz-15.jpg";
+import marz16 from "./Site_Projects/12-Marz-Brewing/Marz-16.jpg";
 
 //milwaukee imports
 import milwaukee01 from "./Site_Projects/07-Milwaukee/Milwaukee-01.jpg";
@@ -205,20 +205,20 @@ import newCity09 from "./Site_Projects/05-New-City-Moving-Company/New-City-Movin
 import newCity10 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-10.jpg";
 
 //noninas imports
-import nonnina01 from "./Site_Projects/00-Nonnina_s/Nonnina-01.jpg";
-import nonnina02 from "./Site_Projects/00-Nonnina_s/Nonnina-02.jpg";
-import nonnina03 from "./Site_Projects/00-Nonnina_s/Nonnina-03.jpg";
-import nonnina04 from "./Site_Projects/00-Nonnina_s/Nonnina-04.jpg";
-import nonnina05 from "./Site_Projects/00-Nonnina_s/Nonnina-05.jpg";
-import nonnina06 from "./Site_Projects/00-Nonnina_s/Nonnina-06.jpg";
-import nonnina07 from "./Site_Projects/00-Nonnina_s/Nonnina-07.jpg";
-import nonnina08 from "./Site_Projects/00-Nonnina_s/Nonnina-08.jpg";
-import nonnina09 from "./Site_Projects/00-Nonnina_s/Nonnina-09.jpg";
-import nonnina10 from "./Site_Projects/00-Nonnina_s/Nonnina-10.jpg";
-import nonnina11 from "./Site_Projects/00-Nonnina_s/Nonnina-11.jpg";
-import nonnina12 from "./Site_Projects/00-Nonnina_s/Nonnina-12.jpg";
-import nonnina13 from "./Site_Projects/00-Nonnina_s/Nonnina-13.jpg";
-import nonnina14 from "./Site_Projects/00-Nonnina_s/Nonnina-14.jpg";
+import nonnina01 from "./Site_Projects/17-Nonnina_s/Nonnina-01.jpg";
+import nonnina02 from "./Site_Projects/17-Nonnina_s/Nonnina-02.jpg";
+import nonnina03 from "./Site_Projects/17-Nonnina_s/Nonnina-03.jpg";
+import nonnina04 from "./Site_Projects/17-Nonnina_s/Nonnina-04.jpg";
+import nonnina05 from "./Site_Projects/17-Nonnina_s/Nonnina-05.jpg";
+import nonnina06 from "./Site_Projects/17-Nonnina_s/Nonnina-06.jpg";
+import nonnina07 from "./Site_Projects/17-Nonnina_s/Nonnina-07.jpg";
+import nonnina08 from "./Site_Projects/17-Nonnina_s/Nonnina-08.jpg";
+import nonnina09 from "./Site_Projects/17-Nonnina_s/Nonnina-09.jpg";
+import nonnina10 from "./Site_Projects/17-Nonnina_s/Nonnina-10.jpg";
+import nonnina11 from "./Site_Projects/17-Nonnina_s/Nonnina-11.jpg";
+import nonnina12 from "./Site_Projects/17-Nonnina_s/Nonnina-12.jpg";
+import nonnina13 from "./Site_Projects/17-Nonnina_s/Nonnina-13.jpg";
+// import nonnina14 from "./Site_Projects/17-Nonnina_s/Nonnina-14.jpg";
 
 //Potomac imports
 import potomac01 from "./Site_Projects/09-Potomac/Potomac-01.jpg";
@@ -248,33 +248,34 @@ import ridge08 from "./Site_Projects/00-Ridge/1800-08.jpg";
 import ridge09 from "./Site_Projects/00-Ridge/1800-09.jpg";
 
 //St.Croix imports
-import stcroix01 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-01.jpg";
-import stcroix02 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-02.jpg";
-import stcroix03 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-03.jpg";
-import stcroix04 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-05.jpg";
-import stcroix05 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-06.jpg";
-import stcroix06 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-07.jpg";
-import stcroix07 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-08.jpg";
-// import stcroix08 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-09.jpg"
-import stcroix08 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-09.jpg";
-import stcroix09 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-10.jpg";
-import stcroix10 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-11.jpg";
-import stcroix11 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-12.jpg";
-import stcroix12 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-12.jpg";
-import stcroix13 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-13.jpg";
-import stcroix14 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-14.jpg";
-import stcroix15 from "./Site_Projects/00-St-Croix-Falls-Public-Library/St-Croix-Falls-15.jpg";
+import stcroix01 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-01.jpg";
+import stcroix02 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-02.jpg";
+import stcroix03 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-03.jpg";
+import stcroix04 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-04.jpg";
+import stcroix05 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-05.jpg";
+import stcroix06 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-06.jpg";
+import stcroix07 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-07.jpg";
+import stcroix08 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-08.jpg";
+import stcroix09 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-09.jpg";
+import stcroix10 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-10.jpg";
+import stcroix11 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-11.jpg";
+import stcroix12 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-12.jpg";
+import stcroix13 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13.jpg";
+import stcroix14 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13.jpg";
 
 //Wicker Park imports
-import wickerPark01 from "./Site_Projects/00-Wicker-Park/1311-01.png";
-import wickerPark02 from "./Site_Projects/00-Wicker-Park/1311-02.jpg";
-import wickerPark03 from "./Site_Projects/00-Wicker-Park/1311-03.jpg";
-import wickerPark04 from "./Site_Projects/00-Wicker-Park/1311-04.jpg";
-import wickerPark05 from "./Site_Projects/00-Wicker-Park/1311-05.png";
-import wickerPark06 from "./Site_Projects/00-Wicker-Park/1311-06.png";
-import wickerPark07 from "./Site_Projects/00-Wicker-Park/1311-07.png";
-import wickerPark08 from "./Site_Projects/00-Wicker-Park/1311-08.jpg";
-import wickerPark09 from "./Site_Projects/00-Wicker-Park/1311-09.jpg";
+import wickerPark01 from "./Site_Projects/13-Wicker-Park/Wicker-01.png";
+import wickerPark02 from "./Site_Projects/13-Wicker-Park/Wicker-02.jpg";
+import wickerPark03 from "./Site_Projects/13-Wicker-Park/Wicker-03.jpg";
+import wickerPark04 from "./Site_Projects/13-Wicker-Park/Wicker-04.jpg";
+import wickerPark05 from "./Site_Projects/13-Wicker-Park/Wicker-05.jpg";
+import wickerPark06 from "./Site_Projects/13-Wicker-Park/Wicker-06.jpg";
+import wickerPark07 from "./Site_Projects/13-Wicker-Park/Wicker-07.jpg";
+import wickerPark08 from "./Site_Projects/13-Wicker-Park/Wicker-08.png";
+import wickerPark09 from "./Site_Projects/13-Wicker-Park/Wicker-09.png";
+import wickerPark10 from "./Site_Projects/13-Wicker-Park/Wicker-10.jpg";
+import wickerPark11 from "./Site_Projects/13-Wicker-Park/Wicker-11.jpg";
+import wickerPark12 from "./Site_Projects/13-Wicker-Park/Wicker-12.jpg";
 
 //wolcott imports
 import wolcott01 from "./Site_Projects/08-Wolcott/Wolcott-01.jpg";
@@ -349,7 +350,7 @@ export const Collections = [
     ],
   },
   {
-    type: "Archive",
+    type: "Under Construction",
     photos: [
       //     photo9,
       photo2,
@@ -363,7 +364,7 @@ export const Collections = [
     ],
   },
   {
-    type: "Urban",
+    type: "Archive",
     photos: [
       //     photo4,
       //     photo2,
@@ -636,6 +637,9 @@ export const Projects = [
       wickerPark07,
       wickerPark08,
       wickerPark09,
+      wickerPark10,
+      wickerPark11,
+      wickerPark12,
     ],
   },
   {
@@ -673,7 +677,6 @@ export const Projects = [
       stcroix12,
       stcroix13,
       stcroix14,
-      stcroix15,
     ],
   },
   {
@@ -713,7 +716,6 @@ export const Projects = [
       nonnina11,
       nonnina12,
       nonnina13,
-      nonnina14,
     ],
   },
   {
