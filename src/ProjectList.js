@@ -134,23 +134,28 @@ import leavittI15 from "./Site_Projects/10-Leavitt-I/Leavitt3-15.jpg";
 import leavittI16 from "./Site_Projects/10-Leavitt-I/Leavitt3-16.jpg";
 import leavittI17 from "./Site_Projects/10-Leavitt-I/Leavitt3-17.jpg";
 
-//Leavitt-House II imports
-// import leavittII01 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-01.jpg";
-// import leavittII02 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-02.jpg";
-// import leavittII03 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-03.jpg";
-// import leavittII04 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-04.jpg";
-// import leavittII05 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-05.jpg";
-// import leavittII06 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-06.jpg";
-// import leavittII07 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-07.jpg";
-// import leavittII08 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-08.jpg";
-// import leavittII09 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-09.jpg";
-// import leavittII10 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-10.jpg";
-// import leavittII11 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-11.jpg";
-// import leavittII12 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-12.jpg";
-// import leavittII13 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-13.jpg";
-// import leavittII14 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-14.jpg";
-// import leavittII15 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-15.jpg";
-// import leavittII16 from "./Site_Projects/00-Leavitt-House-II/Leavitt3-16.jpg";
+// Leavitt-House II imports
+import leavittII01 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-01.jpg";
+import leavittII02 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-02.jpg";
+import leavittII03 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-03.jpg";
+import leavittII04 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-04.jpg";
+import leavittII05 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-05.jpg";
+import leavittII06 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-06.jpg";
+import leavittII07 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-07.jpg";
+import leavittII08 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-08.jpg";
+import leavittII09 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-09.jpg";
+import leavittII10 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-10.jpg";
+import leavittII11 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-11.jpg";
+import leavittII12 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-12.jpg";
+import leavittII13 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-13.jpg";
+import leavittII14 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-14.jpg";
+import leavittII15 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-15.jpg";
+import leavittII16 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-16.jpg";
+// import leavittII17 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-17.jpg";
+// import leavittII18 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-18.jpg";
+// import leavittII19 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-19.jpg";
+// import leavittII20 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-20.jpg";
+// import leavittII21 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-21.jpg";
 
 //Maria's imports
 import marias01 from "./Site_Projects/11-Maria_s/Maria_s-01.jpg";
@@ -237,15 +242,16 @@ import potomac13 from "./Site_Projects/09-Potomac/Potomac-13.jpg";
 import potomac14 from "./Site_Projects/09-Potomac/Potomac-14.jpg";
 
 //Ridge imports
-import ridge01 from "./Site_Projects/00-Ridge/1800-01.jpg";
-import ridge02 from "./Site_Projects/00-Ridge/1800-02.jpg";
-import ridge03 from "./Site_Projects/00-Ridge/1800-03.jpg";
-import ridge04 from "./Site_Projects/00-Ridge/1800-04.jpg";
-import ridge05 from "./Site_Projects/00-Ridge/1800-05.jpg";
-import ridge06 from "./Site_Projects/00-Ridge/1800-06.jpg";
-import ridge07 from "./Site_Projects/00-Ridge/1800-07.jpg";
-import ridge08 from "./Site_Projects/00-Ridge/1800-08.jpg";
-import ridge09 from "./Site_Projects/00-Ridge/1800-09.jpg";
+import ridge01 from "./Site_Projects/19-Ridge/Ridge-01.jpg";
+import ridge02 from "./Site_Projects/19-Ridge/Ridge-02.jpg";
+import ridge03 from "./Site_Projects/19-Ridge/Ridge-03.jpg";
+import ridge04 from "./Site_Projects/19-Ridge/Ridge-04.jpg";
+import ridge05 from "./Site_Projects/19-Ridge/Ridge-05.jpg";
+import ridge06 from "./Site_Projects/19-Ridge/Ridge-06.jpg";
+import ridge07 from "./Site_Projects/19-Ridge/Ridge-07.jpg";
+import ridge08 from "./Site_Projects/19-Ridge/Ridge-08.jpg";
+import ridge09 from "./Site_Projects/19-Ridge/Ridge-09.jpg";
+import ridge10 from "./Site_Projects/19-Ridge/Ridge-10.jpg";
 
 //St.Croix imports
 import stcroix01 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-01.jpg";
@@ -306,21 +312,6 @@ import woodLawn13 from "./Site_Projects/01-Woodlawn/Woodlawn-14.jpg";
 import woodLawn14 from "./Site_Projects/01-Woodlawn/Woodlawn-15.png";
 import woodLawn15 from "./Site_Projects/01-Woodlawn/Woodlawn-16.jpg";
 import woodLawn16 from "./Site_Projects/01-Woodlawn/Woodlawn-17.jpg";
-
-// //woodlawn II imports
-// import woodLawnII01 from "./Site_Projects/00-Woodlawn-II/5633-01.jpg";
-// import woodLawnII02 from "./Site_Projects/00-Woodlawn-II/5633-02.jpg";
-// import woodLawnII03 from "./Site_Projects/00-Woodlawn-II/5633-03.jpg";
-// import woodLawnII04 from "./Site_Projects/00-Woodlawn-II/5633-04.jpg";
-// import woodLawnII05 from "./Site_Projects/00-Woodlawn-II/5633-05.jpg";
-// import woodLawnII06 from "./Site_Projects/00-Woodlawn-II/5633-06.jpg";
-// import woodLawnII07 from "./Site_Projects/00-Woodlawn-II/5633-07.jpg";
-// import woodLawnII08 from "./Site_Projects/00-Woodlawn-II/5633-08.jpg";
-// import woodLawnII09 from "./Site_Projects/00-Woodlawn-II/5633-09.jpg";
-// import woodLawnII10 from "./Site_Projects/00-Woodlawn-II/5633-10.jpg";
-// import woodLawnII11 from "./Site_Projects/00-Woodlawn-II/5633-11.jpg";
-// import woodLawnII12 from "./Site_Projects/00-Woodlawn-II/5633-12.jpg";
-// import woodLawnII13 from "./Site_Projects/00-Woodlawn-II/5633-13.jpg";
 
 import photo1 from "./Site_Projects/00-Live/Live-Space-01.jpg";
 import photo2 from "./Site_Projects/00-Work/Live-Space-02.jpg";
@@ -752,28 +743,32 @@ export const Projects = [
       ridge07,
       ridge08,
       ridge09,
+      ridge10,
     ],
   },
-  // {
-  //   coverPhoto: leavittI03,
-  //   title: "Leavitt House I",
-  //   description: [""],
-  //   photos: [
-  //     leavittI03,
-  //     leavittI04,
-  //     leavittI05,
-  //     leavittI06,
-  //     leavittI07,
-  //     leavittI08,
-  //     leavittI09,
-  //     leavittI10,
-  //     leavittI11,
-  //     leavittI12,
-  //     leavittI13,
-  //     leavittI14,
-  //     leavittI15,
-  //   ],
-  // },
+  {
+    coverPhoto: leavittII01,
+    title: "Leavitt II",
+    description: [""],
+    photos: [
+      leavittII01,
+      leavittII02,
+      leavittII03,
+      leavittII04,
+      leavittII05,
+      leavittII06,
+      leavittII07,
+      leavittII08,
+      leavittII09,
+      leavittII10,
+      leavittII11,
+      leavittII12,
+      leavittII13,
+      leavittII14,
+      leavittII15,
+      leavittII16,
+    ],
+  },
   {
     coverPhoto: hoffman01,
     title: "Hoffman Estates Clubhouse",
