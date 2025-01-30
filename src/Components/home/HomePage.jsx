@@ -4,18 +4,27 @@ import { Projects, Collections } from "../../ProjectList";
 import { motion } from "framer-motion";
 import { useLocation, Link } from "react-router-dom";
 import { useEffect } from "react";
-import quoteImage from "../../Graphics/landing-staircase.jpg";
+
+import quoteImage from "../../Graphics/landing-staircase.png";
 import logo from "../../Graphics/Norsman Logo 2024 Transparent.png";
-import landingImage1 from "../../Landing_photos/Leavitt3-01.jpg"; //TODO: Lower the focus point, logo sits above window
-import landingImage2 from "../../Landing_photos/Marion-Court-House-06.jpg";
-import landingImage3 from "../../Landing_photos/Maria_s-04.jpg";
-import landingImage4 from "../../Landing_photos/New-City-Moving-02.jpg";
-import landingImage5 from "../../Landing_photos/Potomac-01.jpg"; //TODO: Lower the focus point, logo sits above window
-import landingImage6 from "../../Landing_photos/St-Croix-Falls-01.jpg";
-// import landingImage1 from "../../Project_placeholders_photos/Exterior1.jpg";
-// import landingImage2 from "../../Project_placeholders_photos/DSC_0116.jpg";
-// import landingImage3 from "../../Project_placeholders_photos/New+City-75.jpg";
-// import landingImage4 from "../../Project_placeholders_photos/07+Potomac.jpg";
+
+import landingImage1 from "../../Landing_photos/Landing-01.jpg"; //TODO: Lower the focus point, logo sits above window
+import landingImage2 from "../../Landing_photos/Landing-02.jpg";
+import landingImage3 from "../../Landing_photos/Landing-03.jpg";
+import landingImage4 from "../../Landing_photos/Landing-04.jpg";
+import landingImage5 from "../../Landing_photos/Landing-05.jpg"; //TODO: Lower the focus point, logo sits above window
+import landingImage6 from "../../Landing_photos/Landing-06.jpg";
+import landingImage7 from "../../Landing_photos/Landing-07.png";
+import landingImage8 from "../../Landing_photos/Landing-08.jpg";
+import landingImage9 from "../../Landing_photos/Landing-09.jpg";
+import landingImage10 from "../../Landing_photos/Landing-10.jpg";
+import landingImage11 from "../../Landing_photos/Landing-11.jpg";
+import landingImage12 from "../../Landing_photos/Landing-12.jpg";
+import landingImage13 from "../../Landing_photos/Landing-13.jpg";
+import landingImage14 from "../../Landing_photos/Landing-14.jpg";
+import landingImage15 from "../../Landing_photos/Landing-15.jpg";
+import landingImage16 from "../../Landing_photos/Landing-16.png";
+
 import CollectionCard from "../gallery/CollectionCard";
 import LandingSwiper from "../swiper/LandingSwiper";
 
@@ -29,6 +38,16 @@ export default function HomePage() {
     landingImage4,
     landingImage5,
     landingImage6,
+    landingImage7,
+    landingImage8,
+    landingImage9,
+    landingImage10,
+    landingImage11,
+    landingImage12,
+    landingImage13,
+    landingImage14,
+    landingImage15,
+    landingImage16,
   ];
   // const [index, setIndex] = useState(Math.floor(Math.random() * 4));
   // const timeoutRef = useRef(null);
