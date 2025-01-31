@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/norsman-site/static/css/main.c1fac5cb.css",
-    "main.js": "/norsman-site/static/js/main.7da7096e.js",
+    "main.css": "/norsman-site/static/css/main.01ebb1c3.css",
+    "main.js": "/norsman-site/static/js/main.99bf760b.js",
     "static/media/02-Wood-01.png": "/norsman-site/static/media/02-Wood-01.0641f2b5e8bd1647057b.png",
     "static/media/Milwaukee-02.mp4": "/norsman-site/static/media/Milwaukee-02.76717bce767d40457df0.mp4",
     "static/media/01-Metric-Coffee-01.png": "/norsman-site/static/media/01-Metric-Coffee-01.9468c167cf7f1bf4aa00.png",
@@ -39,6 +39,7 @@
     "static/media/New-City-Moving-05.jpg": "/norsman-site/static/media/New-City-Moving-05.cc86d3288c5c50c14ec2.jpg",
     "static/media/New-City-Moving-07.jpg": "/norsman-site/static/media/New-City-Moving-07.b4f3216b5030b68fc903.jpg",
     "static/media/New-City-Moving-06.jpg": "/norsman-site/static/media/New-City-Moving-06.145dd91dce5055aea76e.jpg",
+    "static/media/Wolcott-11.png": "/norsman-site/static/media/Wolcott-11.a3e08707546842a2ec4c.png",
     "static/media/Potomac-05.jpg": "/norsman-site/static/media/Potomac-05.3c3c4125a5fdbd79e747.jpg",
     "static/media/Marz-11.jpg": "/norsman-site/static/media/Marz-11.633b49c3904518598297.jpg",
     "static/media/Nonnina-07.jpg": "/norsman-site/static/media/Nonnina-07.26262585e57e3bc7fc73.jpg",
@@ -93,6 +94,7 @@
     "static/media/1732-06.jpg": "/norsman-site/static/media/1732-06.390a1d48e76c49967fda.jpg",
     "static/media/Fairbanks-03.jpg": "/norsman-site/static/media/Fairbanks-03.d347a03edf8393f4d9c3.jpg",
     "static/media/03-Atlantic-06.png": "/norsman-site/static/media/03-Atlantic-06.8d6a41521090f5619774.png",
+    "static/media/Milwaukee-07.jpg": "/norsman-site/static/media/Milwaukee-07.38d81af6fd7973b8b769.jpg",
     "static/media/Fairbanks-12.jpg": "/norsman-site/static/media/Fairbanks-12.77db5ce051ec21ab06bd.jpg",
     "static/media/10-Elston-03.jpg": "/norsman-site/static/media/10-Elston-03.414c0d8af8ae9516e382.jpg",
     "static/media/Wrigleyville-01.jpg": "/norsman-site/static/media/Wrigleyville-01.7d6e81dc3591357f8728.jpg",
@@ -149,7 +151,9 @@
     "static/media/Marz-09.jpg": "/norsman-site/static/media/Marz-09.74993e241c2613ec127f.jpg",
     "static/media/Hoffman-02.jpg": "/norsman-site/static/media/Hoffman-02.ec57cb724292581cef15.jpg",
     "static/media/Wolcott-5.jpg": "/norsman-site/static/media/Wolcott-5.9d89499e8978f3745e20.jpg",
+    "static/media/Marz-17.jpg": "/norsman-site/static/media/Marz-17.b17c4dcb8489c71b7211.jpg",
     "static/media/Hoffman-09.jpg": "/norsman-site/static/media/Hoffman-09.372434da330bff2d5448.jpg",
+    "static/media/Marz-18.jpg": "/norsman-site/static/media/Marz-18.01d1ea53d96e0daf5e2f.jpg",
     "static/media/Wolcott-3.jpg": "/norsman-site/static/media/Wolcott-3.66c200a06716b607307d.jpg",
     "static/media/St-Croix-Falls-05.jpg": "/norsman-site/static/media/St-Croix-Falls-05.0ff8d4e09a0ce2c048ce.jpg",
     "static/media/Woodlawn-07.jpg": "/norsman-site/static/media/Woodlawn-07.927bc2657bffce18fdf2.jpg",
@@ -453,11 +457,11 @@
     "static/media/ARLRDBD.TTF": "/norsman-site/static/media/ARLRDBD.78ccc3bbe2236b324bfb.TTF",
     "static/media/NorsmanArchitectsforweb.gif": "/norsman-site/static/media/NorsmanArchitectsforweb.a93d7dade78962c4d70b.gif",
     "index.html": "/norsman-site/index.html",
-    "main.c1fac5cb.css.map": "/norsman-site/static/css/main.c1fac5cb.css.map",
-    "main.7da7096e.js.map": "/norsman-site/static/js/main.7da7096e.js.map"
+    "main.01ebb1c3.css.map": "/norsman-site/static/css/main.01ebb1c3.css.map",
+    "main.99bf760b.js.map": "/norsman-site/static/js/main.99bf760b.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1fac5cb.css",
-    "static/js/main.7da7096e.js"
+    "static/css/main.01ebb1c3.css",
+    "static/js/main.99bf760b.js"
   ]
 }
