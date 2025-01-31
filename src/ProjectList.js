@@ -1123,8 +1123,12 @@ export const Projects = [
     coverPhoto: ridge01,
     title: "Ridge",
     subHeading: "65,000 s.f. Multi-family Residential Development",
-    credits: [""],
-    description: [""],
+    credits: ["Structural Engineer  - C.E. Anderson Assoc's."],
+    description: [
+      "This 34-unit residential loft building sits on one of the oldest streets in Evanston at the juncture of an historic landmark residential neighborhood and the edge of the city’s urban center.  The design sets out to ease this juncture by terracing the addition away from residential district with 20 ft. setbacks creating expansive  Additionally, the existing residential tree canopy continues across the building with 24 roof top trees and a continuous balcony covered with a vegetated wall created with Green Screen. The building acts as an architectural green berm to the urban center.",
+      "In contrast, the city facing elevation addresses the urban core taking cues from the existing street facade as well as the prehistoric shorelines of Lake Michigan on which it sits.  This city facade floors cantilever over the existing building with an undulating facade that is derived from the city’s historical shorelines.",
+      "Sustainable Highlights: Passive sun shading, decreased impervious surfaces, stormwater detention, a ventilated facade and sustainable materials.",
+    ],
     photos: [
       ridge01,
       ridge02,

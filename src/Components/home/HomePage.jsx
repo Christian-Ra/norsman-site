@@ -27,6 +27,24 @@ import landingImage16 from "../../Landing_photos/Landing-16.png";
 
 import CollectionCard from "../gallery/CollectionCard";
 import LandingSwiper from "../swiper/LandingSwiper";
+const landingImages = [
+  "../../Landing_photos/Landing-01.jpg",
+  "../../Landing_photos/Landing-02.jpg",
+  "../../Landing_photos/Landing-03.jpg",
+  "../../Landing_photos/Landing-04.jpg",
+  "../../Landing_photos/Landing-05.jpg",
+  "../../Landing_photos/Landing-06.jpg",
+  "../../Landing_photos/Landing-07.png",
+  "../../Landing_photos/Landing-08.jpg",
+  "../../Landing_photos/Landing-09.jpg",
+  "../../Landing_photos/Landing-10.jpg",
+  "../../Landing_photos/Landing-11.jpg",
+  "../../Landing_photos/Landing-12.jpg",
+  "../../Landing_photos/Landing-13.jpg",
+  "../../Landing_photos/Landing-14.jpg",
+  "../../Landing_photos/Landing-15.jpg",
+  "../../Landing_photos/Landing-16.png",
+];
 
 export default function HomePage() {
   const { state } = useLocation();

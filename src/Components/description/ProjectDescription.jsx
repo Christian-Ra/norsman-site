@@ -16,15 +16,16 @@ export default function ProjectDescription({
             credits.map((c, index) => (
               <p key={index} className="credit-text">
                 {c}
+                <br></br>
+                <br></br>
               </p>
             ))}
-          <br></br>
-          <div>
-            <br></br>
-          </div>
+          {/* <div></div> */}
           {description.map((d, index) => (
             <p key={index} className="body-text">
               {d}
+              <br></br>
+              <br></br>
             </p>
           ))}
           {/* <p className="body-text">{description}</p> */}

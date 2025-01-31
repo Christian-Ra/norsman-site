@@ -10,7 +10,7 @@ export default function CollectionCard({ collection }) {
       style={{ textDecoration: "none" }}
     >
       <div
-        className="collection-card"
+        className="project-card"
         style={{ backgroundImage: `url(${collection.photos[0]})` }}
       >
         <h2 className="card-text">{collection.type}</h2>

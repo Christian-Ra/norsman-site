@@ -13,6 +13,7 @@ export default function GalleryCard({ project }) {
       <div
         className="project-card"
         style={{ backgroundImage: `url(${project.coverPhoto})` }}
+        loading="lazy"
         id={project.title}
       >
         <h2 className="card-text">{project.title}</h2>

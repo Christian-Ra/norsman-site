@@ -26,6 +26,7 @@ export default function LandingSwiper({ landingImages }) {
         effect={"fade"}
         centeredSlides={true}
         loop={true}
+        crossFade={true}
         initialSlide={randomInt(landingImages.length)}
         keyboard={{
           enabled: true,
@@ -39,7 +40,7 @@ export default function LandingSwiper({ landingImages }) {
       >
         {landingImages.map((slide, index) => (
           <SwiperSlide className="landing-slide" key={index}>
-            <img src={slide} alt={`Slide: ${index + 1}`}></img>
+            <img src={slide} alt={`Slide: ${index + 1}`} loading="lazy"></img>
           </SwiperSlide>
         ))}
       </Swiper>
