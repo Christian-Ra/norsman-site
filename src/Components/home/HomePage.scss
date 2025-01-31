@@ -114,8 +114,8 @@
         }
 
         @include breakpoint-up(xlarge) {
-            // margin: 30px;
-            font-size: 60px;
+            margin: 150px;
+            font-size: 40px;
             line-height: 100px;
         }
     }

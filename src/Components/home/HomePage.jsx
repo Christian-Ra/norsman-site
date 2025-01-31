@@ -127,10 +127,14 @@ export default function HomePage() {
         <div className="cta-content landing-mask" key={"cta"}>
           <Link to="/norsman-site/about">
             <h1 className="cta">
-              Our firm looks to stitch their work into the urban fabric, provide
-              for sustainable long reaching solutions, and provide dynamic
-              spatial experiences that extend beyond the building’s interior
-              into the urban landscape beyond.
+              We are an architectural studio that chooses to build. Uniquely
+              positioned as an Architect-Led Design Build Practice in Chicago,
+              our strong portfolio of diverse architectural work is complemented
+              by a real understanding of the construction process. This
+              streamlined process creates a unified process to design and
+              construction, enabling greater budget control, creative freedom
+              and the positive realization of our client’s vision. As such, our
+              collaborations continue to be as unique as our clients’ needs
             </h1>
           </Link>
         </div>

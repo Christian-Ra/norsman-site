@@ -12,19 +12,21 @@ export default function ProjectDescription({
         <div className="body-container">
           <h2 className="title">{title}</h2>
           <h2 className="description_subheading">{subHeading}</h2>
-          {description.map((d, index) => (
-            <p key={index} className="body-text">
-              {d}
-              <br></br>
-              <br></br>
-            </p>
-          ))}
           {credits &&
             credits.map((c, index) => (
-              <p key={index} className="body-text">
+              <p key={index} className="credit-text">
                 {c}
               </p>
             ))}
+          <br></br>
+          <div>
+            <br></br>
+          </div>
+          {description.map((d, index) => (
+            <p key={index} className="body-text">
+              {d}
+            </p>
+          ))}
           {/* <p className="body-text">{description}</p> */}
         </div>
       </div>

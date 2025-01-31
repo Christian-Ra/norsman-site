@@ -49,7 +49,7 @@ export default function ProjectPage({ projects }) {
         <section>
           <ProjectDescription
             title={project.title}
-            subHeading={project.subheading}
+            subHeading={project.subHeading}
             description={project.description}
             credits={project.credits}
           />
