@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/norsman-site/static/css/main.0666900a.css",
-    "main.js": "/norsman-site/static/js/main.b7487889.js",
+    "main.css": "/norsman-site/static/css/main.b95769b1.css",
+    "main.js": "/norsman-site/static/js/main.ad28e8fe.js",
     "static/media/02-Wood-01.png": "/norsman-site/static/media/02-Wood-01.0641f2b5e8bd1647057b.png",
     "static/media/Milwaukee-02.mp4": "/norsman-site/static/media/Milwaukee-02.76717bce767d40457df0.mp4",
     "static/media/01-Metric-Coffee-01.png": "/norsman-site/static/media/01-Metric-Coffee-01.9468c167cf7f1bf4aa00.png",
@@ -457,11 +457,11 @@
     "static/media/ARLRDBD.TTF": "/norsman-site/static/media/ARLRDBD.78ccc3bbe2236b324bfb.TTF",
     "static/media/NorsmanArchitectsforweb.gif": "/norsman-site/static/media/NorsmanArchitectsforweb.a93d7dade78962c4d70b.gif",
     "index.html": "/norsman-site/index.html",
-    "main.0666900a.css.map": "/norsman-site/static/css/main.0666900a.css.map",
-    "main.b7487889.js.map": "/norsman-site/static/js/main.b7487889.js.map"
+    "main.b95769b1.css.map": "/norsman-site/static/css/main.b95769b1.css.map",
+    "main.ad28e8fe.js.map": "/norsman-site/static/js/main.ad28e8fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.0666900a.css",
-    "static/js/main.b7487889.js"
+    "static/css/main.b95769b1.css",
+    "static/js/main.ad28e8fe.js"
   ]
 }
