@@ -23,22 +23,22 @@
         flex-direction: column;
         width: 60%;
         justify-content: space-between;
-        padding: 50px 70px;
-        margin: 20px auto;
+        padding: 3.125rem 4.375rem;
+        margin: 1.25rem auto;
 
         @include breakpoint-down("small") {
             // transform: translate(0px, -50px);
         }
 
         h1 {
-            padding: 35px 0px;
+            padding: 2.1875rem 0rem;
         }
 
         p {
-            padding: 5px 0px;
-            font-size: 20px;
+            padding: 0.3125rem 0rem;
+            font-size: 1.25rem;
             @include breakpoint-down("small") {
-                font-size: 16px;
+                font-size: 1rem;
             }
         }
 
@@ -46,11 +46,11 @@
             width: fit-content;
             text-decoration: none;
             color: white;
-            padding: 5px 0px;
-            font-size: 20px;
+            padding: 0.3125rem 0px;
+            font-size: 1.25rem;
 
             @include breakpoint-down("small") {
-                font-size: 16px;
+                font-size: 1rem;
             }
 
             &:hover {

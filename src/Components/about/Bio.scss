@@ -17,7 +17,7 @@
         padding-top: 0px;
         overflow: hidden;
         // height: inherit;
-        line-height: 40px;
+        line-height: 2.5rem;
         position: relative;
         word-wrap: break-word;
 
@@ -36,19 +36,19 @@
     // overflow: hidden;
     h2 {
         color: $primaryColor;
-        padding-top: 20px;
+        padding-top: 1.25rem;
     }
 
     p {
-        padding-top: 10px;
+        padding-top: 0.625rem;
     }
     .work {
         &:last-of-type {
-            padding-bottom: 80px;
+            padding-bottom: 5rem;
         }
     }
     display: flex;
-    padding-top: 10px;
+    padding-top: 0.625rem;
     width: 100%;
     text-align: left;
     flex-direction: column;

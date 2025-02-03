@@ -482,9 +482,19 @@ import archive89 from "./Site_Projects/24-Archive/22-Gnome-01.jpg";
 import archive90 from "./Site_Projects/24-Archive/22-Gnome-02.jpg";
 import archive91 from "./Site_Projects/24-Archive/22-Gnome-03.jpg";
 
+const generateSlug = (title) => {
+  return title
+    .toLowerCase() // Convert to lowercase
+    .replace(/\s+/g, "-") // Replace spaces with hyphens
+    .replace(/[^a-z0-9-]/g, "") // Remove special characters
+    .replace(/-+/g, "-") // Remove duplicate hyphens
+    .trim(); // Remove leading/trailing spaces
+};
+
 export const Collections = [
   {
     type: "On The Boards",
+    slug: "on-the-boards",
     photos: [
       ontheBoards01,
       ontheBoards02,
@@ -1200,4 +1210,7 @@ export const Projects = [
       hoffman11,
     ],
   },
-];
+].map((project) => ({
+  ...project,
+  slug: generateSlug(project.title),
+}));

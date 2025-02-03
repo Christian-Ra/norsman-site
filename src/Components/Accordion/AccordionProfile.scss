@@ -8,12 +8,12 @@
     .heading-container {
         width: 100%;
         text-align: left;
-        padding: 20px 0px;
+        padding: 1.25rem 0px;
         display: flex;
         align-items: center;
         justify-content: space-between;
         font-weight: 500;
-        font-size: 20px;
+        font-size: 1.25rem;
         background: transparent;
         border: none;
         cursor: pointer;
@@ -33,7 +33,7 @@
         .team-container {
             display: flex;
             flex-direction: column;
-            padding-top: 20px;
+            padding-top: 1.25rem;
             // padding-left: 10px;
             @include breakpoint-up(large) {
                 flex-direction: row;
@@ -44,11 +44,11 @@
         .headshot {
             display: inline;
             width: 100%;
-            border-radius: 3px;
+            border-radius: 0.1875rem;
             height: auto;
             @include breakpoint-up(medium) {
-                width: 235px;
-                height: 315px;
+                width: 14.6875rem;
+                height: 19.6875rem;
             }
         }
 
@@ -61,7 +61,7 @@
             // transform: translate(0px, -10px);
 
             .name {
-                line-height: 30px;
+                line-height: 1.875rem;
             }
             // .title {
             //     line-height: 10px;
@@ -72,7 +72,7 @@
                 text-align: left;
                 // line-height: 40px;
                 @include breakpoint-up(large) {
-                    padding-left: 10px;
+                    padding-left: 0.625rem;
                 }
             }
         }

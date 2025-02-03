@@ -67,34 +67,7 @@ export default function HomePage() {
     landingImage15,
     landingImage16,
   ];
-  // const [index, setIndex] = useState(Math.floor(Math.random() * 4));
-  // const timeoutRef = useRef(null);
-  // const delayMiliseconds = 5000;
 
-  // const resetTimeout = () => {
-  //   if (timeoutRef.current) {
-  //     clearTimeout(timeoutRef.current);
-  //   }
-  // };
-
-  // useEffect(() => {
-  //   resetTimeout();
-  //   timeoutRef.current = setTimeout(
-  //     async () => {
-  //       setIndex((prevIndex) =>
-  //         prevIndex === landingGallery.length - 1 ? 0 : prevIndex + 1
-  //       );
-  //     },
-
-  //     delayMiliseconds
-  //   );
-  //   return () => {
-  //     resetTimeout();
-  //   };
-  //   // eslint-disable-next-line react-hooks/exhaustive-deps
-  // }, [index]);
-
-  // console.log("state: ", state);
   useEffect(() => {
     const el = document.getElementById(targetId);
     if (el) {
@@ -143,8 +116,8 @@ export default function HomePage() {
         className="cta-info"
       >
         <div className="cta-content landing-mask" key={"cta"}>
-          <Link to="/norsman-site/about">
-            <h1 className="cta">
+          <h1 className="cta">
+            <Link to="/norsman-site/about">
               We are an architectural studio that chooses to build. Uniquely
               positioned as an Architect-Led Design Build Practice in Chicago,
               our strong portfolio of diverse architectural work is complemented
@@ -153,8 +126,8 @@ export default function HomePage() {
               construction, enabling greater budget control, creative freedom
               and the positive realization of our client’s vision. As such, our
               collaborations continue to be as unique as our clients’ needs
-            </h1>
-          </Link>
+            </Link>
+          </h1>
         </div>
       </section>
       <div className="project-display" id="project-gallery">

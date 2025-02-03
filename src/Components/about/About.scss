@@ -15,21 +15,21 @@
 
     .section {
         transition: all;
-        margin-top: 50px;
+        margin-top: 3.125rem;
         @include breakpoint-up(large) {
             width: 70%;
         }
         h1 {
-            padding-top: 10px;
+            padding-top: 0.625rem;
             color: $primaryColor;
-            margin-bottom: 20px;
-            font-size: 36px;
+            margin-bottom: 1.25rem;
+            font-size: 2.25rem;
         }
 
         p {
             color: $white;
-            line-height: 30px;
-            font-size: 20px;
+            line-height: 1.875rem;
+            font-size: 1.25rem;
         }
 
         .dropdown-content {
@@ -41,7 +41,7 @@
         max-width: 75%;
         @include breakpoint-up(large) {
             max-width: 50%;
-            padding-right: 30px;
+            padding-right: 1.875rem;
             // margin: 0px auto;
             // margin-left: 300px;
         }
@@ -54,8 +54,8 @@
         right: 0;
         width: 30%;
         height: 100vh;
-        padding: 0px;
-        margin: 0px;
+        padding: 0rem;
+        margin: 0rem;
         justify-content: end;
         img {
             justify-self: end;
@@ -68,6 +68,6 @@
         color: $primaryColor;
     }
     background-color: $secondaryColor;
-    padding: 20px 20px 20px 20px;
+    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
     text-align: center;
 }

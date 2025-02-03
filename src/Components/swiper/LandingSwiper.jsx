@@ -26,7 +26,7 @@ export default function LandingSwiper({ landingImages }) {
         effect={"fade"}
         centeredSlides={true}
         loop={true}
-        crossFade={true}
+        // crossFade={true}
         initialSlide={randomInt(landingImages.length)}
         keyboard={{
           enabled: true,

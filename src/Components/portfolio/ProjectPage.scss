@@ -7,7 +7,7 @@
     background-color: $secondaryColor;
     display: flex;
     flex-direction: row;
-    justify-content: center;
+    justify-content: space-around;
     align-content: center;
     .scroll-link {
         margin-top: 0px;
@@ -16,10 +16,23 @@
         // background-color: $secondaryColor;
         color: $white;
         font-size: 18px;
+        transform: translateX(-17px);
         // align-self: center;
         text-decoration: none;
         &:hover {
             color: #ff9800;
+        }
+    }
+
+    p {
+        margin-top: 0px;
+        padding-bottom: 0px;
+        cursor: pointer;
+        color: $primaryColor;
+        font-size: 16px;
+        text-decoration: none;
+        &:hover {
+            color: $white;
         }
     }
 }
