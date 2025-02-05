@@ -117,15 +117,15 @@ export default function HomePage() {
       >
         <div className="cta-content landing-mask" key={"cta"}>
           <h1 className="cta">
-            <Link to="/norsman-site/about">
-              We are an architectural studio that chooses to build. Uniquely
+            <Link to="/about">
+              We are an architectural studio that has chosen to build. Uniquely
               positioned as an Architect-Led Design Build Practice in Chicago,
-              our strong portfolio of diverse architectural work is complemented
-              by a real understanding of the construction process. This
-              streamlined process creates a unified process to design and
-              construction, enabling greater budget control, creative freedom
-              and the positive realization of our client’s vision. As such, our
-              collaborations continue to be as unique as our clients’ needs
+              our portfolio of diverse architectural work is complemented by a
+              real understanding of the construction process. This streamlined
+              process creates a unified process to design and construction,
+              enabling greater budget control, creative freedom and the positive
+              realization of our client’s vision. As such, our collaborations
+              continue to be as unique as our clients’ circumstances.
             </Link>
           </h1>
         </div>

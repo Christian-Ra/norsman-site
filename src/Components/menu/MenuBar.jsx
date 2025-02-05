@@ -22,7 +22,7 @@ export default function MenuBar() {
 
   const isMobile = useMediaQuery("(max-width:1024px)");
 
-  const onAbout = useMatch("/norsman-site/about");
+  const onAbout = useMatch("/about");
 
   const hamburgerStyle =
     onAbout && !isMobile
@@ -55,24 +55,24 @@ export default function MenuBar() {
       >
         <ul>
           <li onClick={() => toggleMenu()}>
-            <Link to="/norsman-site" state={{ targetId: "landing" }}>
+            <Link to="" state={{ targetId: "landing" }}>
               <img className="homebar-logo" src={logo} alt="norsman" />
             </Link>
           </li>
           <section className="navLinks">
             <li onClick={() => toggleMenu()}>
-              <Link to="/norsman-site" state={{ targetId: "project-gallery" }}>
+              <Link to="" state={{ targetId: "project-gallery" }}>
                 Projects
               </Link>
             </li>
             <li onClick={() => toggleMenu()}>
-              <Link to="/norsman-site/about">About Us</Link>
+              <Link to="/about">About Us</Link>
             </li>
             {/* <li onClick={() => toggleMenu()}>
-              <Link to="/norsman-site/collage">Collage</Link>
+              <Link to="/collage">Collage</Link>
             </li> */}
             <li onClick={() => toggleMenu()}>
-              <Link to="/norsman-site/contact">Contact</Link>
+              <Link to="/contact">Contact</Link>
             </li>
           </section>
           <section className="footerLinks">
@@ -112,7 +112,7 @@ export default function MenuBar() {
         </ul>
       </nav>
       <Link
-        to="/norsman-site"
+        to="/"
         state={{ targetId: "landing" }}
         style={{ display: activeMenu && isMobile ? "none" : "block" }}
         className="small-logo"

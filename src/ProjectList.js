@@ -62,18 +62,18 @@ import fairbanks13 from "./Site_Projects/06-Fairbanks/Fairbanks-13.png";
 // import fairbanks14 from "./Site_Projects/06-Fairbanks/Fairbanks-14.png";
 
 //Hermitage imports
-import hermitage01 from "./Site_Projects/16-Hermitage/1732-01.jpg";
-import hermitage02 from "./Site_Projects/16-Hermitage/1732-02.jpg";
-import hermitage03 from "./Site_Projects/16-Hermitage/1732-03.jpg";
-import hermitage04 from "./Site_Projects/16-Hermitage/1732-04.jpg";
-import hermitage05 from "./Site_Projects/16-Hermitage/1732-05.jpg";
-import hermitage06 from "./Site_Projects/16-Hermitage/1732-06.jpg";
-import hermitage07 from "./Site_Projects/16-Hermitage/1732-07.jpg";
-import hermitage08 from "./Site_Projects/16-Hermitage/1732-08.jpg";
-import hermitage09 from "./Site_Projects/16-Hermitage/1732-09.jpg";
-import hermitage10 from "./Site_Projects/16-Hermitage/1732-10.jpg";
-import hermitage11 from "./Site_Projects/16-Hermitage/1732-11.jpg";
-import hermitage12 from "./Site_Projects/16-Hermitage/1732-12.jpg";
+import hermitage01 from "./Site_Projects/16-Hermitage/Hermitage-01.jpg";
+import hermitage02 from "./Site_Projects/16-Hermitage/Hermitage-02.jpg";
+import hermitage03 from "./Site_Projects/16-Hermitage/Hermitage-03.jpg";
+import hermitage04 from "./Site_Projects/16-Hermitage/Hermitage-04.jpg";
+import hermitage05 from "./Site_Projects/16-Hermitage/Hermitage-05.jpg";
+import hermitage06 from "./Site_Projects/16-Hermitage/Hermitage-06.jpg";
+import hermitage07 from "./Site_Projects/16-Hermitage/Hermitage-07.jpg";
+import hermitage08 from "./Site_Projects/16-Hermitage/Hermitage-08.jpg";
+import hermitage09 from "./Site_Projects/16-Hermitage/Hermitage-09.jpg";
+import hermitage10 from "./Site_Projects/16-Hermitage/Hermitage-10.jpg";
+import hermitage11 from "./Site_Projects/16-Hermitage/Hermitage-11.jpg";
+import hermitage12 from "./Site_Projects/16-Hermitage/Hermitage-12.jpg";
 
 //Hoffman Estates Imports
 import hoffman01 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-01.jpg";

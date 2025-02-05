@@ -5,7 +5,7 @@ import { useMatch } from "react-router-dom";
 import { motion } from "framer-motion";
 
 const Collage = ({ collections }) => {
-  const match = useMatch("/norsman-site/collections/:type");
+  const match = useMatch("/collections/:type");
   const modifyLink = (str) => {
     return str.replaceAll(" ", "-").toLowerCase();
   };
