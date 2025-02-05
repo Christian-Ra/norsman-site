@@ -62,7 +62,11 @@ export default function ProjectPage() {
         />
         <div className="scroll-container">
           {prevProject && (
-            <p onClick={() => navigate(`/projects/${prevProject.slug}`)}>
+            <p
+              onClick={() =>
+                navigate(`/normsan-site/projects/${prevProject.slug}`)
+              }
+            >
               Previous Project
             </p>
           )}
@@ -76,7 +80,11 @@ export default function ProjectPage() {
           </ScrollLink>
 
           {nextProject && (
-            <p onClick={() => navigate(`/projects/${nextProject.slug}`)}>
+            <p
+              onClick={() =>
+                navigate(`/norsman-site/projects/${nextProject.slug}`)
+              }
+            >
               Next Project
             </p>
           )}

@@ -28,16 +28,16 @@ function App() {
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.key}>
           <Route
-            path="/projects/:projectSlug"
+            path="/norsman-site/projects/:projectSlug"
             element={<ProjectPage projects={Projects} />}
           ></Route>
-          <Route path="/contact" element={<Contact />}></Route>
+          <Route path="/norsman-site/contact" element={<Contact />}></Route>
           <Route
-            path="/collections/:type"
+            path="/norsman-site/collections/:type"
             element={<Collage collections={Collections} />}
           ></Route>
-          <Route path="/about" element={<About />}></Route>
-          <Route path="/" element={<HomePage />}></Route>
+          <Route path="/norsman-site/about" element={<About />}></Route>
+          <Route path="/norsman-site/" element={<HomePage />}></Route>
 
           <Route path="*" element={<ErrorPage />}></Route>
         </Routes>

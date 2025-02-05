@@ -22,7 +22,7 @@ export default function MenuBar() {
 
   const isMobile = useMediaQuery("(max-width:1024px)");
 
-  const onAbout = useMatch("/about");
+  const onAbout = useMatch("/norsman-site/about");
 
   const hamburgerStyle =
     onAbout && !isMobile
@@ -66,13 +66,13 @@ export default function MenuBar() {
               </Link>
             </li>
             <li onClick={() => toggleMenu()}>
-              <Link to="/about">About Us</Link>
+              <Link to="/norsman-site/about">About Us</Link>
             </li>
             {/* <li onClick={() => toggleMenu()}>
-              <Link to="/collage">Collage</Link>
+              <Link to="/norsman-site/collage">Collage</Link>
             </li> */}
             <li onClick={() => toggleMenu()}>
-              <Link to="/contact">Contact</Link>
+              <Link to="/norsman-site/contact">Contact</Link>
             </li>
           </section>
           <section className="footerLinks">
