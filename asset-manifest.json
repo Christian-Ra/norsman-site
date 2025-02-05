@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6190b185.css",
-    "main.js": "/static/js/main.a91834c3.js",
+    "main.js": "/static/js/main.b344532d.js",
     "static/media/02-Wood-01.png": "/static/media/02-Wood-01.0641f2b5e8bd1647057b.png",
     "static/media/Milwaukee-02.mp4": "/static/media/Milwaukee-02.76717bce767d40457df0.mp4",
     "static/media/01-Metric-Coffee-01.png": "/static/media/01-Metric-Coffee-01.9468c167cf7f1bf4aa00.png",
@@ -458,10 +458,10 @@
     "static/media/NorsmanArchitectsforweb.gif": "/static/media/NorsmanArchitectsforweb.a93d7dade78962c4d70b.gif",
     "index.html": "/index.html",
     "main.6190b185.css.map": "/static/css/main.6190b185.css.map",
-    "main.a91834c3.js.map": "/static/js/main.a91834c3.js.map"
+    "main.b344532d.js.map": "/static/js/main.b344532d.js.map"
   },
   "entrypoints": [
     "static/css/main.6190b185.css",
-    "static/js/main.a91834c3.js"
+    "static/js/main.b344532d.js"
   ]
 }
