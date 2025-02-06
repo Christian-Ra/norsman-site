@@ -1,18 +1,13 @@
 import "./GalleryCard.scss";
 import { Link } from "react-router-dom";
 
-export default function GalleryCard({ project }) {
+export default function GalleryCard({ project, coverImage }) {
   //   console.log("featured photos: ", project.photos);
   return (
-    <Link
-      to={`/normsan-site/projects/${project.title
-        .replaceAll(" ", "-")
-        .toLowerCase()}`}
-      style={{ textDecoration: "none" }}
-    >
+    <Link to={`/projects/${project.slug}`} style={{ textDecoration: "none" }}>
       <div
         className="project-card"
-        style={{ backgroundImage: `url(${project.coverPhoto})` }}
+        style={{ backgroundImage: `url(${coverImage})` }}
         loading="lazy"
         id={project.title}
       >
