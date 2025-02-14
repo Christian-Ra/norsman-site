@@ -8,43 +8,43 @@ import { useEffect } from "react";
 import quoteImage from "../../Graphics/landing-staircase.png";
 import logo from "../../Graphics/Norsman Logo 2024 Transparent.png";
 
-import landingImage1 from "../../Landing_photos/Landing-01.jpg"; //TODO: Lower the focus point, logo sits above window
-import landingImage2 from "../../Landing_photos/Landing-02.jpg";
-import landingImage3 from "../../Landing_photos/Landing-03.jpg";
-import landingImage4 from "../../Landing_photos/Landing-04.jpg";
-import landingImage5 from "../../Landing_photos/Landing-05.jpg"; //TODO: Lower the focus point, logo sits above window
-import landingImage6 from "../../Landing_photos/Landing-06.jpg";
-import landingImage7 from "../../Landing_photos/Landing-07.png";
-import landingImage8 from "../../Landing_photos/Landing-08.jpg";
-import landingImage9 from "../../Landing_photos/Landing-09.jpg";
-import landingImage10 from "../../Landing_photos/Landing-10.jpg";
-import landingImage11 from "../../Landing_photos/Landing-11.jpg";
-import landingImage12 from "../../Landing_photos/Landing-12.jpg";
-import landingImage13 from "../../Landing_photos/Landing-13.jpg";
-import landingImage14 from "../../Landing_photos/Landing-14.jpg";
-import landingImage15 from "../../Landing_photos/Landing-15.jpg";
-import landingImage16 from "../../Landing_photos/Landing-16.png";
+import landingImage1 from "../../Landing_photos/Landing-01.webp"; //TODO: Lower the focus point, logo sits above window
+import landingImage2 from "../../Landing_photos/Landing-02.webp";
+import landingImage3 from "../../Landing_photos/Landing-03.webp";
+import landingImage4 from "../../Landing_photos/Landing-04.webp";
+import landingImage5 from "../../Landing_photos/Landing-05.webp"; //TODO: Lower the focus point, logo sits above window
+import landingImage6 from "../../Landing_photos/Landing-06.webp";
+import landingImage7 from "../../Landing_photos/Landing-07.webp";
+import landingImage8 from "../../Landing_photos/Landing-08.webp";
+import landingImage9 from "../../Landing_photos/Landing-09.webp";
+import landingImage10 from "../../Landing_photos/Landing-10.webp";
+import landingImage11 from "../../Landing_photos/Landing-11.webp";
+import landingImage12 from "../../Landing_photos/Landing-12.webp";
+import landingImage13 from "../../Landing_photos/Landing-13.webp";
+import landingImage14 from "../../Landing_photos/Landing-14.webp";
+import landingImage15 from "../../Landing_photos/Landing-15.webp";
+import landingImage16 from "../../Landing_photos/Landing-16.webp";
 
 import CollectionCard from "../gallery/CollectionCard";
 import LandingSwiper from "../swiper/LandingSwiper";
-const landingImages = [
-  "../../Landing_photos/Landing-01.jpg",
-  "../../Landing_photos/Landing-02.jpg",
-  "../../Landing_photos/Landing-03.jpg",
-  "../../Landing_photos/Landing-04.jpg",
-  "../../Landing_photos/Landing-05.jpg",
-  "../../Landing_photos/Landing-06.jpg",
-  "../../Landing_photos/Landing-07.png",
-  "../../Landing_photos/Landing-08.jpg",
-  "../../Landing_photos/Landing-09.jpg",
-  "../../Landing_photos/Landing-10.jpg",
-  "../../Landing_photos/Landing-11.jpg",
-  "../../Landing_photos/Landing-12.jpg",
-  "../../Landing_photos/Landing-13.jpg",
-  "../../Landing_photos/Landing-14.jpg",
-  "../../Landing_photos/Landing-15.jpg",
-  "../../Landing_photos/Landing-16.png",
-];
+// const landingImages = [
+//   "../../Landing_photos/Landing-01.jpg",
+//   "../../Landing_photos/Landing-02.jpg",
+//   "../../Landing_photos/Landing-03.jpg",
+//   "../../Landing_photos/Landing-04.jpg",
+//   "../../Landing_photos/Landing-05.jpg",
+//   "../../Landing_photos/Landing-06.jpg",
+//   "../../Landing_photos/Landing-07.png",
+//   "../../Landing_photos/Landing-08.jpg",
+//   "../../Landing_photos/Landing-09.jpg",
+//   "../../Landing_photos/Landing-10.jpg",
+//   "../../Landing_photos/Landing-11.jpg",
+//   "../../Landing_photos/Landing-12.jpg",
+//   "../../Landing_photos/Landing-13.jpg",
+//   "../../Landing_photos/Landing-14.jpg",
+//   "../../Landing_photos/Landing-15.jpg",
+//   "../../Landing_photos/Landing-16.png",
+// ];
 
 export default function HomePage() {
   const { state } = useLocation();
@@ -117,7 +117,7 @@ export default function HomePage() {
       >
         <div className="cta-content landing-mask" key={"cta"}>
           <h1 className="cta">
-            <Link to="/about">
+            <Link to="/norsman-site/about">
               We are an architectural studio that has chosen to build. Uniquely
               positioned as an Architect-Led Design Build Practice in Chicago,
               our portfolio of diverse architectural work is complemented by a

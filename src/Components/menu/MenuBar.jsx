@@ -112,7 +112,7 @@ export default function MenuBar() {
         </ul>
       </nav>
       <Link
-        to="/"
+        to="/norsman-site"
         state={{ targetId: "landing" }}
         style={{ display: activeMenu && isMobile ? "none" : "block" }}
         className="small-logo"

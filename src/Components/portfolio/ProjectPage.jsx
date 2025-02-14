@@ -2,7 +2,7 @@ import "./ProjectPage.scss";
 import CenteredSwiper from "../swiper/CenteredSwiper";
 import { motion } from "framer-motion";
 import { Link as ScrollLink, Element } from "react-scroll";
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 import ProjectDescription from "../description/ProjectDescription";
 import { useNavigate, useParams } from "react-router-dom";
 import ErrorPage from "../../ErrorPage";
@@ -13,18 +13,22 @@ export default function ProjectPage() {
   const { projectSlug } = useParams();
   const navigate = useNavigate();
   // const location = useLocation();
-  const [currentProject, setCurrentProject] = useState(null);
-  const [currentIndex, setCurrentIndex] = useState(null);
-  useEffect(() => {
-    console.log("URL changed. Finding project for slug:", projectSlug);
-    const index = projects.findIndex((project) => project.slug === projectSlug);
-    if (index !== -1) {
-      setCurrentProject(projects[index]);
-      setCurrentIndex(index);
-    } else {
-      setCurrentProject(null);
-    }
-  }, [projectSlug]); // Runs when `projectSlug` changes
+  // const [currentProject, setCurrentProject] = useState(null);
+  // const [currentIndex, setCurrentIndex] = useState(null);
+  const currentProjectIndex = projects.findIndex(
+    (project) => project.slug === projectSlug
+  );
+  const currentProject = projects[currentProjectIndex];
+  // useEffect(() => {
+  //   console.log("URL changed. Finding project for slug:", projectSlug);
+  //   const index = projects.findIndex((project) => project.slug === projectSlug);
+  //   if (index !== -1) {
+  //     setCurrentProject(projects[index]);
+  //     setCurrentIndex(index);
+  //   } else {
+  //     setCurrentProject(null);
+  //   }
+  // }, [projectSlug]); // Runs when `projectSlug` changes
   // const currentIndex = projects.findIndex(
   //   (project) => project.slug === projectSlug
   // );
@@ -35,14 +39,9 @@ export default function ProjectPage() {
   //   return str.replaceAll(" ", "-").toLowerCase();
   // };
 
+  const nextProject = projects[(currentProjectIndex + 1) % projects.length]; // Loops back to first
   const prevProject =
-    currentIndex > 0
-      ? projects[currentIndex - 1]
-      : projects[projects.length - 1];
-  const nextProject =
-    currentIndex < projects.length - 1
-      ? projects[currentIndex + 1]
-      : projects[0];
+    projects[(currentProjectIndex - 1 + projects.length) % projects.length]; // Loops back to last
 
   // const project = match
   //   ? projects.find(

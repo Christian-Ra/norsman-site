@@ -34,15 +34,15 @@ import caffe11 from "./Site_Projects/18-Caffe-Streets/Caffe-S-11.jpg";
 import caffe12 from "./Site_Projects/18-Caffe-Streets/Caffe-S-12.jpg";
 
 //division imports
-import division01 from "./Site_Projects/02-Division/Division-01.jpg";
-import division02 from "./Site_Projects/02-Division/Division-02.jpg";
-import division03 from "./Site_Projects/02-Division/Division-03.jpg";
-import division04 from "./Site_Projects/02-Division/Division-04.jpg";
-import division05 from "./Site_Projects/02-Division/Division-05.jpg";
-import division06 from "./Site_Projects/02-Division/Division-06.jpg";
-import division07 from "./Site_Projects/02-Division/Division-07.jpg";
-import division08 from "./Site_Projects/02-Division/Division-08.jpg";
-import division09 from "./Site_Projects/02-Division/Division-09.jpg";
+import division01 from "./Site_Projects/02-Division/Division-01.webp";
+import division02 from "./Site_Projects/02-Division/Division-02.webp";
+import division03 from "./Site_Projects/02-Division/Division-03.webp";
+import division04 from "./Site_Projects/02-Division/Division-04.webp";
+import division05 from "./Site_Projects/02-Division/Division-05.webp";
+import division06 from "./Site_Projects/02-Division/Division-06.webp";
+import division07 from "./Site_Projects/02-Division/Division-07.webp";
+import division08 from "./Site_Projects/02-Division/Division-08.webp";
+import division09 from "./Site_Projects/02-Division/Division-09.webp";
 // import division10 from "./Site_Projects/02-Division/Division-10.jpg";
 
 //fairbanks imports
@@ -300,22 +300,22 @@ import wolcott10 from "./Site_Projects/08-Wolcott/Wolcott-10.jpg";
 import wolcott11 from "./Site_Projects/08-Wolcott/Wolcott-11.png";
 
 // woodLawn I imports
-import woodLawn01 from "./Site_Projects/01-Woodlawn/Woodlawn-01.jpg";
-import woodLawn02 from "./Site_Projects/01-Woodlawn/Woodlawn-02.JPG";
-import woodLawn03 from "./Site_Projects/01-Woodlawn/Woodlawn-03.JPG";
-import woodLawn04 from "./Site_Projects/01-Woodlawn/Woodlawn-05.jpg";
-import woodLawn05 from "./Site_Projects/01-Woodlawn/Woodlawn-06.jpg";
-import woodLawn06 from "./Site_Projects/01-Woodlawn/Woodlawn-07.jpg";
-import woodLawn07 from "./Site_Projects/01-Woodlawn/Woodlawn-08.jpg";
-import woodLawn08 from "./Site_Projects/01-Woodlawn/Woodlawn-09.jpg";
-import woodLawn09 from "./Site_Projects/01-Woodlawn/Woodlawn-10.jpg";
-import woodLawn10 from "./Site_Projects/01-Woodlawn/Woodlawn-11.jpg";
-import woodLawn11 from "./Site_Projects/01-Woodlawn/Woodlawn-12.jpg";
-import woodLawn12 from "./Site_Projects/01-Woodlawn/Woodlawn-13.jpg";
-import woodLawn13 from "./Site_Projects/01-Woodlawn/Woodlawn-14.jpg";
-import woodLawn14 from "./Site_Projects/01-Woodlawn/Woodlawn-15.png";
-import woodLawn15 from "./Site_Projects/01-Woodlawn/Woodlawn-16.jpg";
-import woodLawn16 from "./Site_Projects/01-Woodlawn/Woodlawn-17.jpg";
+import woodLawn01 from "./Site_Projects/01-Woodlawn/Woodlawn-01.webp";
+import woodLawn02 from "./Site_Projects/01-Woodlawn/Woodlawn-02.webp";
+import woodLawn03 from "./Site_Projects/01-Woodlawn/Woodlawn-03.webp";
+import woodLawn04 from "./Site_Projects/01-Woodlawn/Woodlawn-05.webp";
+import woodLawn05 from "./Site_Projects/01-Woodlawn/Woodlawn-06.webp";
+import woodLawn06 from "./Site_Projects/01-Woodlawn/Woodlawn-07.webp";
+import woodLawn07 from "./Site_Projects/01-Woodlawn/Woodlawn-08.webp";
+import woodLawn08 from "./Site_Projects/01-Woodlawn/Woodlawn-09.webp";
+import woodLawn09 from "./Site_Projects/01-Woodlawn/Woodlawn-10.webp";
+import woodLawn10 from "./Site_Projects/01-Woodlawn/Woodlawn-11.webp";
+import woodLawn11 from "./Site_Projects/01-Woodlawn/Woodlawn-12.webp";
+import woodLawn12 from "./Site_Projects/01-Woodlawn/Woodlawn-13.webp";
+import woodLawn13 from "./Site_Projects/01-Woodlawn/Woodlawn-14.webp";
+import woodLawn14 from "./Site_Projects/01-Woodlawn/Woodlawn-15.webp";
+import woodLawn15 from "./Site_Projects/01-Woodlawn/Woodlawn-16.webp";
+import woodLawn16 from "./Site_Projects/01-Woodlawn/Woodlawn-17.webp";
 
 //on the boards imports
 import ontheBoards01 from "./Site_Projects/22-On-The-Boards/01-Illumina-01.png";

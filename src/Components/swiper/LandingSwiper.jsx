@@ -40,7 +40,7 @@ export default function LandingSwiper({ landingImages }) {
       >
         {landingImages.map((slide, index) => (
           <SwiperSlide className="landing-slide" key={index}>
-            <img src={slide} alt={`Slide: ${index + 1}`} loading="lazy"></img>
+            <img src={slide} alt={`Slide: ${index + 1}`}></img>
           </SwiperSlide>
         ))}
       </Swiper>

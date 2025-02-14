@@ -12,6 +12,7 @@ export default function CollectionCard({ collection }) {
       <div
         className="project-card"
         style={{ backgroundImage: `url(${collection.photos[0]})` }}
+        loading="lazy"
       >
         <h2 className="card-text">{collection.type}</h2>
       </div>
