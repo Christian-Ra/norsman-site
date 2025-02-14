@@ -1,23 +1,23 @@
 //BosWorth imports
-import wrigley01 from "./Site_Projects/03-Bosworth/Wrigleyville-01.jpg";
-import wrigley02 from "./Site_Projects/03-Bosworth/Wrigleyville-02.jpg";
-import wrigley03 from "./Site_Projects/03-Bosworth/Wrigleyville-03.jpg";
-import wrigley04 from "./Site_Projects/03-Bosworth/Wrigleyville-04.jpg";
-import wrigley05 from "./Site_Projects/03-Bosworth/Wrigleyville-05.jpg";
-import wrigley06 from "./Site_Projects/03-Bosworth/Wrigleyville-06.jpg";
-import wrigley07 from "./Site_Projects/03-Bosworth/Wrigleyville-07.jpg";
-import wrigley08 from "./Site_Projects/03-Bosworth/Wrigleyville-08.jpg";
-import wrigley09 from "./Site_Projects/03-Bosworth/Wrigleyville-09.jpg";
-import wrigley10 from "./Site_Projects/03-Bosworth/Wrigleyville-10.jpg";
-import wrigley11 from "./Site_Projects/03-Bosworth/Wrigleyville-11.jpg";
-import wrigley12 from "./Site_Projects/03-Bosworth/Wrigleyville-12.jpg";
-import wrigley13 from "./Site_Projects/03-Bosworth/Wrigleyville-13.jpg";
-import wrigley14 from "./Site_Projects/03-Bosworth/Wrigleyville-14.jpg";
-import wrigley15 from "./Site_Projects/03-Bosworth/Wrigleyville-15.jpg";
-import wrigley16 from "./Site_Projects/03-Bosworth/Wrigleyville-16.jpg";
-import wrigley17 from "./Site_Projects/03-Bosworth/Wrigleyville-17.jpg";
-import wrigley18 from "./Site_Projects/03-Bosworth/Wrigleyville-18.jpg";
-import wrigley19 from "./Site_Projects/03-Bosworth/Wrigleyville-19.jpg";
+import wrigley01 from "./Site_Projects/03-Bosworth/Wrigleyville-01.webp";
+import wrigley02 from "./Site_Projects/03-Bosworth/Wrigleyville-02.webp";
+import wrigley03 from "./Site_Projects/03-Bosworth/Wrigleyville-03.webp";
+import wrigley04 from "./Site_Projects/03-Bosworth/Wrigleyville-04.webp";
+import wrigley05 from "./Site_Projects/03-Bosworth/Wrigleyville-05.webp";
+import wrigley06 from "./Site_Projects/03-Bosworth/Wrigleyville-06.webp";
+import wrigley07 from "./Site_Projects/03-Bosworth/Wrigleyville-07.webp";
+import wrigley08 from "./Site_Projects/03-Bosworth/Wrigleyville-08.webp";
+import wrigley09 from "./Site_Projects/03-Bosworth/Wrigleyville-09.webp";
+import wrigley10 from "./Site_Projects/03-Bosworth/Wrigleyville-10.webp";
+import wrigley11 from "./Site_Projects/03-Bosworth/Wrigleyville-11.webp";
+import wrigley12 from "./Site_Projects/03-Bosworth/Wrigleyville-12.webp";
+import wrigley13 from "./Site_Projects/03-Bosworth/Wrigleyville-13.webp";
+import wrigley14 from "./Site_Projects/03-Bosworth/Wrigleyville-14.webp";
+import wrigley15 from "./Site_Projects/03-Bosworth/Wrigleyville-15.webp";
+import wrigley16 from "./Site_Projects/03-Bosworth/Wrigleyville-16.webp";
+import wrigley17 from "./Site_Projects/03-Bosworth/Wrigleyville-17.webp";
+import wrigley18 from "./Site_Projects/03-Bosworth/Wrigleyville-18.webp";
+import wrigley19 from "./Site_Projects/03-Bosworth/Wrigleyville-19.webp";
 
 //Caffe-Streets imports
 import caffe01 from "./Site_Projects/18-Caffe-Streets/Caffe-S-01.jpg";
@@ -46,19 +46,19 @@ import division09 from "./Site_Projects/02-Division/Division-09.webp";
 // import division10 from "./Site_Projects/02-Division/Division-10.jpg";
 
 //fairbanks imports
-import fairbanks01 from "./Site_Projects/06-Fairbanks/Fairbanks-01.jpg";
-import fairbanks02 from "./Site_Projects/06-Fairbanks/Fairbanks-02.jpg";
-import fairbanks03 from "./Site_Projects/06-Fairbanks/Fairbanks-03.jpg";
-import fairbanks04 from "./Site_Projects/06-Fairbanks/Fairbanks-04.jpg";
-import fairbanks05 from "./Site_Projects/06-Fairbanks/Fairbanks-05.jpg";
-import fairbanks06 from "./Site_Projects/06-Fairbanks/Fairbanks-06.jpg";
-import fairbanks07 from "./Site_Projects/06-Fairbanks/Fairbanks-07.jpg";
-import fairbanks08 from "./Site_Projects/06-Fairbanks/Fairbanks-08.jpg";
-import fairbanks09 from "./Site_Projects/06-Fairbanks/Fairbanks-9.jpg";
-import fairbanks10 from "./Site_Projects/06-Fairbanks/Fairbanks-10.jpg";
-import fairbanks11 from "./Site_Projects/06-Fairbanks/Fairbanks-11.jpg";
-import fairbanks12 from "./Site_Projects/06-Fairbanks/Fairbanks-12.jpg";
-import fairbanks13 from "./Site_Projects/06-Fairbanks/Fairbanks-13.png";
+import fairbanks01 from "./Site_Projects/06-Fairbanks/Fairbanks-01.webp";
+import fairbanks02 from "./Site_Projects/06-Fairbanks/Fairbanks-02.webp";
+import fairbanks03 from "./Site_Projects/06-Fairbanks/Fairbanks-03.webp";
+import fairbanks04 from "./Site_Projects/06-Fairbanks/Fairbanks-04.webp";
+import fairbanks05 from "./Site_Projects/06-Fairbanks/Fairbanks-05.webp";
+import fairbanks06 from "./Site_Projects/06-Fairbanks/Fairbanks-06.webp";
+import fairbanks07 from "./Site_Projects/06-Fairbanks/Fairbanks-07.webp";
+import fairbanks08 from "./Site_Projects/06-Fairbanks/Fairbanks-08.webp";
+import fairbanks09 from "./Site_Projects/06-Fairbanks/Fairbanks-09.webp";
+import fairbanks10 from "./Site_Projects/06-Fairbanks/Fairbanks-10.webp";
+import fairbanks11 from "./Site_Projects/06-Fairbanks/Fairbanks-11.webp";
+import fairbanks12 from "./Site_Projects/06-Fairbanks/Fairbanks-12.webp";
+import fairbanks13 from "./Site_Projects/06-Fairbanks/Fairbanks-13.webp";
 // import fairbanks14 from "./Site_Projects/06-Fairbanks/Fairbanks-14.png";
 
 //Hermitage imports
@@ -89,19 +89,19 @@ import hoffman10 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-10.jp
 import hoffman11 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-11.jpg";
 
 //Kimbark imports
-import kimbark01 from "./Site_Projects/04-Kimbark/Kimbark-01.jpg";
-import kimbark02 from "./Site_Projects/04-Kimbark/Kimbark-02.jpg";
-import kimbark03 from "./Site_Projects/04-Kimbark/Kimbark-03.jpg";
-import kimbark04 from "./Site_Projects/04-Kimbark/Kimbark-04.png";
-import kimbark05 from "./Site_Projects/04-Kimbark/Kimbark-05.jpg";
-import kimbark06 from "./Site_Projects/04-Kimbark/Kimbark-06.jpg";
-import kimbark07 from "./Site_Projects/04-Kimbark/Kimbark-07.png";
-import kimbark08 from "./Site_Projects/04-Kimbark/Kimbark-08.jpg";
-import kimbark09 from "./Site_Projects/04-Kimbark/Kimbark-09.jpg";
-import kimbark10 from "./Site_Projects/04-Kimbark/Kimbark-10.jpg";
-import kimbark11 from "./Site_Projects/04-Kimbark/Kimbark-11.jpg";
-import kimbark12 from "./Site_Projects/04-Kimbark/Kimbark-12.jpg";
-import kimbark13 from "./Site_Projects/04-Kimbark/Kimbark-13.jpg";
+import kimbark01 from "./Site_Projects/04-Kimbark/Kimbark-01.webp";
+import kimbark02 from "./Site_Projects/04-Kimbark/Kimbark-02.webp";
+import kimbark03 from "./Site_Projects/04-Kimbark/Kimbark-03.webp";
+import kimbark04 from "./Site_Projects/04-Kimbark/Kimbark-04.webp";
+import kimbark05 from "./Site_Projects/04-Kimbark/Kimbark-05.webp";
+import kimbark06 from "./Site_Projects/04-Kimbark/Kimbark-06.webp";
+import kimbark07 from "./Site_Projects/04-Kimbark/Kimbark-07.webp";
+import kimbark08 from "./Site_Projects/04-Kimbark/Kimbark-08.webp";
+import kimbark09 from "./Site_Projects/04-Kimbark/Kimbark-09.webp";
+import kimbark10 from "./Site_Projects/04-Kimbark/Kimbark-10.webp";
+import kimbark11 from "./Site_Projects/04-Kimbark/Kimbark-11.webp";
+import kimbark12 from "./Site_Projects/04-Kimbark/Kimbark-12.webp";
+import kimbark13 from "./Site_Projects/04-Kimbark/Kimbark-13.webp";
 
 //Lake-Meadows imports
 import lakem01 from "./Site_Projects/14-Lake-Meadows/Lake-01.jpg";
@@ -116,23 +116,23 @@ import lakem09 from "./Site_Projects/14-Lake-Meadows/Lake-09.jpg";
 import lakem10 from "./Site_Projects/14-Lake-Meadows/Lake-10.jpg";
 
 //Leavitt-House I imports
-import leavittI01 from "./Site_Projects/10-Leavitt-I/Leavitt3-01.jpg";
-import leavittI02 from "./Site_Projects/10-Leavitt-I/Leavitt3-02.jpg";
-import leavittI03 from "./Site_Projects/10-Leavitt-I/Leavitt3-03.jpg";
-import leavittI04 from "./Site_Projects/10-Leavitt-I/Leavitt3-04.jpg";
-import leavittI05 from "./Site_Projects/10-Leavitt-I/Leavitt3-05.jpg";
-import leavittI06 from "./Site_Projects/10-Leavitt-I/Leavitt3-06.jpg";
-import leavittI07 from "./Site_Projects/10-Leavitt-I/Leavitt3-07.jpg";
-import leavittI08 from "./Site_Projects/10-Leavitt-I/Leavitt3-08.jpg";
-import leavittI09 from "./Site_Projects/10-Leavitt-I/Leavitt3-09.jpg";
-import leavittI10 from "./Site_Projects/10-Leavitt-I/Leavitt3-10.jpg";
+import leavittI01 from "./Site_Projects/10-Leavitt-I/Leavitt3-01.webp";
+import leavittI02 from "./Site_Projects/10-Leavitt-I/Leavitt3-02.webp";
+import leavittI03 from "./Site_Projects/10-Leavitt-I/Leavitt3-03.webp";
+import leavittI04 from "./Site_Projects/10-Leavitt-I/Leavitt3-04.webp";
+import leavittI05 from "./Site_Projects/10-Leavitt-I/Leavitt3-05.webp";
+import leavittI06 from "./Site_Projects/10-Leavitt-I/Leavitt3-06.webp";
+import leavittI07 from "./Site_Projects/10-Leavitt-I/Leavitt3-07.webp";
+import leavittI08 from "./Site_Projects/10-Leavitt-I/Leavitt3-08.webp";
+import leavittI09 from "./Site_Projects/10-Leavitt-I/Leavitt3-09.webp";
+import leavittI10 from "./Site_Projects/10-Leavitt-I/Leavitt3-10.webp";
 import leavittI11 from "./Site_Projects/10-Leavitt-I/Leavitt3-11.MP4";
-import leavittI12 from "./Site_Projects/10-Leavitt-I/Leavitt3-12.jpg";
-import leavittI13 from "./Site_Projects/10-Leavitt-I/Leavitt3-13.jpg";
-import leavittI14 from "./Site_Projects/10-Leavitt-I/Leavitt3-14.jpg";
-import leavittI15 from "./Site_Projects/10-Leavitt-I/Leavitt3-15.jpg";
-import leavittI16 from "./Site_Projects/10-Leavitt-I/Leavitt3-16.jpg";
-import leavittI17 from "./Site_Projects/10-Leavitt-I/Leavitt3-17.jpg";
+import leavittI12 from "./Site_Projects/10-Leavitt-I/Leavitt3-12.webp";
+import leavittI13 from "./Site_Projects/10-Leavitt-I/Leavitt3-13.webp";
+import leavittI14 from "./Site_Projects/10-Leavitt-I/Leavitt3-14.webp";
+import leavittI15 from "./Site_Projects/10-Leavitt-I/Leavitt3-15.webp";
+import leavittI16 from "./Site_Projects/10-Leavitt-I/Leavitt3-16.webp";
+import leavittI17 from "./Site_Projects/10-Leavitt-I/Leavitt3-17.webp";
 
 // Leavitt-House II imports
 import leavittII01 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-01.jpg";
@@ -158,59 +158,59 @@ import leavittII16 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-16.
 // import leavittII21 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-21.jpg";
 
 //Maria's imports
-import marias01 from "./Site_Projects/11-Maria_s/Maria_s-01.jpg";
-import marias02 from "./Site_Projects/11-Maria_s/Maria_s-02.jpg";
-import marias03 from "./Site_Projects/11-Maria_s/Maria_s-03.jpg";
-import marias04 from "./Site_Projects/11-Maria_s/Maria_s-04.jpg";
-import marias05 from "./Site_Projects/11-Maria_s/Maria_s-05.jpg";
-import marias06 from "./Site_Projects/11-Maria_s/Maria_s-06.jpg";
-import marias07 from "./Site_Projects/11-Maria_s/Maria_s-07.jpg";
-import marias08 from "./Site_Projects/11-Maria_s/Maria_s-08.jpg";
-import marias09 from "./Site_Projects/11-Maria_s/Maria_s-09.jpg";
-import marias10 from "./Site_Projects/11-Maria_s/Maria_s-10.jpg";
-import marias11 from "./Site_Projects/11-Maria_s/Maria_s-11.jpg";
+import marias01 from "./Site_Projects/11-Maria_s/Maria_s-01.webp";
+import marias02 from "./Site_Projects/11-Maria_s/Maria_s-02.webp";
+import marias03 from "./Site_Projects/11-Maria_s/Maria_s-03.webp";
+import marias04 from "./Site_Projects/11-Maria_s/Maria_s-04.webp";
+import marias05 from "./Site_Projects/11-Maria_s/Maria_s-05.webp";
+import marias06 from "./Site_Projects/11-Maria_s/Maria_s-06.webp";
+import marias07 from "./Site_Projects/11-Maria_s/Maria_s-07.webp";
+import marias08 from "./Site_Projects/11-Maria_s/Maria_s-08.webp";
+import marias09 from "./Site_Projects/11-Maria_s/Maria_s-09.webp";
+import marias10 from "./Site_Projects/11-Maria_s/Maria_s-10.webp";
+import marias11 from "./Site_Projects/11-Maria_s/Maria_s-11.webp";
 
 //Marz imports
-import marz01 from "./Site_Projects/12-Marz-Brewing/Marz-01.jpg";
-import marz02 from "./Site_Projects/12-Marz-Brewing/Marz-02.jpg";
-import marz03 from "./Site_Projects/12-Marz-Brewing/Marz-03.jpg";
-import marz04 from "./Site_Projects/12-Marz-Brewing/Marz-04.jpg";
-import marz05 from "./Site_Projects/12-Marz-Brewing/Marz-05.png";
-import marz06 from "./Site_Projects/12-Marz-Brewing/Marz-06.jpg";
-import marz07 from "./Site_Projects/12-Marz-Brewing/Marz-07.jpg";
-import marz08 from "./Site_Projects/12-Marz-Brewing/Marz-08.jpg";
-import marz09 from "./Site_Projects/12-Marz-Brewing/Marz-09.jpg";
-import marz10 from "./Site_Projects/12-Marz-Brewing/Marz-10.jpg";
-import marz11 from "./Site_Projects/12-Marz-Brewing/Marz-11.jpg";
-import marz12 from "./Site_Projects/12-Marz-Brewing/Marz-12.jpg";
-import marz13 from "./Site_Projects/12-Marz-Brewing/Marz-13.jpg";
-import marz14 from "./Site_Projects/12-Marz-Brewing/Marz-14.png";
-import marz15 from "./Site_Projects/12-Marz-Brewing/Marz-15.jpg";
-import marz16 from "./Site_Projects/12-Marz-Brewing/Marz-16.jpg";
-import marz17 from "./Site_Projects/12-Marz-Brewing/Marz-17.jpg";
-import marz18 from "./Site_Projects/12-Marz-Brewing/Marz-18.jpg";
+import marz01 from "./Site_Projects/12-Marz-Brewing/Marz-01.webp";
+import marz02 from "./Site_Projects/12-Marz-Brewing/Marz-02.webp";
+import marz03 from "./Site_Projects/12-Marz-Brewing/Marz-03.webp";
+import marz04 from "./Site_Projects/12-Marz-Brewing/Marz-04.webp";
+import marz05 from "./Site_Projects/12-Marz-Brewing/Marz-05.webp";
+import marz06 from "./Site_Projects/12-Marz-Brewing/Marz-06.webp";
+import marz07 from "./Site_Projects/12-Marz-Brewing/Marz-07.webp";
+import marz08 from "./Site_Projects/12-Marz-Brewing/Marz-08.webp";
+import marz09 from "./Site_Projects/12-Marz-Brewing/Marz-09.webp";
+import marz10 from "./Site_Projects/12-Marz-Brewing/Marz-10.webp";
+import marz11 from "./Site_Projects/12-Marz-Brewing/Marz-11.webp";
+import marz12 from "./Site_Projects/12-Marz-Brewing/Marz-12.webp";
+import marz13 from "./Site_Projects/12-Marz-Brewing/Marz-13.webp";
+import marz14 from "./Site_Projects/12-Marz-Brewing/Marz-14.webp";
+import marz15 from "./Site_Projects/12-Marz-Brewing/Marz-15.webp";
+import marz16 from "./Site_Projects/12-Marz-Brewing/Marz-16.webp";
+import marz17 from "./Site_Projects/12-Marz-Brewing/Marz-17.webp";
+import marz18 from "./Site_Projects/12-Marz-Brewing/Marz-18.webp";
 
 //milwaukee imports
-import milwaukee01 from "./Site_Projects/07-Milwaukee/Milwaukee-01.jpg";
+import milwaukee01 from "./Site_Projects/07-Milwaukee/Milwaukee-01.webp";
 import milwaukee02 from "./Site_Projects/07-Milwaukee/Milwaukee-02.mp4";
-import milwaukee03 from "./Site_Projects/07-Milwaukee/Milwaukee-03.jpg";
-import milwaukee04 from "./Site_Projects/07-Milwaukee/Milwaukee-04.jpg";
-import milwaukee05 from "./Site_Projects/07-Milwaukee/Milwaukee-05.jpg";
-import milwaukee06 from "./Site_Projects/07-Milwaukee/Milwaukee-06.jpg";
-import milwaukee07 from "./Site_Projects/07-Milwaukee/Milwaukee-07.jpg";
-import milwaukee08 from "./Site_Projects/07-Milwaukee/Milwaukee-08.jpg";
+import milwaukee03 from "./Site_Projects/07-Milwaukee/Milwaukee-03.webp";
+import milwaukee04 from "./Site_Projects/07-Milwaukee/Milwaukee-04.webp";
+import milwaukee05 from "./Site_Projects/07-Milwaukee/Milwaukee-05.webp";
+import milwaukee06 from "./Site_Projects/07-Milwaukee/Milwaukee-06.webp";
+import milwaukee07 from "./Site_Projects/07-Milwaukee/Milwaukee-07.webp";
+import milwaukee08 from "./Site_Projects/07-Milwaukee/Milwaukee-08.webp";
 
 //new city imports
-import newCity01 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-01.jpg";
-import newCity02 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-02.jpg";
-import newCity03 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-03.jpg";
-import newCity04 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-04.jpg";
-import newCity05 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-05.jpg";
-import newCity06 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-06.jpg";
-import newCity07 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-07.jpg";
-import newCity08 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-08.jpg";
-import newCity09 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-09.jpg";
-import newCity10 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-10.jpg";
+import newCity01 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-01.webp";
+import newCity02 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-02.webp";
+import newCity03 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-03.webp";
+import newCity04 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-04.webp";
+import newCity05 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-05.webp";
+import newCity06 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-06.webp";
+import newCity07 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-07.webp";
+import newCity08 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-08.webp";
+import newCity09 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-09.webp";
+import newCity10 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-10.webp";
 
 //noninas imports
 import nonnina01 from "./Site_Projects/17-Nonnina_s/Nonnina-01.jpg";
@@ -229,20 +229,20 @@ import nonnina13 from "./Site_Projects/17-Nonnina_s/Nonnina-13.jpg";
 // import nonnina14 from "./Site_Projects/17-Nonnina_s/Nonnina-14.jpg";
 
 //Potomac imports
-import potomac01 from "./Site_Projects/09-Potomac/Potomac-01.jpg";
-import potomac02 from "./Site_Projects/09-Potomac/Potomac-02.jpg";
-import potomac03 from "./Site_Projects/09-Potomac/Potomac-03.jpg";
-import potomac04 from "./Site_Projects/09-Potomac/Potomac-04.jpg";
-import potomac05 from "./Site_Projects/09-Potomac/Potomac-05.jpg";
-import potomac06 from "./Site_Projects/09-Potomac/Potomac-06.jpg";
-import potomac07 from "./Site_Projects/09-Potomac/Potomac-07.jpg";
-import potomac08 from "./Site_Projects/09-Potomac/Potomac-08.jpg";
-import potomac09 from "./Site_Projects/09-Potomac/Potomac-09.jpg";
-import potomac10 from "./Site_Projects/09-Potomac/Potomac-10.jpg";
-import potomac11 from "./Site_Projects/09-Potomac/Potomac-11.jpg";
-import potomac12 from "./Site_Projects/09-Potomac/Potomac-12.jpg";
-import potomac13 from "./Site_Projects/09-Potomac/Potomac-13.jpg";
-import potomac14 from "./Site_Projects/09-Potomac/Potomac-14.jpg";
+import potomac01 from "./Site_Projects/09-Potomac/Potomac-01.webp";
+import potomac02 from "./Site_Projects/09-Potomac/Potomac-02.webp";
+import potomac03 from "./Site_Projects/09-Potomac/Potomac-03.webp";
+import potomac04 from "./Site_Projects/09-Potomac/Potomac-04.webp";
+import potomac05 from "./Site_Projects/09-Potomac/Potomac-05.webp";
+import potomac06 from "./Site_Projects/09-Potomac/Potomac-06.webp";
+import potomac07 from "./Site_Projects/09-Potomac/Potomac-07.webp";
+import potomac08 from "./Site_Projects/09-Potomac/Potomac-08.webp";
+import potomac09 from "./Site_Projects/09-Potomac/Potomac-09.webp";
+import potomac10 from "./Site_Projects/09-Potomac/Potomac-10.webp";
+import potomac11 from "./Site_Projects/09-Potomac/Potomac-11.webp";
+import potomac12 from "./Site_Projects/09-Potomac/Potomac-12.webp";
+import potomac13 from "./Site_Projects/09-Potomac/Potomac-13.webp";
+import potomac14 from "./Site_Projects/09-Potomac/Potomac-14.webp";
 
 //Ridge imports
 import ridge01 from "./Site_Projects/19-Ridge/Ridge-01.jpg";
@@ -287,17 +287,17 @@ import wickerPark11 from "./Site_Projects/13-Wicker-Park/Wicker-11.jpg";
 import wickerPark12 from "./Site_Projects/13-Wicker-Park/Wicker-12.jpg";
 
 //wolcott imports
-import wolcott01 from "./Site_Projects/08-Wolcott/Wolcott-01.jpg";
-import wolcott02 from "./Site_Projects/08-Wolcott/Wolcott-2.jpg";
-import wolcott03 from "./Site_Projects/08-Wolcott/Wolcott-3.jpg";
-import wolcott04 from "./Site_Projects/08-Wolcott/Wolcott-4.jpg";
-import wolcott05 from "./Site_Projects/08-Wolcott/Wolcott-5.jpg";
-import wolcott06 from "./Site_Projects/08-Wolcott/Wolcott-6.jpg";
-import wolcott07 from "./Site_Projects/08-Wolcott/Wolcott-7.jpg";
-import wolcott08 from "./Site_Projects/08-Wolcott/Wolcott-08.jpg";
-import wolcott09 from "./Site_Projects/08-Wolcott/Wolcott-09.jpg";
-import wolcott10 from "./Site_Projects/08-Wolcott/Wolcott-10.jpg";
-import wolcott11 from "./Site_Projects/08-Wolcott/Wolcott-11.png";
+import wolcott01 from "./Site_Projects/08-Wolcott/Wolcott-01.webp";
+import wolcott02 from "./Site_Projects/08-Wolcott/Wolcott-02.webp";
+import wolcott03 from "./Site_Projects/08-Wolcott/Wolcott-03.webp";
+import wolcott04 from "./Site_Projects/08-Wolcott/Wolcott-04.webp";
+import wolcott05 from "./Site_Projects/08-Wolcott/Wolcott-05.webp";
+import wolcott06 from "./Site_Projects/08-Wolcott/Wolcott-06.webp";
+import wolcott07 from "./Site_Projects/08-Wolcott/Wolcott-07.webp";
+import wolcott08 from "./Site_Projects/08-Wolcott/Wolcott-08.webp";
+import wolcott09 from "./Site_Projects/08-Wolcott/Wolcott-09.webp";
+import wolcott10 from "./Site_Projects/08-Wolcott/Wolcott-10.webp";
+import wolcott11 from "./Site_Projects/08-Wolcott/Wolcott-11.webp";
 
 // woodLawn I imports
 import woodLawn01 from "./Site_Projects/01-Woodlawn/Woodlawn-01.webp";

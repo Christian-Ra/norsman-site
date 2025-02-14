@@ -116,8 +116,8 @@ export default function HomePage() {
         className="cta-info"
       >
         <div className="cta-content landing-mask" key={"cta"}>
-          <h1 className="cta">
             <Link to="/norsman-site/about">
+          <h1 className="cta">
               We are an architectural studio that has chosen to build. Uniquely
               positioned as an Architect-Led Design Build Practice in Chicago,
               our portfolio of diverse architectural work is complemented by a
@@ -126,8 +126,8 @@ export default function HomePage() {
               enabling greater budget control, creative freedom and the positive
               realization of our client’s vision. As such, our collaborations
               continue to be as unique as our clients’ circumstances.
-            </Link>
           </h1>
+            </Link>
         </div>
       </section>
       <div className="project-display" id="project-gallery">
