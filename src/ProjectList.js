@@ -20,18 +20,18 @@ import wrigley18 from "./Site_Projects/03-Bosworth/Wrigleyville-18.webp";
 import wrigley19 from "./Site_Projects/03-Bosworth/Wrigleyville-19.webp";
 
 //Caffe-Streets imports
-import caffe01 from "./Site_Projects/18-Caffe-Streets/Caffe-S-01.jpg";
-import caffe02 from "./Site_Projects/18-Caffe-Streets/Caffe-S-02.jpg";
-import caffe03 from "./Site_Projects/18-Caffe-Streets/Caffe-S-03.jpg";
-import caffe04 from "./Site_Projects/18-Caffe-Streets/Caffe-S-04.jpg";
-import caffe05 from "./Site_Projects/18-Caffe-Streets/Caffe-S-05.jpg";
-import caffe06 from "./Site_Projects/18-Caffe-Streets/Caffe-S-06.jpg";
-import caffe07 from "./Site_Projects/18-Caffe-Streets/Caffe-S-07.jpg";
-import caffe08 from "./Site_Projects/18-Caffe-Streets/Caffe-S-08.jpg";
-import caffe09 from "./Site_Projects/18-Caffe-Streets/Caffe-S-09.jpg";
-import caffe10 from "./Site_Projects/18-Caffe-Streets/Caffe-S-10.jpg";
-import caffe11 from "./Site_Projects/18-Caffe-Streets/Caffe-S-11.jpg";
-import caffe12 from "./Site_Projects/18-Caffe-Streets/Caffe-S-12.jpg";
+import caffe01 from "./Site_Projects/18-Caffe-Streets/Caffe-S-01.webp";
+import caffe02 from "./Site_Projects/18-Caffe-Streets/Caffe-S-02.webp";
+import caffe03 from "./Site_Projects/18-Caffe-Streets/Caffe-S-03.webp";
+import caffe04 from "./Site_Projects/18-Caffe-Streets/Caffe-S-04.webp";
+import caffe05 from "./Site_Projects/18-Caffe-Streets/Caffe-S-05.webp";
+import caffe06 from "./Site_Projects/18-Caffe-Streets/Caffe-S-06.webp";
+import caffe07 from "./Site_Projects/18-Caffe-Streets/Caffe-S-07.webp";
+import caffe08 from "./Site_Projects/18-Caffe-Streets/Caffe-S-08.webp";
+import caffe09 from "./Site_Projects/18-Caffe-Streets/Caffe-S-09.webp";
+import caffe10 from "./Site_Projects/18-Caffe-Streets/Caffe-S-10.webp";
+import caffe11 from "./Site_Projects/18-Caffe-Streets/Caffe-S-11.webp";
+import caffe12 from "./Site_Projects/18-Caffe-Streets/Caffe-S-12.webp";
 
 //division imports
 import division01 from "./Site_Projects/02-Division/Division-01.webp";
@@ -244,16 +244,16 @@ import potomac13 from "./Site_Projects/09-Potomac/Potomac-13.webp";
 import potomac14 from "./Site_Projects/09-Potomac/Potomac-14.webp";
 
 //Ridge imports
-import ridge01 from "./Site_Projects/19-Ridge/Ridge-01.jpg";
-import ridge02 from "./Site_Projects/19-Ridge/Ridge-02.jpg";
-import ridge03 from "./Site_Projects/19-Ridge/Ridge-03.jpg";
-import ridge04 from "./Site_Projects/19-Ridge/Ridge-04.jpg";
-import ridge05 from "./Site_Projects/19-Ridge/Ridge-05.jpg";
-import ridge06 from "./Site_Projects/19-Ridge/Ridge-06.jpg";
-import ridge07 from "./Site_Projects/19-Ridge/Ridge-07.jpg";
-import ridge08 from "./Site_Projects/19-Ridge/Ridge-08.jpg";
-import ridge09 from "./Site_Projects/19-Ridge/Ridge-09.jpg";
-import ridge10 from "./Site_Projects/19-Ridge/Ridge-10.jpg";
+import ridge01 from "./Site_Projects/19-Ridge/Ridge-01.webp";
+import ridge02 from "./Site_Projects/19-Ridge/Ridge-02.webp";
+import ridge03 from "./Site_Projects/19-Ridge/Ridge-03.webp";
+import ridge04 from "./Site_Projects/19-Ridge/Ridge-04.webp";
+import ridge05 from "./Site_Projects/19-Ridge/Ridge-05.webp";
+import ridge06 from "./Site_Projects/19-Ridge/Ridge-06.webp";
+import ridge07 from "./Site_Projects/19-Ridge/Ridge-07.webp";
+import ridge08 from "./Site_Projects/19-Ridge/Ridge-08.webp";
+import ridge09 from "./Site_Projects/19-Ridge/Ridge-09.webp";
+import ridge10 from "./Site_Projects/19-Ridge/Ridge-10.webp";
 
 //St.Croix imports
 import stcroix01 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-01.webp";
