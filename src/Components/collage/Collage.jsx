@@ -1,18 +1,16 @@
 import "./Collage.scss";
 import CollageCard from "./CollageCard";
-import { useMatch } from "react-router-dom";
-
+import { useMatch, useParams } from "react-router-dom";
+import { Collections as collections } from "../../ProjectList";
 import { motion } from "framer-motion";
 
-const Collage = ({ collections }) => {
-  const match = useMatch("/normsan-site/collections/:type");
-  const modifyLink = (str) => {
-    return str.replaceAll(" ", "-").toLowerCase();
-  };
+const Collage = () => {
+  const { collectionSlug } = useParams();
+  const match = useMatch("/norsman-site/collections/:collectionSlug");
   const collection = match
     ? collections.find(
         (collection) =>
-          modifyLink(collection.type) === String(match.params.type)
+          collection.slug === collectionSlug
       )
     : null;
   if (!collection) {

@@ -312,30 +312,30 @@ import woodLawn15 from "./Site_Projects/01-Woodlawn/Woodlawn-16.webp";
 import woodLawn16 from "./Site_Projects/01-Woodlawn/Woodlawn-17.webp";
 
 //on the boards imports
-import ontheBoards01 from "./Site_Projects/22-On-The-Boards/01-Illumina-01.png";
-import ontheBoards02 from "./Site_Projects/22-On-The-Boards/01-Illumina-02.png";
-import ontheBoards03 from "./Site_Projects/22-On-The-Boards/01-Illumina-03.png";
-import ontheBoards04 from "./Site_Projects/22-On-The-Boards/01-Illumina-04.png";
-import ontheBoards05 from "./Site_Projects/22-On-The-Boards/01-Illumina-05.jpg";
-import ontheBoards06 from "./Site_Projects/22-On-The-Boards/01-Illumina-06.jpg";
-import ontheBoards07 from "./Site_Projects/22-On-The-Boards/02-Wood-01.png";
-import ontheBoards08 from "./Site_Projects/22-On-The-Boards/02-Wood-02.jpg";
-import ontheBoards09 from "./Site_Projects/22-On-The-Boards/02-Wood-03.jpg";
-import ontheBoards10 from "./Site_Projects/22-On-The-Boards/02-Wood-04.png";
-import ontheBoards11 from "./Site_Projects/22-On-The-Boards/02-Wood-05.jpg";
-import ontheBoards12 from "./Site_Projects/22-On-The-Boards/02-Wood-06.png";
-import ontheBoards13 from "./Site_Projects/22-On-The-Boards/03-Atlantic-01.png";
-import ontheBoards14 from "./Site_Projects/22-On-The-Boards/03-Atlantic-02.png";
-import ontheBoards15 from "./Site_Projects/22-On-The-Boards/03-Atlantic-03.png";
-import ontheBoards16 from "./Site_Projects/22-On-The-Boards/03-Atlantic-04.png";
-import ontheBoards17 from "./Site_Projects/22-On-The-Boards/03-Atlantic-05.png";
-import ontheBoards18 from "./Site_Projects/22-On-The-Boards/03-Atlantic-06.png";
-import ontheBoards19 from "./Site_Projects/22-On-The-Boards/04-Mpower-01.jpg";
-import ontheBoards20 from "./Site_Projects/22-On-The-Boards/04-Mpower-02.jpg";
-import ontheBoards21 from "./Site_Projects/22-On-The-Boards/04-Mpower-03.jpg";
-import ontheBoards22 from "./Site_Projects/22-On-The-Boards/04-Mpower-04.jpg";
-import ontheBoards23 from "./Site_Projects/22-On-The-Boards/04-Mpower-05.jpg";
-import ontheBoards24 from "./Site_Projects/22-On-The-Boards/04-Mpower-06.png";
+import ontheBoards01 from "./Site_Projects/22-On-The-Boards/01-Illumina-01.webp";
+import ontheBoards02 from "./Site_Projects/22-On-The-Boards/01-Illumina-02.webp";
+import ontheBoards03 from "./Site_Projects/22-On-The-Boards/01-Illumina-03.webp";
+import ontheBoards04 from "./Site_Projects/22-On-The-Boards/01-Illumina-04.webp";
+import ontheBoards05 from "./Site_Projects/22-On-The-Boards/01-Illumina-05.webp";
+import ontheBoards06 from "./Site_Projects/22-On-The-Boards/01-Illumina-06.webp";
+import ontheBoards07 from "./Site_Projects/22-On-The-Boards/02-Wood-01.webp";
+import ontheBoards08 from "./Site_Projects/22-On-The-Boards/02-Wood-02.webp";
+import ontheBoards09 from "./Site_Projects/22-On-The-Boards/02-Wood-03.webp";
+import ontheBoards10 from "./Site_Projects/22-On-The-Boards/02-Wood-04.webp";
+import ontheBoards11 from "./Site_Projects/22-On-The-Boards/02-Wood-05.webp";
+import ontheBoards12 from "./Site_Projects/22-On-The-Boards/02-Wood-06.webp";
+import ontheBoards13 from "./Site_Projects/22-On-The-Boards/03-Atlantic-01.webp";
+import ontheBoards14 from "./Site_Projects/22-On-The-Boards/03-Atlantic-02.webp";
+import ontheBoards15 from "./Site_Projects/22-On-The-Boards/03-Atlantic-03.webp";
+import ontheBoards16 from "./Site_Projects/22-On-The-Boards/03-Atlantic-04.webp";
+import ontheBoards17 from "./Site_Projects/22-On-The-Boards/03-Atlantic-05.webp";
+import ontheBoards18 from "./Site_Projects/22-On-The-Boards/03-Atlantic-06.webp";
+import ontheBoards19 from "./Site_Projects/22-On-The-Boards/04-Mpower-01.webp";
+import ontheBoards20 from "./Site_Projects/22-On-The-Boards/04-Mpower-02.webp";
+import ontheBoards21 from "./Site_Projects/22-On-The-Boards/04-Mpower-03.webp";
+import ontheBoards22 from "./Site_Projects/22-On-The-Boards/04-Mpower-04.webp";
+import ontheBoards23 from "./Site_Projects/22-On-The-Boards/04-Mpower-05.webp";
+import ontheBoards24 from "./Site_Projects/22-On-The-Boards/04-Mpower-06.webp";
 
 import construction01 from "./Site_Projects/23-Under-Construction/01-Kimbark-01.jpg";
 import construction02 from "./Site_Projects/23-Under-Construction/01-Kimbark-02.jpg";
@@ -488,7 +488,6 @@ const generateSlug = (title) => {
 export const Collections = [
   {
     type: "On The Boards",
-    slug: "on-the-boards",
     photos: [
       ontheBoards01,
       ontheBoards02,
@@ -662,7 +661,10 @@ export const Collections = [
       archive91,
     ],
   },
-];
+].map((collection) => ({
+  ...collection,
+  slug: generateSlug(collection.type),
+}));
 
 export const Projects = [
   {
