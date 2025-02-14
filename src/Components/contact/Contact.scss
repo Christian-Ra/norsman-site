@@ -5,7 +5,7 @@
 .contact-page {
     background-color: $secondaryColor;
     background-size: cover;
-    background-image: url("../../Graphics/Contact-Page.jpg");
+    background-image: url("../../Graphics/Contact-Page.webp");
     @include breakpoint-down("small") {
         background-position: 20% 80%;
     }

@@ -1,7 +1,7 @@
-import brentPhoto from "../../Graphics/01-Brent.jpg";
-import tomPhoto from "../../Graphics/02-Tom-Novak.jpg";
-import jakePhoto from "../../Graphics/03-Jake-Gagner.jpg";
-import muPhoto from "../../Graphics/04-Mu-Cao.jpg";
+import brentPhoto from "../../Graphics/01-Brent.webp";
+import tomPhoto from "../../Graphics/02-Tom-Novak.webp";
+import jakePhoto from "../../Graphics/03-Jake-Gagner.webp";
+import muPhoto from "../../Graphics/04-Mu-Cao.webp";
 
 const aboutData = [
   {

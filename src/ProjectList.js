@@ -104,16 +104,16 @@ import kimbark12 from "./Site_Projects/04-Kimbark/Kimbark-12.webp";
 import kimbark13 from "./Site_Projects/04-Kimbark/Kimbark-13.webp";
 
 //Lake-Meadows imports
-import lakem01 from "./Site_Projects/14-Lake-Meadows/Lake-01.jpg";
-import lakem02 from "./Site_Projects/14-Lake-Meadows/Lake-02.jpg";
-import lakem03 from "./Site_Projects/14-Lake-Meadows/Lake-03.jpg";
-import lakem04 from "./Site_Projects/14-Lake-Meadows/Lake-04.jpg";
-import lakem05 from "./Site_Projects/14-Lake-Meadows/Lake-05.jpg";
-import lakem06 from "./Site_Projects/14-Lake-Meadows/Lake-06.jpg";
-// import lakem07 from "./Site_Projects/14-Lake-Meadows/Lake-07.jpg";
-import lakem08 from "./Site_Projects/14-Lake-Meadows/Lake-08.jpg";
-import lakem09 from "./Site_Projects/14-Lake-Meadows/Lake-09.jpg";
-import lakem10 from "./Site_Projects/14-Lake-Meadows/Lake-10.jpg";
+import lakem01 from "./Site_Projects/14-Lake-Meadows/Lake-01.webp";
+import lakem02 from "./Site_Projects/14-Lake-Meadows/Lake-02.webp";
+import lakem03 from "./Site_Projects/14-Lake-Meadows/Lake-03.webp";
+import lakem04 from "./Site_Projects/14-Lake-Meadows/Lake-04.webp";
+import lakem05 from "./Site_Projects/14-Lake-Meadows/Lake-05.webp";
+import lakem06 from "./Site_Projects/14-Lake-Meadows/Lake-06.webp";
+// import lakem07 from "./Site_Projects/14-Lake-Meadows/Lake-07.webp";
+import lakem08 from "./Site_Projects/14-Lake-Meadows/Lake-08.webp";
+import lakem09 from "./Site_Projects/14-Lake-Meadows/Lake-09.webp";
+import lakem10 from "./Site_Projects/14-Lake-Meadows/Lake-10.webp";
 
 //Leavitt-House I imports
 import leavittI01 from "./Site_Projects/10-Leavitt-I/Leavitt3-01.webp";
@@ -273,18 +273,18 @@ import stcroix13 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix
 import stcroix14 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13.jpg";
 
 //Wicker Park imports
-import wickerPark01 from "./Site_Projects/13-Wicker-Park/Wicker-01.png";
-import wickerPark02 from "./Site_Projects/13-Wicker-Park/Wicker-02.jpg";
-import wickerPark03 from "./Site_Projects/13-Wicker-Park/Wicker-03.jpg";
-import wickerPark04 from "./Site_Projects/13-Wicker-Park/Wicker-04.jpg";
-import wickerPark05 from "./Site_Projects/13-Wicker-Park/Wicker-05.jpg";
-import wickerPark06 from "./Site_Projects/13-Wicker-Park/Wicker-06.jpg";
-import wickerPark07 from "./Site_Projects/13-Wicker-Park/Wicker-07.jpg";
-import wickerPark08 from "./Site_Projects/13-Wicker-Park/Wicker-08.png";
-import wickerPark09 from "./Site_Projects/13-Wicker-Park/Wicker-09.png";
-import wickerPark10 from "./Site_Projects/13-Wicker-Park/Wicker-10.jpg";
-import wickerPark11 from "./Site_Projects/13-Wicker-Park/Wicker-11.jpg";
-import wickerPark12 from "./Site_Projects/13-Wicker-Park/Wicker-12.jpg";
+import wickerPark01 from "./Site_Projects/13-Wicker-Park/Wicker-01.webp";
+import wickerPark02 from "./Site_Projects/13-Wicker-Park/Wicker-02.webp";
+import wickerPark03 from "./Site_Projects/13-Wicker-Park/Wicker-03.webp";
+import wickerPark04 from "./Site_Projects/13-Wicker-Park/Wicker-04.webp";
+import wickerPark05 from "./Site_Projects/13-Wicker-Park/Wicker-05.webp";
+import wickerPark06 from "./Site_Projects/13-Wicker-Park/Wicker-06.webp";
+import wickerPark07 from "./Site_Projects/13-Wicker-Park/Wicker-07.webp";
+import wickerPark08 from "./Site_Projects/13-Wicker-Park/Wicker-08.webp";
+import wickerPark09 from "./Site_Projects/13-Wicker-Park/Wicker-09.webp";
+import wickerPark10 from "./Site_Projects/13-Wicker-Park/Wicker-10.webp";
+import wickerPark11 from "./Site_Projects/13-Wicker-Park/Wicker-11.webp";
+import wickerPark12 from "./Site_Projects/13-Wicker-Park/Wicker-12.webp";
 
 //wolcott imports
 import wolcott01 from "./Site_Projects/08-Wolcott/Wolcott-01.webp";

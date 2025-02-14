@@ -5,7 +5,7 @@ import { motion } from "framer-motion";
 import { useLocation, Link } from "react-router-dom";
 import { useEffect } from "react";
 
-import quoteImage from "../../Graphics/landing-staircase.png";
+import quoteImage from "../../Graphics/landing-staircase.webp";
 import logo from "../../Graphics/Norsman Logo 2024 Transparent.png";
 
 import landingImage1 from "../../Landing_photos/Landing-01.webp"; //TODO: Lower the focus point, logo sits above window
