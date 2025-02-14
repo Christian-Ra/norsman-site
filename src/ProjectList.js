@@ -62,18 +62,18 @@ import fairbanks13 from "./Site_Projects/06-Fairbanks/Fairbanks-13.webp";
 // import fairbanks14 from "./Site_Projects/06-Fairbanks/Fairbanks-14.png";
 
 //Hermitage imports
-import hermitage01 from "./Site_Projects/16-Hermitage/Hermitage-01.jpg";
-import hermitage02 from "./Site_Projects/16-Hermitage/Hermitage-02.jpg";
-import hermitage03 from "./Site_Projects/16-Hermitage/Hermitage-03.jpg";
-import hermitage04 from "./Site_Projects/16-Hermitage/Hermitage-04.jpg";
-import hermitage05 from "./Site_Projects/16-Hermitage/Hermitage-05.jpg";
-import hermitage06 from "./Site_Projects/16-Hermitage/Hermitage-06.jpg";
-import hermitage07 from "./Site_Projects/16-Hermitage/Hermitage-07.jpg";
-import hermitage08 from "./Site_Projects/16-Hermitage/Hermitage-08.jpg";
-import hermitage09 from "./Site_Projects/16-Hermitage/Hermitage-09.jpg";
-import hermitage10 from "./Site_Projects/16-Hermitage/Hermitage-10.jpg";
-import hermitage11 from "./Site_Projects/16-Hermitage/Hermitage-11.jpg";
-import hermitage12 from "./Site_Projects/16-Hermitage/Hermitage-12.jpg";
+import hermitage01 from "./Site_Projects/16-Hermitage/Hermitage-01.webp";
+import hermitage02 from "./Site_Projects/16-Hermitage/Hermitage-02.webp";
+import hermitage03 from "./Site_Projects/16-Hermitage/Hermitage-03.webp";
+import hermitage04 from "./Site_Projects/16-Hermitage/Hermitage-04.webp";
+import hermitage05 from "./Site_Projects/16-Hermitage/Hermitage-05.webp";
+import hermitage06 from "./Site_Projects/16-Hermitage/Hermitage-06.webp";
+import hermitage07 from "./Site_Projects/16-Hermitage/Hermitage-07.webp";
+import hermitage08 from "./Site_Projects/16-Hermitage/Hermitage-08.webp";
+import hermitage09 from "./Site_Projects/16-Hermitage/Hermitage-09.webp";
+import hermitage10 from "./Site_Projects/16-Hermitage/Hermitage-10.webp";
+import hermitage11 from "./Site_Projects/16-Hermitage/Hermitage-11.webp";
+import hermitage12 from "./Site_Projects/16-Hermitage/Hermitage-12.webp";
 
 //Hoffman Estates Imports
 import hoffman01 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-01.jpg";
@@ -213,20 +213,19 @@ import newCity09 from "./Site_Projects/05-New-City-Moving-Company/New-City-Movin
 import newCity10 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-10.webp";
 
 //noninas imports
-import nonnina01 from "./Site_Projects/17-Nonnina_s/Nonnina-01.jpg";
-import nonnina02 from "./Site_Projects/17-Nonnina_s/Nonnina-02.jpg";
-import nonnina03 from "./Site_Projects/17-Nonnina_s/Nonnina-03.jpg";
-import nonnina04 from "./Site_Projects/17-Nonnina_s/Nonnina-04.jpg";
-import nonnina05 from "./Site_Projects/17-Nonnina_s/Nonnina-05.jpg";
-import nonnina06 from "./Site_Projects/17-Nonnina_s/Nonnina-06.jpg";
-import nonnina07 from "./Site_Projects/17-Nonnina_s/Nonnina-07.jpg";
-import nonnina08 from "./Site_Projects/17-Nonnina_s/Nonnina-08.jpg";
-import nonnina09 from "./Site_Projects/17-Nonnina_s/Nonnina-09.jpg";
-import nonnina10 from "./Site_Projects/17-Nonnina_s/Nonnina-10.jpg";
-import nonnina11 from "./Site_Projects/17-Nonnina_s/Nonnina-11.jpg";
-import nonnina12 from "./Site_Projects/17-Nonnina_s/Nonnina-12.jpg";
-import nonnina13 from "./Site_Projects/17-Nonnina_s/Nonnina-13.jpg";
-// import nonnina14 from "./Site_Projects/17-Nonnina_s/Nonnina-14.jpg";
+import nonnina01 from "./Site_Projects/17-Nonnina_s/Nonnina-01.webp";
+import nonnina02 from "./Site_Projects/17-Nonnina_s/Nonnina-02.webp";
+import nonnina03 from "./Site_Projects/17-Nonnina_s/Nonnina-03.webp";
+import nonnina04 from "./Site_Projects/17-Nonnina_s/Nonnina-04.webp";
+import nonnina05 from "./Site_Projects/17-Nonnina_s/Nonnina-05.webp";
+import nonnina06 from "./Site_Projects/17-Nonnina_s/Nonnina-06.webp";
+import nonnina07 from "./Site_Projects/17-Nonnina_s/Nonnina-07.webp";
+import nonnina08 from "./Site_Projects/17-Nonnina_s/Nonnina-08.webp";
+import nonnina09 from "./Site_Projects/17-Nonnina_s/Nonnina-09.webp";
+import nonnina10 from "./Site_Projects/17-Nonnina_s/Nonnina-10.webp";
+import nonnina11 from "./Site_Projects/17-Nonnina_s/Nonnina-11.webp";
+import nonnina12 from "./Site_Projects/17-Nonnina_s/Nonnina-12.webp";
+import nonnina13 from "./Site_Projects/17-Nonnina_s/Nonnina-13.webp";
 
 //Potomac imports
 import potomac01 from "./Site_Projects/09-Potomac/Potomac-01.webp";
@@ -257,20 +256,20 @@ import ridge09 from "./Site_Projects/19-Ridge/Ridge-09.jpg";
 import ridge10 from "./Site_Projects/19-Ridge/Ridge-10.jpg";
 
 //St.Croix imports
-import stcroix01 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-01.jpg";
-import stcroix02 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-02.jpg";
-import stcroix03 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-03.jpg";
-import stcroix04 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-04.jpg";
-import stcroix05 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-05.jpg";
-import stcroix06 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-06.jpg";
-import stcroix07 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-07.jpg";
-import stcroix08 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-08.jpg";
-import stcroix09 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-09.jpg";
-import stcroix10 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-10.jpg";
-import stcroix11 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-11.jpg";
-import stcroix12 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-12.jpg";
-import stcroix13 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13.jpg";
-import stcroix14 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13.jpg";
+import stcroix01 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-01.webp";
+import stcroix02 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-02.webp";
+import stcroix03 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-03.webp";
+import stcroix04 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-04.webp";
+import stcroix05 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-05.webp";
+import stcroix06 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-06.webp";
+import stcroix07 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-07.webp";
+import stcroix08 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-08.webp";
+import stcroix09 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-09.webp";
+import stcroix10 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-10.webp";
+import stcroix11 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-11.webp";
+import stcroix12 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-12.webp";
+import stcroix13 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13.webp";
+import stcroix14 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13.webp";
 
 //Wicker Park imports
 import wickerPark01 from "./Site_Projects/13-Wicker-Park/Wicker-01.webp";
