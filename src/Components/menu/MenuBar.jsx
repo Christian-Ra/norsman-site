@@ -55,13 +55,13 @@ export default function MenuBar() {
       >
         <ul>
           <li onClick={() => toggleMenu()}>
-            <Link to="" state={{ targetId: "landing" }}>
+            <Link to="/norsman-site" state={{ targetId: "landing" }}>
               <img className="homebar-logo" src={logo} alt="norsman" />
             </Link>
           </li>
           <section className="navLinks">
             <li onClick={() => toggleMenu()}>
-              <Link to="" state={{ targetId: "project-gallery" }}>
+              <Link to="/norsman-site" state={{ targetId: "project-gallery" }}>
                 Projects
               </Link>
             </li>

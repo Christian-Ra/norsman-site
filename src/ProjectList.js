@@ -76,17 +76,17 @@ import hermitage11 from "./Site_Projects/16-Hermitage/Hermitage-11.webp";
 import hermitage12 from "./Site_Projects/16-Hermitage/Hermitage-12.webp";
 
 //Hoffman Estates Imports
-import hoffman01 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-01.jpg";
-import hoffman02 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-02.jpg";
-import hoffman03 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-3.jpg";
-import hoffman04 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-04.jpg";
-import hoffman05 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-05.jpg";
-import hoffman06 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-06.jpg";
-import hoffman07 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-07.jpg";
-import hoffman08 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-08.jpg";
-import hoffman09 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-09.jpg";
-import hoffman10 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-10.jpg";
-import hoffman11 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-11.jpg";
+import hoffman01 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-01.webp";
+import hoffman02 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-02.webp";
+import hoffman03 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-03.webp";
+import hoffman04 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-04.webp";
+import hoffman05 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-05.webp";
+import hoffman06 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-06.webp";
+import hoffman07 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-07.webp";
+import hoffman08 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-08.webp";
+import hoffman09 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-09.webp";
+import hoffman10 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-10.webp";
+import hoffman11 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-11.webp";
 
 //Kimbark imports
 import kimbark01 from "./Site_Projects/04-Kimbark/Kimbark-01.webp";
@@ -135,27 +135,22 @@ import leavittI16 from "./Site_Projects/10-Leavitt-I/Leavitt3-16.webp";
 import leavittI17 from "./Site_Projects/10-Leavitt-I/Leavitt3-17.webp";
 
 // Leavitt-House II imports
-import leavittII01 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-01.jpg";
-import leavittII02 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-02.jpg";
-import leavittII03 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-03.jpg";
-import leavittII04 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-04.jpg";
-import leavittII05 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-05.jpg";
-import leavittII06 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-06.jpg";
-import leavittII07 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-07.jpg";
-import leavittII08 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-08.jpg";
-import leavittII09 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-09.jpg";
-import leavittII10 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-10.jpg";
-import leavittII11 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-11.jpg";
-import leavittII12 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-12.jpg";
-import leavittII13 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-13.jpg";
-import leavittII14 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-14.jpg";
-import leavittII15 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-15.jpg";
-import leavittII16 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-16.jpg";
-// import leavittII17 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-17.jpg";
-// import leavittII18 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-18.jpg";
-// import leavittII19 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-19.jpg";
-// import leavittII20 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-20.jpg";
-// import leavittII21 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-21.jpg";
+import leavittII01 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-01.webp";
+import leavittII02 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-02.webp";
+import leavittII03 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-03.webp";
+import leavittII04 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-04.webp";
+import leavittII05 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-05.webp";
+import leavittII06 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-06.webp";
+import leavittII07 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-07.webp";
+import leavittII08 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-08.webp";
+import leavittII09 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-09.webp";
+import leavittII10 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-10.webp";
+import leavittII11 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-11.webp";
+import leavittII12 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-12.webp";
+import leavittII13 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-13.webp";
+import leavittII14 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-14.webp";
+import leavittII15 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-15.webp";
+import leavittII16 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-16.webp";
 
 //Maria's imports
 import marias01 from "./Site_Projects/11-Maria_s/Maria_s-01.webp";
