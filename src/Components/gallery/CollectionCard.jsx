@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 export default function CollectionCard({ collection }) {
   return (
     <Link
-      to={`/norsman-site/collections/${collection.slug
+      to={`/collections/${collection.slug
         .replaceAll(" ", "-")
         .toLowerCase()}`}
       style={{ textDecoration: "none" }}

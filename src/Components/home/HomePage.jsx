@@ -116,7 +116,7 @@ export default function HomePage() {
         className="cta-info"
       >
         <div className="cta-content landing-mask" key={"cta"}>
-            <Link to="/norsman-site/about">
+            <Link to="/about">
           <h1 className="cta">
               We are an architectural studio that has chosen to build. Uniquely
               positioned as an Architect-Led Design Build Practice in Chicago,

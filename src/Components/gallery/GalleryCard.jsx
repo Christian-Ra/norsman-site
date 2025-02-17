@@ -5,7 +5,7 @@ export default function GalleryCard({ project }) {
   //   console.log("featured photos: ", project.photos);
   return (
     <Link
-      to={`/norsman-site/projects/${project.slug
+      to={`/projects/${project.slug
         .replaceAll(" ", "-")
         .toLowerCase()}`}
       style={{ textDecoration: "none" }}
