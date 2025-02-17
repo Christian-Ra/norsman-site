@@ -35,7 +35,7 @@ export default function ProjectPage() {
           {prevProject && (
             <p
               onClick={() =>
-                navigate(`/normsan-site/projects/${prevProject.slug}`)
+                navigate(`/projects/${prevProject.slug}`)
               }
             >
               Previous Project
@@ -53,7 +53,7 @@ export default function ProjectPage() {
           {nextProject && (
             <p
               onClick={() =>
-                navigate(`/norsman-site/projects/${nextProject.slug}`)
+                navigate(`/projects/${nextProject.slug}`)
               }
             >
               Next Project
