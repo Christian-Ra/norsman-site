@@ -1,6 +1,6 @@
 //BosWorth imports
-import wrigley01 from "./Site_Projects/03-Bosworth/Wrigleyville-01.webp";
-import wrigley02 from "./Site_Projects/03-Bosworth/Wrigleyville-02.webp";
+import wrigley01 from "../src/Site_Projects/03-Bosworth/Wrigleyville-01.webp";
+import wrigley02 from "../src/Site_Projects/03-Bosworth/Wrigleyville-02.webp";
 import wrigley03 from "./Site_Projects/03-Bosworth/Wrigleyville-03.webp";
 import wrigley04 from "./Site_Projects/03-Bosworth/Wrigleyville-04.webp";
 import wrigley05 from "./Site_Projects/03-Bosworth/Wrigleyville-05.webp";
