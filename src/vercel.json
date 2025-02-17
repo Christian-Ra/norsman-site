@@ -1,7 +1,7 @@
 {
     "rewrites": [
-      { "source": "/projects/:projectSlug*", "destination": "/index.html" },
-      { "source": "/collections/:collectionSlug*", "destination": "/index.html" }
+      { "source": "/projects/:projectSlug*", "destination": "/" },
+      { "source": "/collections/:collectionSlug*", "destination": "/" }
     ]
   }
   
