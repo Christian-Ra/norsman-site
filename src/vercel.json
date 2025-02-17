@@ -1,7 +1,6 @@
 {
     "rewrites": [
-      { "source": "/projects/:projectSlug*", "destination": "/" },
-      { "source": "/collections/:collectionSlug*", "destination": "/" }
+        {"source": "/(.*)", "destination": "/"}
     ]
   }
   
