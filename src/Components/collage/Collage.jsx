@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 
 const Collage = () => {
   const { collectionSlug } = useParams();
-  const match = useMatch("/norsman-site/collections/:collectionSlug");
+  const match = useMatch("/collections/:collectionSlug");
   const collection = match
     ? collections.find(
         (collection) =>
