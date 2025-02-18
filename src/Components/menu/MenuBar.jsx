@@ -115,6 +115,7 @@ export default function MenuBar() {
         to="/"
         state={{ targetId: "landing" }}
         style={{ display: activeMenu && isMobile ? "none" : "block" }}
+        onClick={() => menuCoverVisible ? toggleMenu() : null }
         className="small-logo"
       >
         <img src={logoIcon} alt="norsman" />
