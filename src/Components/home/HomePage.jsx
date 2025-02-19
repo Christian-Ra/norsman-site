@@ -3,7 +3,7 @@ import GalleryCard from "../gallery/GalleryCard";
 import { Projects, Collections } from "../../ProjectList";
 import { motion } from "framer-motion";
 import { useLocation, Link } from "react-router-dom";
-import { useEffect } from "react";
+import { useEffect, useMemo } from "react";
 
 import quoteImage from "../../Graphics/landing-staircase.webp";
 import logo from "../../Graphics/Norsman Logo 2024 Transparent.png";
@@ -49,16 +49,17 @@ import LandingSwiper from "../swiper/LandingSwiper";
 export default function HomePage() {
   const { state } = useLocation();
   const { targetId } = state || {};
-  const landingGallery = [
-    landingImage1,
-    landingImage2,
-    landingImage3,
-    landingImage4,
-    landingImage5,
-    landingImage6,
-    landingImage7,
-    landingImage8,
-    landingImage9,
+  const landingGallery = useMemo(() => 
+    [
+      landingImage1,
+      landingImage2,
+      landingImage3,
+      landingImage4,
+      landingImage5,
+      landingImage6,
+      landingImage7,
+      landingImage8,
+      landingImage9,
     landingImage10,
     landingImage11,
     landingImage12,
@@ -66,7 +67,8 @@ export default function HomePage() {
     landingImage14,
     landingImage15,
     landingImage16,
-  ];
+  ], []
+  )
 
   useEffect(() => {
     const el = document.getElementById(targetId);
@@ -117,7 +119,7 @@ export default function HomePage() {
       >
         <div className="cta-content landing-mask" key={"cta"}>
             <Link to="/about">
-          <h1 className="cta">
+          <h1 className="cta" key={"cta1"}>
               We are an architectural studio that has chosen to build. Uniquely
               positioned as an Architect-Led Design Build Practice in Chicago,
               our portfolio of diverse architectural work is complemented by a

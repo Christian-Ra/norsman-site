@@ -20,7 +20,7 @@ export default function MenuBar() {
     setActiveMenu(!activeMenu);
   };
 
-  const isMobile = useMediaQuery("(max-width:1024px)");
+  const isMobile = useMediaQuery("(max-width:1080px)");
 
   const onAbout = useMatch("/about");
 
