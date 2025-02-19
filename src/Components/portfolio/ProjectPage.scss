@@ -10,13 +10,13 @@
     justify-content: space-around;
     align-content: center;
     .scroll-link {
-        margin-top: 0px;
+        margin-top: 0rem;
         cursor: pointer;
         // width: 100vw;
         // background-color: $secondaryColor;
         color: $white;
         font-size: 18px;
-        transform: translateX(-17px);
+        transform: translateX(-1.0625rem);
         // align-self: center;
         text-decoration: none;
         &:hover {
@@ -25,11 +25,11 @@
     }
 
     p {
-        margin-top: 0px;
-        padding-bottom: 0px;
+        margin-top: 0rem;
+        padding-bottom: 0rem;
         cursor: pointer;
         color: $primaryColor;
-        font-size: 16px;
+        font-size: 1rem;
         text-decoration: none;
         &:hover {
             color: $white;

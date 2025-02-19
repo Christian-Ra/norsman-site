@@ -17,6 +17,7 @@ export default function GalleryCard({ project }) {
         id={project.title}
       >
         <h2 className="card-text">{project.title}</h2>
+        {/* <img className="card-image" src={project.coverPhoto} alt={`${project.title} cover`}></img> */}
         {/* <p className='card-text'>{projectSubheading}</p> */}
       </div>
     </Link>

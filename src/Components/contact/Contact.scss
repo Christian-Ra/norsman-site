@@ -46,7 +46,7 @@
             width: fit-content;
             text-decoration: none;
             color: white;
-            padding: 0.3125rem 0px;
+            padding: 0.3125rem 0rem;
             font-size: 1.25rem;
 
             @include breakpoint-down("small") {
