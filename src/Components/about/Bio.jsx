@@ -17,12 +17,12 @@ export default function Bio({ content, isBioOpen, onClick }) {
           alt={`${content.name}`}
         ></img>
         <div className="team-heading">
-          <div style={{ paddingBottom: "20px" }}>
+          <div style={{ paddingBottom: "1.25rem" }}>
             <p className="name">{content.name}</p>
             <p className="name">{content.title}</p>
           </div>
           {content.education.map((e, index) => (
-            <p style={{ paddingBottom: "20px" }} key={index}>
+            <p style={{ paddingBottom: "1.25rem" }} key={index}>
               {e}
             </p>
           ))}
