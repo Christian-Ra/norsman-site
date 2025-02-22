@@ -46,19 +46,19 @@ import division09 from "./Site_Projects/02-Division/Division-09-desktop.webp";
 // import division10 from "./Site_Projects/02-Division/Division-10.jpg";
 
 //fairbanks imports
-import fairbanks01 from "./Site_Projects/06-Fairbanks/Fairbanks-01.webp";
-import fairbanks02 from "./Site_Projects/06-Fairbanks/Fairbanks-02.webp";
-import fairbanks03 from "./Site_Projects/06-Fairbanks/Fairbanks-03.webp";
-import fairbanks04 from "./Site_Projects/06-Fairbanks/Fairbanks-04.webp";
-import fairbanks05 from "./Site_Projects/06-Fairbanks/Fairbanks-05.webp";
-import fairbanks06 from "./Site_Projects/06-Fairbanks/Fairbanks-06.webp";
-import fairbanks07 from "./Site_Projects/06-Fairbanks/Fairbanks-07.webp";
-import fairbanks08 from "./Site_Projects/06-Fairbanks/Fairbanks-08.webp";
-import fairbanks09 from "./Site_Projects/06-Fairbanks/Fairbanks-09.webp";
-import fairbanks10 from "./Site_Projects/06-Fairbanks/Fairbanks-10.webp";
-import fairbanks11 from "./Site_Projects/06-Fairbanks/Fairbanks-11.webp";
-import fairbanks12 from "./Site_Projects/06-Fairbanks/Fairbanks-12.webp";
-import fairbanks13 from "./Site_Projects/06-Fairbanks/Fairbanks-13.webp";
+import fairbanks01 from "./Site_Projects/06-Fairbanks/Fairbanks-01-desktop.webp";
+import fairbanks02 from "./Site_Projects/06-Fairbanks/Fairbanks-02-desktop.webp";
+import fairbanks03 from "./Site_Projects/06-Fairbanks/Fairbanks-03-desktop.webp";
+import fairbanks04 from "./Site_Projects/06-Fairbanks/Fairbanks-04-desktop.webp";
+import fairbanks05 from "./Site_Projects/06-Fairbanks/Fairbanks-05-desktop.webp";
+import fairbanks06 from "./Site_Projects/06-Fairbanks/Fairbanks-06-desktop.webp";
+import fairbanks07 from "./Site_Projects/06-Fairbanks/Fairbanks-07-desktop.webp";
+import fairbanks08 from "./Site_Projects/06-Fairbanks/Fairbanks-08-desktop.webp";
+import fairbanks09 from "./Site_Projects/06-Fairbanks/Fairbanks-09-desktop.webp";
+import fairbanks10 from "./Site_Projects/06-Fairbanks/Fairbanks-10-desktop.webp";
+import fairbanks11 from "./Site_Projects/06-Fairbanks/Fairbanks-11-desktop.webp";
+import fairbanks12 from "./Site_Projects/06-Fairbanks/Fairbanks-12-desktop.webp";
+import fairbanks13 from "./Site_Projects/06-Fairbanks/Fairbanks-13-desktop.webp";
 // import fairbanks14 from "./Site_Projects/06-Fairbanks/Fairbanks-14.webp";
 
 //Hermitage imports
@@ -186,14 +186,14 @@ import marz17 from "./Site_Projects/12-Marz-Brewing/Marz-17.webp";
 import marz18 from "./Site_Projects/12-Marz-Brewing/Marz-18.webp";
 
 //milwaukee imports
-import milwaukee01 from "./Site_Projects/07-Milwaukee/Milwaukee-01.webp";
+import milwaukee01 from "./Site_Projects/07-Milwaukee/Milwaukee-01-desktop.webp";
 import milwaukee02 from "./Site_Projects/07-Milwaukee/Milwaukee-02.mp4";
-import milwaukee03 from "./Site_Projects/07-Milwaukee/Milwaukee-03.webp";
-import milwaukee04 from "./Site_Projects/07-Milwaukee/Milwaukee-04.webp";
-import milwaukee05 from "./Site_Projects/07-Milwaukee/Milwaukee-05.webp";
-import milwaukee06 from "./Site_Projects/07-Milwaukee/Milwaukee-06.webp";
-import milwaukee07 from "./Site_Projects/07-Milwaukee/Milwaukee-07.webp";
-import milwaukee08 from "./Site_Projects/07-Milwaukee/Milwaukee-08.webp";
+import milwaukee03 from "./Site_Projects/07-Milwaukee/Milwaukee-03-desktop.webp";
+import milwaukee04 from "./Site_Projects/07-Milwaukee/Milwaukee-04-desktop.webp";
+import milwaukee05 from "./Site_Projects/07-Milwaukee/Milwaukee-05-desktop.webp";
+import milwaukee06 from "./Site_Projects/07-Milwaukee/Milwaukee-06-desktop.webp";
+import milwaukee07 from "./Site_Projects/07-Milwaukee/Milwaukee-07-desktop.webp";
+import milwaukee08 from "./Site_Projects/07-Milwaukee/Milwaukee-08-desktop.webp";
 
 //new city imports
 import newCity01 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-01-desktop.webp";
@@ -281,17 +281,17 @@ import wickerPark11 from "./Site_Projects/13-Wicker-Park/Wicker-11.webp";
 import wickerPark12 from "./Site_Projects/13-Wicker-Park/Wicker-12.webp";
 
 //wolcott imports
-import wolcott01 from "./Site_Projects/08-Wolcott/Wolcott-01.webp";
-import wolcott02 from "./Site_Projects/08-Wolcott/Wolcott-02.webp";
-import wolcott03 from "./Site_Projects/08-Wolcott/Wolcott-03.webp";
-import wolcott04 from "./Site_Projects/08-Wolcott/Wolcott-04.webp";
-import wolcott05 from "./Site_Projects/08-Wolcott/Wolcott-05.webp";
-import wolcott06 from "./Site_Projects/08-Wolcott/Wolcott-06.webp";
-import wolcott07 from "./Site_Projects/08-Wolcott/Wolcott-07.webp";
-import wolcott08 from "./Site_Projects/08-Wolcott/Wolcott-08.webp";
-import wolcott09 from "./Site_Projects/08-Wolcott/Wolcott-09.webp";
-import wolcott10 from "./Site_Projects/08-Wolcott/Wolcott-10.webp";
-import wolcott11 from "./Site_Projects/08-Wolcott/Wolcott-11.webp";
+import wolcott01 from "./Site_Projects/08-Wolcott/Wolcott-01-desktop.webp";
+import wolcott02 from "./Site_Projects/08-Wolcott/Wolcott-02-desktop.webp";
+import wolcott03 from "./Site_Projects/08-Wolcott/Wolcott-03-desktop.webp";
+import wolcott04 from "./Site_Projects/08-Wolcott/Wolcott-04-desktop.webp";
+import wolcott05 from "./Site_Projects/08-Wolcott/Wolcott-05-desktop.webp";
+import wolcott06 from "./Site_Projects/08-Wolcott/Wolcott-06-desktop.webp";
+import wolcott07 from "./Site_Projects/08-Wolcott/Wolcott-07-desktop.webp";
+import wolcott08 from "./Site_Projects/08-Wolcott/Wolcott-08-desktop.webp";
+import wolcott09 from "./Site_Projects/08-Wolcott/Wolcott-09-desktop.webp";
+import wolcott10 from "./Site_Projects/08-Wolcott/Wolcott-10-desktop.webp";
+import wolcott11 from "./Site_Projects/08-Wolcott/Wolcott-11-desktop.webp";
 
 // woodLawn I imports
 import woodLawn01 from "./Site_Projects/01-Woodlawn/Woodlawn-01-desktop.webp";
