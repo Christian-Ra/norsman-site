@@ -16,7 +16,7 @@ export default function ProjectDescription({
             <p key={index} className="body-text">
               {d}
               <br></br>
-              <br></br>
+              {/* <br></br> */}
             </p>
           ))}
           {credits &&

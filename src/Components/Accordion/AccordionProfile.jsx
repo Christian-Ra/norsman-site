@@ -29,7 +29,7 @@ const AccordionProfile = ({ heading, content, isOpen, onClick }) => {
           isOpen
             ? matches
               ? { height: "2800px" }
-              : { height: "3350px" }
+              : { height: "4350px" }
             : { height: "0px" }
         }
       >
