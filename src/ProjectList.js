@@ -34,15 +34,15 @@ import caffe11 from "./Site_Projects/18-Caffe-Streets/Caffe-S-11.webp";
 import caffe12 from "./Site_Projects/18-Caffe-Streets/Caffe-S-12.webp";
 
 //division imports
-import division01 from "./Site_Projects/02-Division/Division-01.webp";
-import division02 from "./Site_Projects/02-Division/Division-02.webp";
-import division03 from "./Site_Projects/02-Division/Division-03.webp";
-import division04 from "./Site_Projects/02-Division/Division-04.webp";
-import division05 from "./Site_Projects/02-Division/Division-05.webp";
-import division06 from "./Site_Projects/02-Division/Division-06.webp";
-import division07 from "./Site_Projects/02-Division/Division-07.webp";
-import division08 from "./Site_Projects/02-Division/Division-08.webp";
-import division09 from "./Site_Projects/02-Division/Division-09.webp";
+import division01 from "./Site_Projects/02-Division/Division-01-desktop.webp";
+import division02 from "./Site_Projects/02-Division/Division-02-desktop.webp";
+import division03 from "./Site_Projects/02-Division/Division-03-desktop.webp";
+import division04 from "./Site_Projects/02-Division/Division-04-desktop.webp";
+import division05 from "./Site_Projects/02-Division/Division-05-desktop.webp";
+import division06 from "./Site_Projects/02-Division/Division-06-desktop.webp";
+import division07 from "./Site_Projects/02-Division/Division-07-desktop.webp";
+import division08 from "./Site_Projects/02-Division/Division-08-desktop.webp";
+import division09 from "./Site_Projects/02-Division/Division-09-desktop.webp";
 // import division10 from "./Site_Projects/02-Division/Division-10.jpg";
 
 //fairbanks imports
@@ -294,22 +294,22 @@ import wolcott10 from "./Site_Projects/08-Wolcott/Wolcott-10.webp";
 import wolcott11 from "./Site_Projects/08-Wolcott/Wolcott-11.webp";
 
 // woodLawn I imports
-import woodLawn01 from "./Site_Projects/01-Woodlawn/Woodlawn-01.webp";
-import woodLawn02 from "./Site_Projects/01-Woodlawn/Woodlawn-02.webp";
-import woodLawn03 from "./Site_Projects/01-Woodlawn/Woodlawn-03.webp";
-import woodLawn04 from "./Site_Projects/01-Woodlawn/Woodlawn-05.webp";
-import woodLawn05 from "./Site_Projects/01-Woodlawn/Woodlawn-06.webp";
-import woodLawn06 from "./Site_Projects/01-Woodlawn/Woodlawn-07.webp";
-import woodLawn07 from "./Site_Projects/01-Woodlawn/Woodlawn-08.webp";
-import woodLawn08 from "./Site_Projects/01-Woodlawn/Woodlawn-09.webp";
-import woodLawn09 from "./Site_Projects/01-Woodlawn/Woodlawn-10.webp";
-import woodLawn10 from "./Site_Projects/01-Woodlawn/Woodlawn-11.webp";
-import woodLawn11 from "./Site_Projects/01-Woodlawn/Woodlawn-12.webp";
-import woodLawn12 from "./Site_Projects/01-Woodlawn/Woodlawn-13.webp";
-import woodLawn13 from "./Site_Projects/01-Woodlawn/Woodlawn-14.webp";
-import woodLawn14 from "./Site_Projects/01-Woodlawn/Woodlawn-15.webp";
-import woodLawn15 from "./Site_Projects/01-Woodlawn/Woodlawn-16.webp";
-import woodLawn16 from "./Site_Projects/01-Woodlawn/Woodlawn-17.webp";
+import woodLawn01 from "./Site_Projects/01-Woodlawn/Woodlawn-01-desktop.webp";
+import woodLawn02 from "./Site_Projects/01-Woodlawn/Woodlawn-02-desktop.webp";
+import woodLawn03 from "./Site_Projects/01-Woodlawn/Woodlawn-03-desktop.webp";
+import woodLawn04 from "./Site_Projects/01-Woodlawn/Woodlawn-05-desktop.webp";
+import woodLawn05 from "./Site_Projects/01-Woodlawn/Woodlawn-06-desktop.webp";
+import woodLawn06 from "./Site_Projects/01-Woodlawn/Woodlawn-07-desktop.webp";
+import woodLawn07 from "./Site_Projects/01-Woodlawn/Woodlawn-08-desktop.webp";
+import woodLawn08 from "./Site_Projects/01-Woodlawn/Woodlawn-09-desktop.webp";
+import woodLawn09 from "./Site_Projects/01-Woodlawn/Woodlawn-10-desktop.webp";
+import woodLawn10 from "./Site_Projects/01-Woodlawn/Woodlawn-11-desktop.webp";
+import woodLawn11 from "./Site_Projects/01-Woodlawn/Woodlawn-12-desktop.webp";
+import woodLawn12 from "./Site_Projects/01-Woodlawn/Woodlawn-13-desktop.webp";
+import woodLawn13 from "./Site_Projects/01-Woodlawn/Woodlawn-14-desktop.webp";
+import woodLawn14 from "./Site_Projects/01-Woodlawn/Woodlawn-15-desktop.webp";
+import woodLawn15 from "./Site_Projects/01-Woodlawn/Woodlawn-16-desktop.webp";
+import woodLawn16 from "./Site_Projects/01-Woodlawn/Woodlawn-17-desktop.webp";
 
 //on the boards imports
 import ontheBoards01 from "./Site_Projects/22-On-The-Boards/01-Illumina-01.webp";
