@@ -25,7 +25,7 @@ export default function ProjectPage() {
     return <ErrorPage />;
   }
   return (
-    <motion.div exit={{ opacity: 0 }}>
+    <motion.div className="project-page-container" exit={{ opacity: 0 }}>
       <section>
         <CenteredSwiper
           photos={currentProject.photos}

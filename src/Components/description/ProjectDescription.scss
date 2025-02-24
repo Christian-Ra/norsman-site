@@ -56,7 +56,7 @@
     .body-text {
         // font-family: Arial, Narrow;
         font-size: 1rem;
-        line-height: 1.25rem;
+        line-height: 1.45rem;
         // white-space: pre;
         text-align: left;
         @include breakpoint-up(medium) {
@@ -68,7 +68,7 @@
 
     .credit-text {
         font-size: 1rem;
-        line-height: 1.25rem;
+        line-height: 1.45rem;
         text-align: left;
         @include breakpoint-up(medium) {
             // font-size: 16px;

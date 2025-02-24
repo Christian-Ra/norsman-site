@@ -2,8 +2,14 @@
 @use "../../mixins.scss" as *;
 @use "../../variables" as *;
 
+.project-page-container {
+    height: 100vh;
+    background-color: $secondaryColor;
+}
+
 .scroll-container {
     width: 100vw;
+    // min-height: 100vh;
     background-color: $secondaryColor;
     display: flex;
     flex-direction: row;
