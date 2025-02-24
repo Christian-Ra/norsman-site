@@ -223,20 +223,20 @@ import nonnina12 from "./Site_Projects/17-Nonnina_s/Nonnina-12.webp";
 import nonnina13 from "./Site_Projects/17-Nonnina_s/Nonnina-13.webp";
 
 //Potomac imports
-import potomac01 from "./Site_Projects/09-Potomac/Potomac-01.webp";
-import potomac02 from "./Site_Projects/09-Potomac/Potomac-02.webp";
-import potomac03 from "./Site_Projects/09-Potomac/Potomac-03.webp";
-import potomac04 from "./Site_Projects/09-Potomac/Potomac-04.webp";
-import potomac05 from "./Site_Projects/09-Potomac/Potomac-05.webp";
-import potomac06 from "./Site_Projects/09-Potomac/Potomac-06.webp";
-import potomac07 from "./Site_Projects/09-Potomac/Potomac-07.webp";
-import potomac08 from "./Site_Projects/09-Potomac/Potomac-08.webp";
-import potomac09 from "./Site_Projects/09-Potomac/Potomac-09.webp";
-import potomac10 from "./Site_Projects/09-Potomac/Potomac-10.webp";
-import potomac11 from "./Site_Projects/09-Potomac/Potomac-11.webp";
-import potomac12 from "./Site_Projects/09-Potomac/Potomac-12.webp";
-import potomac13 from "./Site_Projects/09-Potomac/Potomac-13.webp";
-import potomac14 from "./Site_Projects/09-Potomac/Potomac-14.webp";
+import potomac01 from "./Site_Projects/09-Potomac/Potomac-01-desktop.webp";
+import potomac02 from "./Site_Projects/09-Potomac/Potomac-02-desktop.webp";
+import potomac03 from "./Site_Projects/09-Potomac/Potomac-03-desktop.webp";
+import potomac04 from "./Site_Projects/09-Potomac/Potomac-04-desktop.webp";
+import potomac05 from "./Site_Projects/09-Potomac/Potomac-05-desktop.webp";
+import potomac06 from "./Site_Projects/09-Potomac/Potomac-06-desktop.webp";
+import potomac07 from "./Site_Projects/09-Potomac/Potomac-07-desktop.webp";
+import potomac08 from "./Site_Projects/09-Potomac/Potomac-08-desktop.webp";
+import potomac09 from "./Site_Projects/09-Potomac/Potomac-09-desktop.webp";
+import potomac10 from "./Site_Projects/09-Potomac/Potomac-10-desktop.webp";
+import potomac11 from "./Site_Projects/09-Potomac/Potomac-11-desktop.webp";
+import potomac12 from "./Site_Projects/09-Potomac/Potomac-12-desktop.webp";
+import potomac13 from "./Site_Projects/09-Potomac/Potomac-13-desktop.webp";
+import potomac14 from "./Site_Projects/09-Potomac/Potomac-14-desktop.webp";
 
 //Ridge imports
 import ridge01 from "./Site_Projects/19-Ridge/Ridge-01.webp";
