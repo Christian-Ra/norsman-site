@@ -1,0 +1,36 @@
+@use "../../globals" as *;
+@use "../../variables" as *;
+@use "../../mixins" as *;
+
+.wrapper {
+    overflow: hidden;
+
+    .heading-container {
+        width: 100%;
+        text-align: left;
+        padding: 1.25rem 0px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        font-weight: 500;
+        font-size: 1.25rem;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        z-index: 10;
+    }
+
+    .arrow {
+        font-size: 3rem;
+        transition: 0.5s ease-in-out;
+        z-index: 10;
+        color: $white;
+        &.active {
+            rotate: 180deg;
+        }
+    }
+
+    .content-container {
+        transition: height 0.7s ease-in-out;
+    }
+}

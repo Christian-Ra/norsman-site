@@ -16,13 +16,13 @@ const aboutData = [
       "By thoughtfully and sensitively fostering relationships between architecture, its occupants and the urban and natural environments, Norsman Architects creates structures and environments that are as unique as their circumstances.",
     ],
   },
-  {
-    heading: "Design Process",
-    content: [
-      "Norsman Architects seek innovative solutions for built environments. As a full service architectural practice, our projects present opportunities to explore new paradigms in housing and urban development; including mixed-use developments, environmentally responsive adaptive reuse, commercial and residential work.",
-      "With an emphasis on conceptual exploration, Norsman Architects believe that a building’s use, its context and original characteristics are critical tools that guide the design process. We work to enrich and enliven this process through a thoughtful and collaborative approach with all parties to the construction process, continually seeking the highest standards of design excellence.",
-    ],
-  },
+  // {
+  //   heading: "Design Process",
+  //   content: [
+  //     "Norsman Architects seek innovative solutions for built environments. As a full service architectural practice, our projects present opportunities to explore new paradigms in housing and urban development; including mixed-use developments, environmentally responsive adaptive reuse, commercial and residential work.",
+  //     "With an emphasis on conceptual exploration, Norsman Architects believe that a building’s use, its context and original characteristics are critical tools that guide the design process. We work to enrich and enliven this process through a thoughtful and collaborative approach with all parties to the construction process, continually seeking the highest standards of design excellence.",
+  //   ],
+  // },
   // {
   //   heading: "Schematic Design",
   //   content: [
@@ -60,6 +60,52 @@ const aboutData = [
   //   ],
   // },
 ];
+
+export const designData = {
+  heading: "Design Process",
+  content: [
+    "Norsman Architects seek innovative solutions for built environments. As a full service architectural practice, our projects present opportunities to explore new paradigms in housing and urban development; including mixed-use developments, environmentally responsive adaptive reuse, commercial and residential work.",
+    "With an emphasis on conceptual exploration, Norsman Architects believe that a building’s use, its context and original characteristics are critical tools that guide the design process. We work to enrich and enliven this process through a thoughtful and collaborative approach with all parties to the construction process, continually seeking the highest standards of design excellence.",
+  ],
+  subPages: [
+    {
+      subHeading: "Schematic Design",
+      subContent: [
+        "During the first phase—schematic design—an architect consults with the owner to determine project goals and requirements. Often this determines the program for the project. The program, or architectural program, is the term used to define the required functions of the project. It should include estimated square footage of each usage type and any other elements that achieve the project goals.",
+        "During schematic design, we will develop study drawings, documents, or other media that illustrate the concepts of the design and include spatial relationships, scale, and form for the owner to review. Schematic design also is the research phase of the project, when zoning requirements and contextual influences are discovered and addressed.",
+        "This phase produces a final schematic design, to which the owner agrees after consultation and discussions with the architect. Costs are estimated based on overall project volume. The design then moves forward to the design development phase.",
+      ],
+    },
+    {
+      subHeading: "Design Development",
+      subContent: [
+        "Design development services use the initial design documents from the schematic phase and take them one step further. This phase lays out mechanical, electrical, plumbing, structural, and architectural details.  This is the phase that begins to make the project real.",
+        "This phase results in drawings that often specify design elements such as material types and location of windows and doors. The level of detail provided in the phase is determined by the owner’s request and the project requirements. The phase often ends with a formal presentation to, and approval by, the owner.",
+      ],
+    },
+    {
+      subHeading: "Construction Document ",
+      subContent: [
+        "The next phase is construction documents. Once the owner and architect are satisfied with the documents produced during DD, the architect moves forward and produces drawings with greater detail. These drawings typically include specifications for construction details and materials.",
+        "Once CDs are satisfactorily produced, the architect sends them to contractors for pricing or bidding, if part of the contract. The level of detail in CDs may vary depending on the owner’s preference. If the CD set is not 100 percent complete, this is noted on the CD set when it is sent out for bid. This phase results in the contractors’ final estimates of project costs.",
+      ],
+    },
+    {
+      subHeading: "Bid and Negotiation",
+      subContent: [
+        "The first step of this phase is preparation of the bid documents to go out to potential contractors for pricing. The bid document set often includes an advertisement for bids, instructions to bidders, the bid form, bid documents, the owner-contractor agreement, labor and material payment bond, and any other sections necessary for successful price bids. For some projects that have unique aspects or complex requirements, the architect and owner elect to have a pre-bid meeting for potential contractors.",
+        "After bid sets are distributed, both the owner and architect wait for bids to come in. The owner, with the help of the architect, evaluates the bids and selects a winning bid. Any negotiation with the bidder for price or project scope, if necessary, should be done before the contract for construction is signed. The final step is to award the contract to the selected bidder with a formal letter of intent to allow construction to begin.",
+      ],
+    },
+    {
+      subHeading: "Construction Services",
+      subContent: [
+        "Contract administration services are rendered at the owner’s discretion and are outlined in the owner-architect construction agreement. Different owner-architect- contractor agreements require different levels of services on the architect’s part. CA services begin with the initial contract for construction and terminate when the final certificate of payment is issued.",
+        "The architect’s core responsibility during this phase is to help the contractor to build the project as specified in the CDs as approved by the owner. Questions may arise on site that require the architect to develop architectural sketches: drawings issued after construction documents have been released that offer additional clarification to finish the project properly. Different situations may require the architect to issue a Change in Services to complete the project.",
+      ],
+    },
+  ],
+};
 
 export const teamInfo = [
   {

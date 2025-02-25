@@ -1,8 +1,10 @@
 import "./Accordion.scss";
 import { useState } from "react";
 import aboutData from "../about/AboutText";
+import { designData } from "../about/AboutText";
 import { teamInfo } from "../about/AboutText";
 import AccordionItem from "./AccordionItem";
+import AccordionItemDesign from "./AccordionItemDesign";
 import AccordionProfile from "./AccordionProfile";
 
 const Accordion = () => {
@@ -23,6 +25,13 @@ const Accordion = () => {
           onClick={() => handleItemClick(index)}
         />
       ))}
+      <AccordionItemDesign
+      heading={designData.heading}
+      content={designData.content}
+      subPages={designData.subPages}
+      isOpen={activeIndex === 2}
+      onClick={() => handleItemClick(2)}
+       />
       <AccordionProfile
         heading={"Project Team"}
         content={teamInfo}
