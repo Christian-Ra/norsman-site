@@ -26,13 +26,15 @@ const AccordionItemDesign = ({ heading, content, subPages, isOpen, onClick }) =>
       >
         <p className="content">
           {content}
+          <br></br>
+          <br></br>
         </p>
         {subPages.map((subP, index) => (
           <div>
           <h1 key={index} className="heading-content">
             {subP.subHeading}
             <br></br>
-            <br></br>
+            {/* <br></br> */}
           </h1>
           {subP.subContent.map((c, index) => (
             <p key={index} className="content">
