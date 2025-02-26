@@ -7,6 +7,7 @@ import { useEffect, useMemo } from "react";
 
 import quoteImage from "../../Graphics/landing-staircase.webp";
 import logo from "../../Graphics/Norsman Logo 2024 Transparent.png";
+import mobileLogo from "../../Graphics/Norsman-Logo-Mobile.png"
 
 import landingImage1 from "../../Landing_photos/Landing-01-desktop.webp"; //TODO: Lower the focus point, logo sits above window
 import landingImage2 from "../../Landing_photos/Landing-02-desktop.webp";
@@ -132,7 +133,10 @@ export default function HomePage() {
           <div className="landing-mask"></div>
           <img
             className="landing-logo"
-            src={logo}
+            // src={logo}
+            srcSet={`
+              ${logo} 1920w,
+            ${mobileLogo} 800w,`}
             alt="norsman Architect Led Design Build"
           ></img>
           <LandingSwiper
