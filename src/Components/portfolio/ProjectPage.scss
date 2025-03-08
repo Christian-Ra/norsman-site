@@ -34,11 +34,11 @@
         margin-top: 0rem;
         padding-bottom: 0rem;
         cursor: pointer;
-        color: $primaryColor;
+        color: $white;
         font-size: 1rem;
         text-decoration: none;
         &:hover {
-            color: $white;
+            color: $primaryColor;
         }
     }
 }

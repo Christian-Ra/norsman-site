@@ -116,23 +116,23 @@ import lakem09 from "./Site_Projects/14-Lake-Meadows/Lake-09.webp";
 import lakem10 from "./Site_Projects/14-Lake-Meadows/Lake-10.webp";
 
 //Leavitt-House I imports
-import leavittI01 from "./Site_Projects/10-Leavitt-I/Leavitt3-01.webp";
-import leavittI02 from "./Site_Projects/10-Leavitt-I/Leavitt3-02.webp";
-import leavittI03 from "./Site_Projects/10-Leavitt-I/Leavitt3-03.webp";
-import leavittI04 from "./Site_Projects/10-Leavitt-I/Leavitt3-04.webp";
-import leavittI05 from "./Site_Projects/10-Leavitt-I/Leavitt3-05.webp";
-import leavittI06 from "./Site_Projects/10-Leavitt-I/Leavitt3-06.webp";
-import leavittI07 from "./Site_Projects/10-Leavitt-I/Leavitt3-07.webp";
-import leavittI08 from "./Site_Projects/10-Leavitt-I/Leavitt3-08.webp";
-import leavittI09 from "./Site_Projects/10-Leavitt-I/Leavitt3-09.webp";
-import leavittI10 from "./Site_Projects/10-Leavitt-I/Leavitt3-10.webp";
+import leavittI01 from "./Site_Projects/10-Leavitt-I/Leavitt3-01-desktop.webp";
+import leavittI02 from "./Site_Projects/10-Leavitt-I/Leavitt3-02-desktop.webp";
+import leavittI03 from "./Site_Projects/10-Leavitt-I/Leavitt3-03-desktop.webp";
+import leavittI04 from "./Site_Projects/10-Leavitt-I/Leavitt3-04-desktop.webp";
+import leavittI05 from "./Site_Projects/10-Leavitt-I/Leavitt3-05-desktop.webp";
+import leavittI06 from "./Site_Projects/10-Leavitt-I/Leavitt3-06-desktop.webp";
+import leavittI07 from "./Site_Projects/10-Leavitt-I/Leavitt3-07-desktop.webp";
+import leavittI08 from "./Site_Projects/10-Leavitt-I/Leavitt3-08-desktop.webp";
+import leavittI09 from "./Site_Projects/10-Leavitt-I/Leavitt3-09-desktop.webp";
+import leavittI10 from "./Site_Projects/10-Leavitt-I/Leavitt3-10-desktop.webp";
 import leavittI11 from "./Site_Projects/10-Leavitt-I/Leavitt3-11.MP4";
-import leavittI12 from "./Site_Projects/10-Leavitt-I/Leavitt3-12.webp";
-import leavittI13 from "./Site_Projects/10-Leavitt-I/Leavitt3-13.webp";
-import leavittI14 from "./Site_Projects/10-Leavitt-I/Leavitt3-14.webp";
-import leavittI15 from "./Site_Projects/10-Leavitt-I/Leavitt3-15.webp";
-import leavittI16 from "./Site_Projects/10-Leavitt-I/Leavitt3-16.webp";
-import leavittI17 from "./Site_Projects/10-Leavitt-I/Leavitt3-17.webp";
+import leavittI12 from "./Site_Projects/10-Leavitt-I/Leavitt3-12-desktop.webp";
+import leavittI13 from "./Site_Projects/10-Leavitt-I/Leavitt3-13-desktop.webp";
+import leavittI14 from "./Site_Projects/10-Leavitt-I/Leavitt3-14-desktop.webp";
+import leavittI15 from "./Site_Projects/10-Leavitt-I/Leavitt3-15-desktop.webp";
+import leavittI16 from "./Site_Projects/10-Leavitt-I/Leavitt3-16-desktop.webp";
+import leavittI17 from "./Site_Projects/10-Leavitt-I/Leavitt3-17-desktop.webp";
 
 // Leavitt-House II imports
 import leavittII01 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-01.webp";
@@ -153,37 +153,37 @@ import leavittII15 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-15.
 import leavittII16 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-16.webp";
 
 //Maria's imports
-import marias01 from "./Site_Projects/11-Maria_s/Maria_s-01.webp";
-import marias02 from "./Site_Projects/11-Maria_s/Maria_s-02.webp";
-import marias03 from "./Site_Projects/11-Maria_s/Maria_s-03.webp";
-import marias04 from "./Site_Projects/11-Maria_s/Maria_s-04.webp";
-import marias05 from "./Site_Projects/11-Maria_s/Maria_s-05.webp";
-import marias06 from "./Site_Projects/11-Maria_s/Maria_s-06.webp";
-import marias07 from "./Site_Projects/11-Maria_s/Maria_s-07.webp";
-import marias08 from "./Site_Projects/11-Maria_s/Maria_s-08.webp";
-import marias09 from "./Site_Projects/11-Maria_s/Maria_s-09.webp";
-import marias10 from "./Site_Projects/11-Maria_s/Maria_s-10.webp";
-import marias11 from "./Site_Projects/11-Maria_s/Maria_s-11.webp";
+import marias01 from "./Site_Projects/11-Maria_s/Maria_s-01-desktop.webp";
+import marias02 from "./Site_Projects/11-Maria_s/Maria_s-02-desktop.webp";
+import marias03 from "./Site_Projects/11-Maria_s/Maria_s-03-desktop.webp";
+import marias04 from "./Site_Projects/11-Maria_s/Maria_s-04-desktop.webp";
+import marias05 from "./Site_Projects/11-Maria_s/Maria_s-05-desktop.webp";
+import marias06 from "./Site_Projects/11-Maria_s/Maria_s-06-desktop.webp";
+import marias07 from "./Site_Projects/11-Maria_s/Maria_s-07-desktop.webp";
+import marias08 from "./Site_Projects/11-Maria_s/Maria_s-08-desktop.webp";
+import marias09 from "./Site_Projects/11-Maria_s/Maria_s-09-desktop.webp";
+import marias10 from "./Site_Projects/11-Maria_s/Maria_s-10-desktop.webp";
+import marias11 from "./Site_Projects/11-Maria_s/Maria_s-11-desktop.webp";
 
 //Marz imports
-import marz01 from "./Site_Projects/12-Marz-Brewing/Marz-01.webp";
-import marz02 from "./Site_Projects/12-Marz-Brewing/Marz-02.webp";
-import marz03 from "./Site_Projects/12-Marz-Brewing/Marz-03.webp";
-import marz04 from "./Site_Projects/12-Marz-Brewing/Marz-04.webp";
-import marz05 from "./Site_Projects/12-Marz-Brewing/Marz-05.webp";
-import marz06 from "./Site_Projects/12-Marz-Brewing/Marz-06.webp";
-import marz07 from "./Site_Projects/12-Marz-Brewing/Marz-07.webp";
-import marz08 from "./Site_Projects/12-Marz-Brewing/Marz-08.webp";
-import marz09 from "./Site_Projects/12-Marz-Brewing/Marz-09.webp";
-import marz10 from "./Site_Projects/12-Marz-Brewing/Marz-10.webp";
-import marz11 from "./Site_Projects/12-Marz-Brewing/Marz-11.webp";
-import marz12 from "./Site_Projects/12-Marz-Brewing/Marz-12.webp";
-import marz13 from "./Site_Projects/12-Marz-Brewing/Marz-13.webp";
-import marz14 from "./Site_Projects/12-Marz-Brewing/Marz-14.webp";
-import marz15 from "./Site_Projects/12-Marz-Brewing/Marz-15.webp";
-import marz16 from "./Site_Projects/12-Marz-Brewing/Marz-16.webp";
-import marz17 from "./Site_Projects/12-Marz-Brewing/Marz-17.webp";
-import marz18 from "./Site_Projects/12-Marz-Brewing/Marz-18.webp";
+import marz01 from "./Site_Projects/12-Marz-Brewing/Marz-01-desktop.webp";
+import marz02 from "./Site_Projects/12-Marz-Brewing/Marz-02-desktop.webp";
+import marz03 from "./Site_Projects/12-Marz-Brewing/Marz-03-desktop.webp";
+import marz04 from "./Site_Projects/12-Marz-Brewing/Marz-04-desktop.webp";
+import marz05 from "./Site_Projects/12-Marz-Brewing/Marz-05-desktop.webp";
+import marz06 from "./Site_Projects/12-Marz-Brewing/Marz-06-desktop.webp";
+import marz07 from "./Site_Projects/12-Marz-Brewing/Marz-07-desktop.webp";
+import marz08 from "./Site_Projects/12-Marz-Brewing/Marz-08-desktop.webp";
+import marz09 from "./Site_Projects/12-Marz-Brewing/Marz-09-desktop.webp";
+import marz10 from "./Site_Projects/12-Marz-Brewing/Marz-10-desktop.webp";
+import marz11 from "./Site_Projects/12-Marz-Brewing/Marz-11-desktop.webp";
+import marz12 from "./Site_Projects/12-Marz-Brewing/Marz-12-desktop.webp";
+import marz13 from "./Site_Projects/12-Marz-Brewing/Marz-13-desktop.webp";
+import marz14 from "./Site_Projects/12-Marz-Brewing/Marz-14-desktop.webp";
+import marz15 from "./Site_Projects/12-Marz-Brewing/Marz-15-desktop.webp";
+import marz16 from "./Site_Projects/12-Marz-Brewing/Marz-16-desktop.webp";
+import marz17 from "./Site_Projects/12-Marz-Brewing/Marz-17-desktop.webp";
+import marz18 from "./Site_Projects/12-Marz-Brewing/Marz-18-desktop.webp";
 
 //milwaukee imports
 import milwaukee01 from "./Site_Projects/07-Milwaukee/Milwaukee-01-desktop.webp";
