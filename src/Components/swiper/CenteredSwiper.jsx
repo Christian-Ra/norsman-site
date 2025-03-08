@@ -32,7 +32,9 @@ export default function CenteredSwiper({ photos, videos }) {
       >
         {photos.map((src, index) => (
           <SwiperSlide className="centered-slide" key={index}>
-            <img src={src} alt={`Slide ${index + 1}`} loading="lazy" />
+            <img src={src} alt={`Slide ${index + 1}`}
+            //  loading="lazy"
+              />
           </SwiperSlide>
         ))}
         {videos &&

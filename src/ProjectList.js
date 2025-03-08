@@ -20,18 +20,18 @@ import wrigley18 from "./Site_Projects/03-Bosworth/Wrigleyville-18-desktop.webp"
 import wrigley19 from "./Site_Projects/03-Bosworth/Wrigleyville-19-desktop.webp";
 
 //Caffe-Streets imports
-import caffe01 from "./Site_Projects/18-Caffe-Streets/Caffe-S-01.webp";
-import caffe02 from "./Site_Projects/18-Caffe-Streets/Caffe-S-02.webp";
-import caffe03 from "./Site_Projects/18-Caffe-Streets/Caffe-S-03.webp";
-import caffe04 from "./Site_Projects/18-Caffe-Streets/Caffe-S-04.webp";
-import caffe05 from "./Site_Projects/18-Caffe-Streets/Caffe-S-05.webp";
-import caffe06 from "./Site_Projects/18-Caffe-Streets/Caffe-S-06.webp";
-import caffe07 from "./Site_Projects/18-Caffe-Streets/Caffe-S-07.webp";
-import caffe08 from "./Site_Projects/18-Caffe-Streets/Caffe-S-08.webp";
-import caffe09 from "./Site_Projects/18-Caffe-Streets/Caffe-S-09.webp";
-import caffe10 from "./Site_Projects/18-Caffe-Streets/Caffe-S-10.webp";
-import caffe11 from "./Site_Projects/18-Caffe-Streets/Caffe-S-11.webp";
-import caffe12 from "./Site_Projects/18-Caffe-Streets/Caffe-S-12.webp";
+import caffe01 from "./Site_Projects/18-Caffe-Streets/Caffe-S-01-desktop.webp";
+import caffe02 from "./Site_Projects/18-Caffe-Streets/Caffe-S-02-desktop.webp";
+import caffe03 from "./Site_Projects/18-Caffe-Streets/Caffe-S-03-desktop.webp";
+import caffe04 from "./Site_Projects/18-Caffe-Streets/Caffe-S-04-desktop.webp";
+import caffe05 from "./Site_Projects/18-Caffe-Streets/Caffe-S-05-desktop.webp";
+import caffe06 from "./Site_Projects/18-Caffe-Streets/Caffe-S-06-desktop.webp";
+import caffe07 from "./Site_Projects/18-Caffe-Streets/Caffe-S-07-desktop.webp";
+import caffe08 from "./Site_Projects/18-Caffe-Streets/Caffe-S-08-desktop.webp";
+import caffe09 from "./Site_Projects/18-Caffe-Streets/Caffe-S-09-desktop.webp";
+import caffe10 from "./Site_Projects/18-Caffe-Streets/Caffe-S-10-desktop.webp";
+import caffe11 from "./Site_Projects/18-Caffe-Streets/Caffe-S-11-desktop.webp";
+import caffe12 from "./Site_Projects/18-Caffe-Streets/Caffe-S-12-desktop.webp";
 
 //division imports
 import division01 from "./Site_Projects/02-Division/Division-01-desktop.webp";
@@ -76,17 +76,17 @@ import hermitage11 from "./Site_Projects/16-Hermitage/Hermitage-11-desktop.webp"
 import hermitage12 from "./Site_Projects/16-Hermitage/Hermitage-12-desktop.webp";
 
 //Hoffman Estates Imports
-import hoffman01 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-01.webp";
-import hoffman02 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-02.webp";
-import hoffman03 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-03.webp";
-import hoffman04 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-04.webp";
-import hoffman05 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-05.webp";
-import hoffman06 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-06.webp";
-import hoffman07 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-07.webp";
-import hoffman08 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-08.webp";
-import hoffman09 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-09.webp";
-import hoffman10 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-10.webp";
-import hoffman11 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-11.webp";
+import hoffman01 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-01-desktop.webp";
+import hoffman02 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-02-desktop.webp";
+import hoffman03 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-03-desktop.webp";
+import hoffman04 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-04-desktop.webp";
+import hoffman05 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-05-desktop.webp";
+import hoffman06 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-06-desktop.webp";
+import hoffman07 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-07-desktop.webp";
+import hoffman08 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-08-desktop.webp";
+import hoffman09 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-09-desktop.webp";
+import hoffman10 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-10-desktop.webp";
+import hoffman11 from "./Site_Projects/21-Hoffman-States-Clubhouse/Hoffman-11-desktop.webp";
 
 //Kimbark imports
 import kimbark01 from "./Site_Projects/04-Kimbark/Kimbark-01-desktop.webp";
@@ -135,22 +135,22 @@ import leavittI16 from "./Site_Projects/10-Leavitt-I/Leavitt3-16-desktop.webp";
 import leavittI17 from "./Site_Projects/10-Leavitt-I/Leavitt3-17-desktop.webp";
 
 // Leavitt-House II imports
-import leavittII01 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-01.webp";
-import leavittII02 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-02.webp";
-import leavittII03 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-03.webp";
-import leavittII04 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-04.webp";
-import leavittII05 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-05.webp";
-import leavittII06 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-06.webp";
-import leavittII07 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-07.webp";
-import leavittII08 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-08.webp";
-import leavittII09 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-09.webp";
-import leavittII10 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-10.webp";
-import leavittII11 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-11.webp";
-import leavittII12 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-12.webp";
-import leavittII13 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-13.webp";
-import leavittII14 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-14.webp";
-import leavittII15 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-15.webp";
-import leavittII16 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-16.webp";
+import leavittII01 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-01-desktop.webp";
+import leavittII02 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-02-desktop.webp";
+import leavittII03 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-03-desktop.webp";
+import leavittII04 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-04-desktop.webp";
+import leavittII05 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-05-desktop.webp";
+import leavittII06 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-06-desktop.webp";
+import leavittII07 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-07-desktop.webp";
+import leavittII08 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-08-desktop.webp";
+import leavittII09 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-09-desktop.webp";
+import leavittII10 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-10-desktop.webp";
+import leavittII11 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-11-desktop.webp";
+import leavittII12 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-12-desktop.webp";
+import leavittII13 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-13-desktop.webp";
+import leavittII14 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-14-desktop.webp";
+import leavittII15 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-15-desktop.webp";
+import leavittII16 from "./Site_Projects/20-Leavitt-House-II/Leavitt-House-I-16-desktop.webp";
 
 //Maria's imports
 import marias01 from "./Site_Projects/11-Maria_s/Maria_s-01-desktop.webp";
@@ -208,19 +208,19 @@ import newCity09 from "./Site_Projects/05-New-City-Moving-Company/New-City-Movin
 import newCity10 from "./Site_Projects/05-New-City-Moving-Company/New-City-Moving-10-desktop.webp";
 
 //noninas imports
-import nonnina01 from "./Site_Projects/17-Nonnina_s/Nonnina-01.webp";
-import nonnina02 from "./Site_Projects/17-Nonnina_s/Nonnina-02.webp";
-import nonnina03 from "./Site_Projects/17-Nonnina_s/Nonnina-03.webp";
-import nonnina04 from "./Site_Projects/17-Nonnina_s/Nonnina-04.webp";
-import nonnina05 from "./Site_Projects/17-Nonnina_s/Nonnina-05.webp";
-import nonnina06 from "./Site_Projects/17-Nonnina_s/Nonnina-06.webp";
-import nonnina07 from "./Site_Projects/17-Nonnina_s/Nonnina-07.webp";
-import nonnina08 from "./Site_Projects/17-Nonnina_s/Nonnina-08.webp";
-import nonnina09 from "./Site_Projects/17-Nonnina_s/Nonnina-09.webp";
-import nonnina10 from "./Site_Projects/17-Nonnina_s/Nonnina-10.webp";
-import nonnina11 from "./Site_Projects/17-Nonnina_s/Nonnina-11.webp";
-import nonnina12 from "./Site_Projects/17-Nonnina_s/Nonnina-12.webp";
-import nonnina13 from "./Site_Projects/17-Nonnina_s/Nonnina-13.webp";
+import nonnina01 from "./Site_Projects/17-Nonnina_s/Nonnina-01-desktop.webp";
+import nonnina02 from "./Site_Projects/17-Nonnina_s/Nonnina-02-desktop.webp";
+import nonnina03 from "./Site_Projects/17-Nonnina_s/Nonnina-03-desktop.webp";
+import nonnina04 from "./Site_Projects/17-Nonnina_s/Nonnina-04-desktop.webp";
+import nonnina05 from "./Site_Projects/17-Nonnina_s/Nonnina-05-desktop.webp";
+import nonnina06 from "./Site_Projects/17-Nonnina_s/Nonnina-06-desktop.webp";
+import nonnina07 from "./Site_Projects/17-Nonnina_s/Nonnina-07-desktop.webp";
+import nonnina08 from "./Site_Projects/17-Nonnina_s/Nonnina-08-desktop.webp";
+import nonnina09 from "./Site_Projects/17-Nonnina_s/Nonnina-09-desktop.webp";
+import nonnina10 from "./Site_Projects/17-Nonnina_s/Nonnina-10-desktop.webp";
+import nonnina11 from "./Site_Projects/17-Nonnina_s/Nonnina-11-desktop.webp";
+import nonnina12 from "./Site_Projects/17-Nonnina_s/Nonnina-12-desktop.webp";
+import nonnina13 from "./Site_Projects/17-Nonnina_s/Nonnina-13-desktop.webp";
 
 //Potomac imports
 import potomac01 from "./Site_Projects/09-Potomac/Potomac-01-desktop.webp";
@@ -239,16 +239,16 @@ import potomac13 from "./Site_Projects/09-Potomac/Potomac-13-desktop.webp";
 import potomac14 from "./Site_Projects/09-Potomac/Potomac-14-desktop.webp";
 
 //Ridge imports
-import ridge01 from "./Site_Projects/19-Ridge/Ridge-01.webp";
-import ridge02 from "./Site_Projects/19-Ridge/Ridge-02.webp";
-import ridge03 from "./Site_Projects/19-Ridge/Ridge-03.webp";
-import ridge04 from "./Site_Projects/19-Ridge/Ridge-04.webp";
-import ridge05 from "./Site_Projects/19-Ridge/Ridge-05.webp";
-import ridge06 from "./Site_Projects/19-Ridge/Ridge-06.webp";
-import ridge07 from "./Site_Projects/19-Ridge/Ridge-07.webp";
-import ridge08 from "./Site_Projects/19-Ridge/Ridge-08.webp";
-import ridge09 from "./Site_Projects/19-Ridge/Ridge-09.webp";
-import ridge10 from "./Site_Projects/19-Ridge/Ridge-10.webp";
+import ridge01 from "./Site_Projects/19-Ridge/Ridge-01-desktop.webp";
+import ridge02 from "./Site_Projects/19-Ridge/Ridge-02-desktop.webp";
+import ridge03 from "./Site_Projects/19-Ridge/Ridge-03-desktop.webp";
+import ridge04 from "./Site_Projects/19-Ridge/Ridge-04-desktop.webp";
+import ridge05 from "./Site_Projects/19-Ridge/Ridge-05-desktop.webp";
+import ridge06 from "./Site_Projects/19-Ridge/Ridge-06-desktop.webp";
+import ridge07 from "./Site_Projects/19-Ridge/Ridge-07-desktop.webp";
+import ridge08 from "./Site_Projects/19-Ridge/Ridge-08-desktop.webp";
+import ridge09 from "./Site_Projects/19-Ridge/Ridge-09-desktop.webp";
+import ridge10 from "./Site_Projects/19-Ridge/Ridge-10-desktop.webp";
 
 //St.Croix imports
 import stcroix01 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-01-desktop.webp";
@@ -264,7 +264,7 @@ import stcroix10 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix
 import stcroix11 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-11-desktop.webp";
 import stcroix12 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-12-desktop.webp";
 import stcroix13 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13-desktop.webp";
-import stcroix14 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-13-desktop.webp";
+import stcroix14 from "./Site_Projects/15-St-Croix-Falls-Public-Library/St-Croix-Falls-14-desktop.webp";
 
 //Wicker Park imports
 import wickerPark01 from "./Site_Projects/13-Wicker-Park/Wicker-01-desktop.webp";
