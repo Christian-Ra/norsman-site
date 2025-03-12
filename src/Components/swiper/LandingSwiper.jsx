@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useRef, useEffect } from "react";
 // Import Swiper React components
 import { Swiper, SwiperSlide } from "swiper/react";
 
@@ -17,16 +17,41 @@ function randomInt(max) {
 }
 
 export default function LandingSwiper({ landingImages }) {
+  const swiperRef = useRef(null);
+
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          swiperRef.current.swiper.autoplay.start();
+        } else {
+          swiperRef.current.swiper.autoplay.stop();
+        }
+      },
+      { threshold: 0.1 }
+    );
+
+    if (swiperRef.current) {
+      observer.observe(swiperRef.current);
+    }
+
+    return () => {
+      if (swiperRef.current) {
+        observer.unobserve(swiperRef.current);
+      }
+    };
+  }, []);
+
   if (!landingImages) return null;
 
   return (
     <>
       <Swiper
+        ref={swiperRef}
         spaceBetween={30}
         effect={"fade"}
         centeredSlides={true}
         loop={true}
-        // crossFade={true}
         initialSlide={randomInt(landingImages.length)}
         keyboard={{
           enabled: true,
@@ -40,7 +65,6 @@ export default function LandingSwiper({ landingImages }) {
       >
         {landingImages.map((slide, index) => (
           <SwiperSlide className="landing-slide" key={index}>
-            {/* <img src={slide} alt={`Slide: ${index + 1}`} loading="lazy"></img> */}
             <img srcSet={`
             ${slide.desktop} 1920w,
             ${slide.mobile} 800w,
