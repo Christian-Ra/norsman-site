@@ -7,6 +7,7 @@ import ProjectDescription from "../description/ProjectDescription";
 import { useNavigate, useParams } from "react-router-dom";
 import ErrorPage from "../../ErrorPage";
 import { Projects as projects } from "../../ProjectList";
+import { Helmet } from "react-helmet-async";
 
 export default function ProjectPage() {
   // const match = useMatch("/norsman-site/projects/:title");
@@ -26,6 +27,11 @@ export default function ProjectPage() {
   }
   return (
     <motion.div className="project-page-container" exit={{ opacity: 0 }}>
+      <Helmet>
+        <title>{currentProject.title} - Norsman Projects</title>
+        <link rel="canonical" href={`https://norsmanarchitects.com/projects/${currentProject.title}`} />
+        <meta name="description" content={currentProject.subHeading} />
+      </Helmet>
       <section>
         <CenteredSwiper
           photos={currentProject.photos}

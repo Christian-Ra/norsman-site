@@ -1,10 +1,16 @@
 import React from "react";
 import "./Contact.scss";
 import { motion } from "framer-motion";
+import { Helmet } from "react-helmet-async";
 
 export default function Contact() {
   return (
     <motion.div exit={{ opacity: 0 }} className="contact-page">
+      <Helmet>
+        <title>Contact - Norsman Architects</title>
+        <link rel="canonical" href="https://norsmanarchitects.com/contact" />
+        <meta name="description" content="Contact Norsman Architects." />
+      </Helmet>
       <div className="contact-container">
         <h1 style={{ cursor: "default" }}>Contact Us:</h1>
         <p>Phone: + 1-773-252-9448</p>

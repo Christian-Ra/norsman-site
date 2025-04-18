@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
 import App from "./App";
+import { HelmetProvider } from "react-helmet-async";
 import { BrowserRouter as Router } from "react-router-dom";
 import ScrollToTop from "./ScrollToTop";
 // import MenuBar from "./Components/menu/MenuBar";
@@ -8,10 +9,12 @@ import ScrollToTop from "./ScrollToTop";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   // <RouterProvider router={router}>
-  <Router>
-    <ScrollToTop />
-    <App />
-  </Router>
+  <HelmetProvider>
+    <Router>
+      <ScrollToTop />
+      <App />
+    </Router>
+  </HelmetProvider>
   // {/* </RouterProvider> */}
 );
 

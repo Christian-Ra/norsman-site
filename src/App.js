@@ -3,6 +3,7 @@ import {
   Routes,
   Route,
   useLocation,
+  Navigate,
   // ScrollRestoration,
 } from "react-router-dom";
 import MenuBar from "./Components/menu/MenuBar";
@@ -39,7 +40,13 @@ function App() {
           <Route path='/about' element={<About />}></Route>
           <Route path='/' element={<HomePage />}></Route>
 
-          <Route path='*' element={<ErrorPage />}></Route>
+          {/*redirects*/}
+          <Route
+            path='key-personnel'
+            element={<Navigate to='/about' replace />}
+          ></Route>
+
+          <Route path='*' element={<Navigate to='/' replace />}></Route>
         </Routes>
         {/* <ScrollRestoration
           getKey={(location, matches) => {
